@@ -1,0 +1,86 @@
+name: "🐞 Bug report"
+description: Something isn't working — a crash, an error message, or a mod that misbehaves.
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report a bug! Please check
+        [TROUBLESHOOTING.md](../blob/main/TROUBLESHOOTING.md) first — it covers the
+        most common issues (the .NET runtime, missing components, FTP, silent mods).
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: A clear description of the problem, and what you expected instead.
+      placeholder: When I click Convert, ...
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Paste this link: ...
+        2. Pick slot ...
+        3. Set loop ...
+        4. Click Convert
+    validations:
+      required: true
+  - type: textarea
+    id: error-text
+    attributes:
+      label: Exact error text / dialog
+      description: Copy the full message, or attach a screenshot. If you built from source, paste the console output.
+      render: text
+    validations:
+      required: false
+  - type: dropdown
+    id: install-type
+    attributes:
+      label: How did you install it?
+      options:
+        - Installer (YouTubeToSmash-Setup.exe)
+        - Linux tarball
+        - Built from source
+    validations:
+      required: true
+  - type: input
+    id: os
+    attributes:
+      label: Operating system & version
+      placeholder: "Windows 11 23H2 / Ubuntu 22.04"
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: App version / release tag
+      placeholder: "v1.0.0"
+    validations:
+      required: true
+  - type: dropdown
+    id: stage
+    attributes:
+      label: Which stage failed?
+      options:
+        - "Not sure"
+        - "Downloading audio"
+        - "Normalising audio / volume"
+        - "Loop points"
+        - "Encoding Opus (VGAudio)"
+        - "Packaging .nus3audio"
+        - "Uploading to Switch (FTP)"
+        - "In-game (wrong/silent song)"
+    validations:
+      required: false
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Before submitting
+      options:
+        - label: I'm on the latest release.
+          required: true
+        - label: I checked TROUBLESHOOTING.md and existing issues.
+          required: true

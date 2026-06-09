@@ -1,0 +1,18 @@
+# Build-time dependencies for freezing the Windows EXE.
+# Install on a Windows machine with:  pip install -r requirements-build.txt
+#
+# Use Python 3.11 or 3.12 (NOT 3.13+): pydub relies on the stdlib `audioop`
+# module, which was removed in Python 3.13.
+
+# Runtime libraries the app imports
+PySide6>=6.5
+yt-dlp
+pydub
+numpy
+
+# Packager
+pyinstaller>=6.0
+
+# The external command-line tools (ffmpeg/ffprobe, VGAudioCli, nus3audio) are
+# NOT pip packages — download their Windows binaries into bin/ (see bin/README.txt).
+# Inno Setup is a separate install: https://jrsoftware.org/isdl.php

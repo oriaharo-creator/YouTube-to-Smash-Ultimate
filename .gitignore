@@ -1,0 +1,44 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# --- PyInstaller build output ---
+build/
+dist/
+*.manifest
+
+# --- Inno Setup output ---
+installer/Output/
+
+# --- Release artifacts (built locally or by CI; never committed) ---
+YouTubeToSmash-*.zip
+*-windows-x64.zip
+*-linux-x86_64.tar.gz
+
+# --- Bundled binaries (download per bin/README.txt; do NOT commit) ---
+# These are large third-party tools with their own licenses; keep them out of git.
+bin/*
+!bin/README.txt
+
+# --- Optional branding artifact ---
+assets/app.ico
+assets/app.png
+
+# --- App runtime data written by users ---
+modded_songs.json
+
+# --- Diagnostic / scratch outputs (e.g. from diag_tools.bat) ---
+test.wav
+test.lopus
+test.nus3audio
+
+# --- OS / editor cruft ---
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp

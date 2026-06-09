@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 📖 Troubleshooting guide
+    url: https://github.com/oriaharo-creator/YouTube-to-Smash-Ultimate/blob/main/TROUBLESHOOTING.md
+    about: Most common problems (the .NET runtime, missing components, FTP, silent mods) are solved here.
+  - name: 💬 Questions & ideas
+    url: https://github.com/oriaharo-creator/YouTube-to-Smash-Ultimate/discussions
+    about: For general questions and discussion, please use Discussions instead of an issue.

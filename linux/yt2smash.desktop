@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Application
+Name=YouTube to Smash Ultimate
+Comment=Convert YouTube links into Smash Ultimate .nus3audio music files
+Exec=__EXEC__
+Icon=__ICON__
+Terminal=false
+Categories=AudioVideo;Audio;Utility;
+Keywords=smash;ultimate;nus3audio;arcropolis;youtube;music;mod;

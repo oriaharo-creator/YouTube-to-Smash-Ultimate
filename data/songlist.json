@@ -1,0 +1,6824 @@
+[
+ {
+  "name": "Menu - Super Smash Bros. for 3DS / Wii U",
+  "id": "crs01_menu",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_crs01_menu"
+ },
+ {
+  "name": "Battlefield - Super Smash Bros. for 3DS / Wii U",
+  "id": "crs02_senjyou",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_crs02_senjyou"
+ },
+ {
+  "name": "Lifelight (JP)",
+  "id": "crs2_00a_maintheme_jp",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_crs2_00a_maintheme_jp"
+ },
+ {
+  "name": "Lifelight",
+  "id": "crs2_00b_maintheme_en",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_crs2_00b_maintheme_en"
+ },
+ {
+  "name": "Menu",
+  "id": "crs2_01_menu",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_crs2_01_menu"
+ },
+ {
+  "name": "Battlefield",
+  "id": "crs2_02_senjyou",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_crs2_02_senjyou"
+ },
+ {
+  "name": "Final Destination",
+  "id": "crs2_03_shuuten",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_crs2_03_shuuten"
+ },
+ {
+  "name": "Mob Smash",
+  "id": "crs2_04_kumite",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_crs2_04_kumite"
+ },
+ {
+  "name": "Master Hand",
+  "id": "crs2_05_masterhand",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_crs2_05_masterhand"
+ },
+ {
+  "name": "Pre-Match Ambience",
+  "id": "crs2_06_vs_matchup",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_crs2_06_vs_matchup"
+ },
+ {
+  "name": "Tourney: Battle List",
+  "id": "crs2_07_vs_table",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_crs2_07_vs_table"
+ },
+ {
+  "name": "Tourney: Winner Announcement",
+  "id": "crs2_08_vs_victory",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_crs2_08_vs_victory"
+ },
+ {
+  "name": "Training",
+  "id": "crs2_11_trainingstage",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_crs2_11_trainingstage"
+ },
+ {
+  "name": "The Light Realm: Prologue",
+  "id": "crs2_12_adv_map_light",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_crs2_12_adv_map_light"
+ },
+ {
+  "name": "The Light Realm: Base",
+  "id": "crs2_13_adv_map_light_subcommon",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_crs2_13_adv_map_light_subcommon"
+ },
+ {
+  "name": "The Dark Realm",
+  "id": "crs2_14_adv_map_dark",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_crs2_14_adv_map_dark"
+ },
+ {
+  "name": "The Final Battle",
+  "id": "crs2_15_adv_map_final",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_crs2_15_adv_map_final"
+ },
+ {
+  "name": "Classic Mode: Bonus Stage",
+  "id": "crs2_16_bonusstage",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_crs2_16_bonusstage"
+ },
+ {
+  "name": "Galeem",
+  "id": "crs2_17_vs_kiila1",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_crs2_17_vs_kiila1"
+ },
+ {
+  "name": "Dharkon",
+  "id": "crs2_19_vs_darz1",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_crs2_19_vs_darz1"
+ },
+ {
+  "name": "Galeem / Dharkon",
+  "id": "crs2_21_vs_kiila_darz",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_crs2_21_vs_kiila_darz"
+ },
+ {
+  "name": "Free the Spirit!",
+  "id": "crs2_22_spiritsboard_roulette",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_crs2_22_spiritsboard_roulette"
+ },
+ {
+  "name": "Spirits: Collection",
+  "id": "crs2_23_edit_common",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_crs2_23_edit_common"
+ },
+ {
+  "name": "Spirits: Inventory / Items",
+  "id": "crs2_27_spirits_organize",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_crs2_27_spirits_organize"
+ },
+ {
+  "name": "Classic Mode: Mural",
+  "id": "crs2_28_classic_dificulty",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_crs2_28_classic_dificulty"
+ },
+ {
+  "name": "Classic Mode: Defeat",
+  "id": "crs2_31_classic_result_failure",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_crs2_31_classic_result_failure"
+ },
+ {
+  "name": "Classic Mode: Final Results",
+  "id": "crs2_33_classic_result_final",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_crs2_33_classic_result_final"
+ },
+ {
+  "name": "Practice Fights",
+  "id": "crs2_36_simulationstage",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_crs2_36_simulationstage"
+ },
+ {
+  "name": "Spectate",
+  "id": "crs2_38_online_watching",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_crs2_38_online_watching"
+ },
+ {
+  "name": "Vault",
+  "id": "crs2_40_collection",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_crs2_40_collection"
+ },
+ {
+  "name": "Shop",
+  "id": "crs2_41_shop",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_crs2_41_shop"
+ },
+ {
+  "name": "Crazy Hand",
+  "id": "crs2_42_crazyhand",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_crs2_42_crazyhand"
+ },
+ {
+  "name": "Master Hand / Crazy Hand",
+  "id": "crs2_43_masterhand_crazyhand",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_crs2_43_masterhand_crazyhand"
+ },
+ {
+  "name": "The Dark Realm: The Mysterious Space",
+  "id": "crs2_45_adv_map_dark_subcommon",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_crs2_45_adv_map_dark_subcommon"
+ },
+ {
+  "name": "The Final Battle: After the Transformation",
+  "id": "crs2_46_adv_map_final_later",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_crs2_46_adv_map_final_later"
+ },
+ {
+  "name": "Main Theme Piano Solo",
+  "id": "crs2_47_maintheme_piano",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_crs2_47_maintheme_piano"
+ },
+ {
+  "name": "The Light Realm: March",
+  "id": "crs2_48_adv_map_light_later",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_crs2_48_adv_map_light_later"
+ },
+ {
+  "name": "Final Destination - Super Smash Bros. for 3DS / Wii U",
+  "id": "crs03_shuuten",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_crs03_shuuten"
+ },
+ {
+  "name": "Multi-Man Smash",
+  "id": "crs04_kumite",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_crs04_kumite"
+ },
+ {
+  "name": "Master Hand - Super Smash Bros. for 3DS / Wii U",
+  "id": "crs05_masterhand",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_crs05_masterhand"
+ },
+ {
+  "name": "Master Core",
+  "id": "crs06_mastercore",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_crs06_mastercore"
+ },
+ {
+  "name": "Online Practice Stage - Super Smash Bros. for 3DS / Wii U",
+  "id": "crs07_online",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_crs07_online"
+ },
+ {
+  "name": "Classic: Result Screen",
+  "id": "crs11_simple_result",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_crs11_simple_result"
+ },
+ {
+  "name": "Classic: Final Results",
+  "id": "crs12_simple_result_final",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_crs12_simple_result_final"
+ },
+ {
+  "name": "Classic: Fail",
+  "id": "crs13_simple_result_failure",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_crs13_simple_result_failure"
+ },
+ {
+  "name": "All-Star Rest Area - Super Smash Bros. for 3DS / Wii U",
+  "id": "crs15_rest",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_crs15_rest"
+ },
+ {
+  "name": "Gallery/Hoard",
+  "id": "crs18_figuremeikan",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_crs18_figuremeikan"
+ },
+ {
+  "name": "Trophy Shop",
+  "id": "crs19_figureshop",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_crs19_figureshop"
+ },
+ {
+  "name": "Trophy Rush",
+  "id": "crs20_figurerush",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_crs20_figurerush"
+ },
+ {
+  "name": "Replay/Album/Records",
+  "id": "crs21_album",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_crs21_album"
+ },
+ {
+  "name": "StreetSmash",
+  "id": "crs22_surechigaidairantou",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_crs22_surechigaidairantou"
+ },
+ {
+  "name": "Results Screen",
+  "id": "crs24_vs_result",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_crs24_vs_result"
+ },
+ {
+  "name": "Credits - Super Smash Bros. for 3DS / Wii U",
+  "id": "crs25_staffroll",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_crs25_staffroll"
+ },
+ {
+  "name": "Final Destination Ver. 2",
+  "id": "crs26_shuuten_ver2",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_crs26_shuuten_ver2"
+ },
+ {
+  "name": "Master Fortress: First Wave",
+  "id": "crs27_masterfortress01",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_crs27_masterfortress01"
+ },
+ {
+  "name": "Master Fortress: Second Wave",
+  "id": "crs28_masterfortress02",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_crs28_masterfortress02"
+ },
+ {
+  "name": "Smash Tour: Map",
+  "id": "crs31_world_map",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_crs31_world_map"
+ },
+ {
+  "name": "Events",
+  "id": "crs36_tournament_table",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_crs36_tournament_table"
+ },
+ {
+  "name": "Master Orders: Ticket Selection",
+  "id": "crs39_order_masterside",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_crs39_order_masterside"
+ },
+ {
+  "name": "How to Play - Super Smash Bros. Melee",
+  "id": "crs23_asobikata",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_crs23_asobikata"
+ },
+ {
+  "name": "Credits - Super Smash Bros. (Brawl)",
+  "id": "t01_sb_staffroll",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_t01_sb_staffroll"
+ },
+ {
+  "name": "Credits - Super Smash Bros. (for 3DS / Wii U)",
+  "id": "t07_sb_staffroll",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_t07_sb_staffroll"
+ },
+ {
+  "name": "How to Play - Super Smash Bros.",
+  "id": "t17_sb_howtoplay",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_t17_sb_howtoplay"
+ },
+ {
+  "name": "Menu - Super Smash Bros.",
+  "id": "t18_sb_menu",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_t18_sb_menu"
+ },
+ {
+  "name": "Training Mode",
+  "id": "t19_sb_trainingmode",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_t19_sb_trainingmode"
+ },
+ {
+  "name": "Fighter Selection - Super Smash Bros.",
+  "id": "t21_sb_characterselect",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_t21_sb_characterselect"
+ },
+ {
+  "name": "Meta Crystal - Super Smash Bros.",
+  "id": "t22_sb_metacristal",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_t22_sb_metacristal"
+ },
+ {
+  "name": "Bonus Game",
+  "id": "t23_sb_bonusgame",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_t23_sb_bonusgame"
+ },
+ {
+  "name": "Duel Zone",
+  "id": "t24_sb_duelzone",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_t24_sb_duelzone"
+ },
+ {
+  "name": "Final Destination - Super Smash Bros.",
+  "id": "t25_sb_shuuten",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_t25_sb_shuuten"
+ },
+ {
+  "name": "Credits - Super Smash Bros.",
+  "id": "t27_sb_ending_staffroll",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_t27_sb_ending_staffroll"
+ },
+ {
+  "name": "Battlefield - Super Smash Bros. Melee",
+  "id": "w21_sbdx_senjyou",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_w21_sbdx_senjyou"
+ },
+ {
+  "name": "Multi-Man Melee",
+  "id": "w23_sbdx_hyakuninkumite",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_w23_sbdx_hyakuninkumite"
+ },
+ {
+  "name": "Final Destination - Super Smash Bros. Melee",
+  "id": "w25_sbdx_shuuten",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_w25_sbdx_shuuten"
+ },
+ {
+  "name": "Menu - Super Smash Bros. Melee",
+  "id": "w30_sbdx_menu",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_w30_sbdx_menu"
+ },
+ {
+  "name": "Giga Bowser",
+  "id": "w31_sbdx_gigakoopa",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_w31_sbdx_gigakoopa"
+ },
+ {
+  "name": "Menu 2 - Super Smash Bros. Melee",
+  "id": "w33_sbdx_menu2",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_w33_sbdx_menu2"
+ },
+ {
+  "name": "Menu - Super Smash Bros. Melee (Brawl)",
+  "id": "w34_sbdx_menu",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_w34_sbdx_menu"
+ },
+ {
+  "name": "Battlefield - Super Smash Bros. Melee (for 3DS / Wii U)",
+  "id": "w35_sbdx_menu_ver2",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_w35_sbdx_menu_ver2"
+ },
+ {
+  "name": "Multi-Man Melee 2",
+  "id": "w39_sbdx_hyakuninkumite2",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_w39_sbdx_hyakuninkumite2"
+ },
+ {
+  "name": "Metal Battle - Trophies",
+  "id": "w40_sbdx_metalbattle",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_w40_sbdx_metalbattle"
+ },
+ {
+  "name": "Trophies",
+  "id": "w41_sbdx_figuremeikan",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_w41_sbdx_figuremeikan"
+ },
+ {
+  "name": "All-Star Intro",
+  "id": "w42_sbdx_rest",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_w42_sbdx_rest"
+ },
+ {
+  "name": "Opening - Super Smash Bros. Melee",
+  "id": "w43_sbdx_opening",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_w43_sbdx_opening"
+ },
+ {
+  "name": "Targets!",
+  "id": "w44_sbdx_targetwokowase",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_w44_sbdx_targetwokowase"
+ },
+ {
+  "name": "Tournament",
+  "id": "w45_sbdx_tornament1",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_w45_sbdx_tornament1"
+ },
+ {
+  "name": "Tournament 2",
+  "id": "w46_sbdx_tornament2",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_w46_sbdx_tornament2"
+ },
+ {
+  "name": "How to Play - Super Smash Bros. Melee",
+  "id": "w48_sbdx_asobikata",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_w48_sbdx_asobikata"
+ },
+ {
+  "name": "Opening - Super Smash Bros. Melee (Brawl)",
+  "id": "w49_sbdx_opening",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_w49_sbdx_opening"
+ },
+ {
+  "name": "Main Theme - Super Smash Bros. Brawl",
+  "id": "x01_sbx_maintheme",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_x01_sbx_maintheme"
+ },
+ {
+  "name": "Menu - Super Smash Bros. Brawl",
+  "id": "x02_sbx_menu1",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_x02_sbx_menu1"
+ },
+ {
+  "name": "Battlefield - Super Smash Bros. Brawl",
+  "id": "x04_sbx_senjyou",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_x04_sbx_senjyou"
+ },
+ {
+  "name": "Final Destination - Super Smash Bros. Brawl",
+  "id": "x05_sbx_shuuten",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_x05_sbx_shuuten"
+ },
+ {
+  "name": "Online Practice Stage - Super Smash Bros. Brawl",
+  "id": "x07_sbx_onlinerenshuustage",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_x07_sbx_onlinerenshuustage"
+ },
+ {
+  "name": "Tournament Registration",
+  "id": "x09_sbx_tornament_entry",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_x09_sbx_tornament_entry"
+ },
+ {
+  "name": "Tournament Grid",
+  "id": "x10_sbx_tornament_table",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_x10_sbx_tornament_table"
+ },
+ {
+  "name": "Tournament Match End",
+  "id": "x11_sbx_tornament_finish",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_x11_sbx_tornament_finish"
+ },
+ {
+  "name": "All-Star Rest Area - Super Smash Bros. Brawl",
+  "id": "x15_sbx_rest",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_x15_sbx_rest"
+ },
+ {
+  "name": "Home-Run Contest",
+  "id": "x16_sbx_homeruncontest",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_x16_sbx_homeruncontest"
+ },
+ {
+  "name": "Cruel Smash",
+  "id": "x17_sbx_nasakemuyoukumite",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_x17_sbx_nasakemuyoukumite"
+ },
+ {
+  "name": "Boss Battle - Super Smash Bros. Brawl",
+  "id": "x18_sbx_bossbattle",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_x18_sbx_bossbattle"
+ },
+ {
+  "name": "Trophy Gallery",
+  "id": "x19_sbx_figuremeikan",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_x19_sbx_figuremeikan"
+ },
+ {
+  "name": "Sticker Album / Album / Chronicle",
+  "id": "x20_sealmeikan",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_x20_sealmeikan"
+ },
+ {
+  "name": "Coin Launcher",
+  "id": "x21_coinshooter",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_x21_coinshooter"
+ },
+ {
+  "name": "Stage Builder",
+  "id": "x23_stageedit",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_x23_stageedit"
+ },
+ {
+  "name": "Battlefield Ver. 2 - Super Smash Bros. Brawl",
+  "id": "x25_sbx_senjyou_ver2",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_x25_sbx_senjyou_ver2"
+ },
+ {
+  "name": "Target Smash!!",
+  "id": "x26_sbx_targetwokowase",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_x26_sbx_targetwokowase"
+ },
+ {
+  "name": "Credits - Super Smash Bros. Brawl",
+  "id": "x27_sbx_staffroll",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_x27_sbx_staffroll"
+ },
+ {
+  "name": "Adventure Map",
+  "id": "y01_sbx_adv_map",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_y01_sbx_adv_map"
+ },
+ {
+  "name": "Step: The Plain",
+  "id": "y02_sbx_step_heichi",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_y02_sbx_step_heichi"
+ },
+ {
+  "name": "Step: Subspace",
+  "id": "y04_sbx_step_akuukan",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_y04_sbx_step_akuukan"
+ },
+ {
+  "name": "Boss Battle Song 1",
+  "id": "y05_sbx_bosssentoukyoku1",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_y05_sbx_bosssentoukyoku1"
+ },
+ {
+  "name": "Boss Battle Song 2",
+  "id": "y07_sbx_bosssentoukyoku2",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_y07_sbx_bosssentoukyoku2"
+ },
+ {
+  "name": "Step: Subspace Ver. 3",
+  "id": "y15_sbx_step_akuukan_ver3",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_y15_sbx_step_akuukan_ver3"
+ },
+ {
+  "name": "Ground Theme - Super Mario Bros. (Brawl)",
+  "id": "a01_smb_chijyou",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_a01_smb_chijyou"
+ },
+ {
+  "name": "Underground Theme - Super Mario Bros.",
+  "id": "a02_smb_chika",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_a02_smb_chika"
+ },
+ {
+  "name": "Underwater Theme - Super Mario Bros.",
+  "id": "a03_smb_suichu",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_a03_smb_suichu"
+ },
+ {
+  "name": "Underground Theme - Super Mario Land",
+  "id": "a04_lnd_chika",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_a04_lnd_chika"
+ },
+ {
+  "name": "Airship Theme - Super Mario Bros. 3",
+  "id": "a05_smb3_hikousen",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_a05_smb3_hikousen"
+ },
+ {
+  "name": "Castle / Fortress Boss - Super Mario World / SMB 3",
+  "id": "a06_wld_castle_toride",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_a06_wld_castle_toride"
+ },
+ {
+  "name": "Title/Ending - Super Mario World",
+  "id": "a07_wld_title_ending",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_a07_wld_title_ending"
+ },
+ {
+  "name": "Main Theme - New Super Mario Bros.",
+  "id": "a08_new_maintheme",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_a08_new_maintheme"
+ },
+ {
+  "name": "Main Theme - Luigi's Mansion (Brawl)",
+  "id": "a09_lm_theme",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_a09_lm_theme"
+ },
+ {
+  "name": "Gritzy Desert",
+  "id": "a10_malrpg2_zarazarasabaku",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_a10_malrpg2_zarazarasabaku"
+ },
+ {
+  "name": "Delfino Plaza",
+  "id": "a13_sms_dolpiktown",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_a13_sms_dolpiktown"
+ },
+ {
+  "name": "Ricco Harbor",
+  "id": "a14_sms_riccoharbor",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_a14_sms_riccoharbor"
+ },
+ {
+  "name": "Main Theme - Super Mario 64",
+  "id": "a15_sm64_maintheme",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_a15_sm64_maintheme"
+ },
+ {
+  "name": "Mario Bros.",
+  "id": "a17_mb_mariobrothers",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_a17_mb_mariobrothers"
+ },
+ {
+  "name": "Ground Theme / Underground Theme - Super Mario Bros.",
+  "id": "a24_smb_chijyou_chika",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_a24_smb_chijyou_chika"
+ },
+ {
+  "name": "Super Mario Bros. 3 Medley - a25_smb3_medley",
+  "id": "a25_smb3_medley",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_a25_smb3_medley"
+ },
+ {
+  "name": "Athletic Theme - New Super Mario Bros. 2",
+  "id": "a26_new2_athletic_chijyou",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_a26_new2_athletic_chijyou"
+ },
+ {
+  "name": "Ground Theme / Underwater Theme - Super Mario 3D Land",
+  "id": "a27_3dl_smb_theme",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_a27_3dl_smb_theme"
+ },
+ {
+  "name": "Try, Try Again",
+  "id": "a28_malrpg4_tryandtry",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_a28_malrpg4_tryandtry"
+ },
+ {
+  "name": "Paper Mario Medley",
+  "id": "a29_ppm_medley",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_a29_ppm_medley"
+ },
+ {
+  "name": "Super Mario Bros. Medley",
+  "id": "a32_smb_medley",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_a32_smb_medley"
+ },
+ {
+  "name": "Super Mario Bros.: The Lost Levels Medley",
+  "id": "a33_smb2_medley",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_a33_smb2_medley"
+ },
+ {
+  "name": "Fortress Boss - Super Mario World",
+  "id": "a34_new2_touboss",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_a34_new2_touboss"
+ },
+ {
+  "name": "Super Mario World Medley",
+  "id": "a35_wld_medley",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_a35_wld_medley"
+ },
+ {
+  "name": "Egg Planet",
+  "id": "a38_glx_eggplanet",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_a38_glx_eggplanet"
+ },
+ {
+  "name": "Rosalina in the Observatory / Luma's Theme",
+  "id": "a39_glx_tenmondainorosetta",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_a39_glx_tenmondainorosetta"
+ },
+ {
+  "name": "Chill (for 3DS / Wii U)",
+  "id": "a40_drm_chill_ver2",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_a40_drm_chill_ver2"
+ },
+ {
+  "name": "Mario Paint Medley",
+  "id": "a41_mpt_medley",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_a41_mpt_medley"
+ },
+ {
+  "name": "Luigi's Mansion Series Medley",
+  "id": "a42_lm_medley",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_a42_lm_medley"
+ },
+ {
+  "name": "Ground Theme - New Super Mario Bros. 2",
+  "id": "a44_new2_chijyou",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_a44_new2_chijyou"
+ },
+ {
+  "name": "Ground Theme - New Super Mario Bros. U",
+  "id": "a45_newu_chijyou",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_a45_newu_chijyou"
+ },
+ {
+  "name": "Pandemonium",
+  "id": "a47_pty9_minigame",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_a47_pty9_minigame"
+ },
+ {
+  "name": "Tough Guy Alert!",
+  "id": "a48_malrpg3_choitotsuyoiyatsura",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_a48_malrpg3_choitotsuyoiyatsura"
+ },
+ {
+  "name": "The Grand Finale",
+  "id": "a49_malrpg3_inthefinal",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_a49_malrpg3_inthefinal"
+ },
+ {
+  "name": "Egg Planet",
+  "id": "a54_glx_eggplanet",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_a54_glx_eggplanet"
+ },
+ {
+  "name": "Gusty Garden Galaxy",
+  "id": "a55_glx_windgarden",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_a55_glx_windgarden"
+ },
+ {
+  "name": "Super Mario Galaxy",
+  "id": "a56_glx_supermariogalaxy",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_a56_glx_supermariogalaxy"
+ },
+ {
+  "name": "Sky Station",
+  "id": "a57_glx2_sorajima",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_a57_glx2_sorajima"
+ },
+ {
+  "name": "Bowser's Galaxy Generator",
+  "id": "a58_glx2_shingingateikoku",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_a58_glx2_shingingateikoku"
+ },
+ {
+  "name": "Fated Battle",
+  "id": "a59_glx2_shukumeinokessen",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_a59_glx2_shukumeinokessen"
+ },
+ {
+  "name": "Theme of SMG2",
+  "id": "a60_glx2_themeofsmg2",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_a60_glx2_themeofsmg2"
+ },
+ {
+  "name": "On the Hunt - Gloomy Manor Ver. (Instrumental)",
+  "id": "a62_lm2_urameshiyashiki",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_a62_lm2_urameshiyashiki"
+ },
+ {
+  "name": "Super Bell Hill",
+  "id": "a63_3dw_field01",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_a63_3dw_field01"
+ },
+ {
+  "name": "The Great Tower Showdown 2",
+  "id": "a64_3dw_finkoopa02",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_a64_3dw_finkoopa02"
+ },
+ {
+  "name": "Champion Road",
+  "id": "a65_3dw_milkyway",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_a65_3dw_milkyway"
+ },
+ {
+  "name": "Slide",
+  "id": "a67_sm64_slider",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_a67_sm64_slider"
+ },
+ {
+  "name": "Ground Theme - Super Mario Bros. 2",
+  "id": "a68_musa_chijyou",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_a68_musa_chijyou"
+ },
+ {
+  "name": "Main Theme - Super Mario 64",
+  "id": "a69_sm64_maintheme",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_a69_sm64_maintheme"
+ },
+ {
+  "name": "Title Theme - Super Mario Maker",
+  "id": "a70_smm_title",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_a70_smm_title"
+ },
+ {
+  "name": "Ground Theme - Super Mario Bros.",
+  "id": "a71_smb_chijyou",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_a71_smb_chijyou"
+ },
+ {
+  "name": "Ground Theme - Super Mario World",
+  "id": "a72_wld_chijyou",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_a72_wld_chijyou"
+ },
+ {
+  "name": "Boss Theme - Super Mario Bros. 2",
+  "id": "a74_musa_chijyou_hurryup",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_a74_musa_chijyou_hurryup"
+ },
+ {
+  "name": "Break Free (Lead the Way)",
+  "id": "a75_smo_breakfree",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_a75_smo_breakfree"
+ },
+ {
+  "name": "Underground Moon Caverns",
+  "id": "a76_smo_finaldungeon",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_a76_smo_finaldungeon"
+ },
+ {
+  "name": "Steam Gardens",
+  "id": "a77_smo_forestkingdom",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_a77_smo_forestkingdom"
+ },
+ {
+  "name": "Jump Up, Super Star!",
+  "id": "a78_smo_jumpupsuperstar_full",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_a78_smo_jumpupsuperstar_full"
+ },
+ {
+  "name": "New Donk City",
+  "id": "a79_smo_newdonkcity",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_a79_smo_newdonkcity"
+ },
+ {
+  "name": "Fossil Falls",
+  "id": "a81_smo_waterfallkingdom",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_a81_smo_waterfallkingdom"
+ },
+ {
+  "name": "Main Theme - Luigi's Mansion",
+  "id": "a82_lm_theme",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_a82_lm_theme"
+ },
+ {
+  "name": "Delfino Plaza",
+  "id": "a83_sms_dolpiktown",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_a83_sms_dolpiktown"
+ },
+ {
+  "name": "King Bowser - Super Mario Bros. 3",
+  "id": "a84_smb3_maoukuppa",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_a84_smb3_maoukuppa"
+ },
+ {
+  "name": "Ground Theme - Super Mario Bros. 3",
+  "id": "a85_smb3_chijyou",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_a85_smb3_chijyou"
+ },
+ {
+  "name": "Fortress Boss - Super Mario Bros. 3",
+  "id": "a86_smb3_toridenoboss",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_a86_smb3_toridenoboss"
+ },
+ {
+  "name": "The Starship Sails",
+  "id": "a87_glx2_hoshibunehayuku",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_a87_glx2_hoshibunehayuku"
+ },
+ {
+  "name": "Melty Monster",
+  "id": "a88_glx2_magmamonster",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_a88_glx2_magmamonster"
+ },
+ {
+  "name": "Battle! - Paper Mario: Color Splash",
+  "id": "a90_pmc_battle",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_a90_pmc_battle"
+ },
+ {
+  "name": "Stadium Theme - Mario Tennis: Ultra Smash",
+  "id": "a91_tnsus_simpletennis",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_a91_tnsus_simpletennis"
+ },
+ {
+  "name": "World Tour",
+  "id": "a97_gfw_worldtornament",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_a97_gfw_worldtornament"
+ },
+ {
+  "name": "Title Theme - Mario Party: Island Tour",
+  "id": "a98_ptyis_maintheme",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_a98_ptyis_maintheme"
+ },
+ {
+  "name": "Rocket Road",
+  "id": "a99_ptyis_boardbgm2",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_a99_ptyis_boardbgm2"
+ },
+ {
+  "name": "Title Theme - Mario vs. Donkey Kong: Tipping Stars",
+  "id": "aa04_mvdmin_title",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_aa04_mvdmin_title"
+ },
+ {
+  "name": "Rolling Hills A",
+  "id": "aa05_mvdmin_rollinghills",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_aa05_mvdmin_rollinghills"
+ },
+ {
+  "name": "Time's Running Out!",
+  "id": "aa06_malpmm_isogebamaniau",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_aa06_malpmm_isogebamaniau"
+ },
+ {
+  "name": "Mixed-Up Scramble",
+  "id": "aa07_malpmm_toriodedaikonsen",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_aa07_malpmm_toriodedaikonsen"
+ },
+ {
+  "name": "Attack and Run!",
+  "id": "aa08_malpmm_attackendrun",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_aa08_malpmm_attackendrun"
+ },
+ {
+  "name": "Kingdom Stadium: Night",
+  "id": "aa14_sptss_kingdumstadium_yoru",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_aa14_sptss_kingdumstadium_yoru"
+ },
+ {
+  "name": "Country Field: away team",
+  "id": "aa15_sptss_countryfield_senkou",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_aa15_sptss_countryfield_senkou"
+ },
+ {
+  "name": "This is Minion Turf!",
+  "id": "aa16_malr1d_koregabokosukabattle",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_aa16_malr1d_koregabokosukabattle"
+ },
+ {
+  "name": "The King of Pyropuff Peak",
+  "id": "aa20_skt_dragonboss",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_aa20_skt_dragonboss"
+ },
+ {
+  "name": "Plucky Pass Beginnings",
+  "id": "aa21_skt_kinopiotaicho_theme",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_aa21_skt_kinopiotaicho_theme"
+ },
+ {
+  "name": "Ground Theme - Super Mario Bros. 2",
+  "id": "aa22_musa_chijyou",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_aa22_musa_chijyou"
+ },
+ {
+  "name": "Title Theme - Mario Tennis Aces",
+  "id": "aa23_tnsac_mariotennistheme",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_aa23_tnsac_mariotennistheme"
+ },
+ {
+  "name": "Stadium Theme - Mario Tennis Aces",
+  "id": "aa24_tnsac_stadiumtheme",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_aa24_tnsac_stadiumtheme"
+ },
+ {
+  "name": "Chill (Brawl)",
+  "id": "q04_drm_chill",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_q04_drm_chill"
+ },
+ {
+  "name": "Mario Tennis / Mario Golf",
+  "id": "r05_mtg_mariotennis_mariogolf",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_r05_mtg_mariotennis_mariogolf"
+ },
+ {
+  "name": "Ground Theme - Super Mario Bros. (64)",
+  "id": "t10_smb_peachjyoujoku",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_t10_smb_peachjyoujoku"
+ },
+ {
+  "name": "Ground Theme - Super Mario Bros. (Melee)",
+  "id": "w01_smb_peachjyou",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_w01_smb_peachjyou"
+ },
+ {
+  "name": "Slide",
+  "id": "w02_sm64_rainbowcruise",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_w02_sm64_rainbowcruise"
+ },
+ {
+  "name": "Ground Theme - Super Mario Bros. 3 (Melee)",
+  "id": "w15_smb3_supermario3",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_w15_smb3_supermario3"
+ },
+ {
+  "name": "Fever",
+  "id": "w20_drm_drmario",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_w20_drm_drmario"
+ },
+ {
+  "name": "Super Mario Bros. 1",
+  "id": "a71a_smb_chijyou_smmlink",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_a71a_smb_chijyou_smmlink"
+ },
+ {
+  "name": "Super Mario Bros. 3",
+  "id": "a66a_smb3_chijyou_smmlink",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_a66a_smb3_chijyou_smmlink"
+ },
+ {
+  "name": "Super Mario World",
+  "id": "a72a_wld_chijyou_smmlink",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_a72a_wld_chijyou_smmlink"
+ },
+ {
+  "name": "New Super Mario Bros. U",
+  "id": "a45a_newu_chijyou_smmlink",
+  "series": "Super Mario Bros. Series",
+  "bgm_id": "bgm_a45a_newu_chijyou_smmlink"
+ },
+ {
+  "name": "Mario Circuit - Super Mario Kart",
+  "id": "a20_smk_mariocircuit",
+  "series": "Mario Kart Series",
+  "bgm_id": "bgm_a20_smk_mariocircuit"
+ },
+ {
+  "name": "Luigi Raceway - Mario Kart 64",
+  "id": "a21_mk64_luigicircuit",
+  "series": "Mario Kart Series",
+  "bgm_id": "bgm_a21_mk64_luigicircuit"
+ },
+ {
+  "name": "Waluigi Pinball - Mario Kart DS",
+  "id": "a22_mkds_waluigipinball",
+  "series": "Mario Kart Series",
+  "bgm_id": "bgm_a22_mkds_waluigipinball"
+ },
+ {
+  "name": "Rainbow Road - Mario Kart: Double Dash!!",
+  "id": "a23_mkdd_rainbowroad",
+  "series": "Mario Kart Series",
+  "bgm_id": "bgm_a23_mkdd_rainbowroad"
+ },
+ {
+  "name": "Rainbow Road Medley",
+  "id": "a30_mkt_rainbowroad_medley",
+  "series": "Mario Kart Series",
+  "bgm_id": "bgm_a30_mkt_rainbowroad_medley"
+ },
+ {
+  "name": "Rainbow Road - Mario Kart 7",
+  "id": "a31_mkt7_rainbowroad",
+  "series": "Mario Kart Series",
+  "bgm_id": "bgm_a31_mkt7_rainbowroad"
+ },
+ {
+  "name": "Circuit - Mario Kart 7",
+  "id": "a36_mkt7_circuit",
+  "series": "Mario Kart Series",
+  "bgm_id": "bgm_a36_mkt7_circuit"
+ },
+ {
+  "name": "Cloudtop Cruise - Mario Kart 8",
+  "id": "a37_mkt8_skygarden",
+  "series": "Mario Kart Series",
+  "bgm_id": "bgm_a37_mkt8_skygarden"
+ },
+ {
+  "name": "Mushroom Gorge - Mario Kart Wii",
+  "id": "a50_mktw_kinokocanyon",
+  "series": "Mario Kart Series",
+  "bgm_id": "bgm_a50_mktw_kinokocanyon"
+ },
+ {
+  "name": "Mario Kart Stadium - Mario Kart 8",
+  "id": "a51_mkt8_mariokartstadium",
+  "series": "Mario Kart Series",
+  "bgm_id": "bgm_a51_mkt8_mariokartstadium"
+ },
+ {
+  "name": "Mario Circuit - Mario Kart 8",
+  "id": "a52_mkt8_mariocircuit",
+  "series": "Mario Kart Series",
+  "bgm_id": "bgm_a52_mkt8_mariocircuit"
+ },
+ {
+  "name": "Rainbow Road - Mario Kart 8",
+  "id": "a53_mkt8_rainbowroad",
+  "series": "Mario Kart Series",
+  "bgm_id": "bgm_a53_mkt8_rainbowroad"
+ },
+ {
+  "name": "Excitebike - Mario Kart 8",
+  "id": "aa17_mkt8d_excitebike",
+  "series": "Mario Kart Series",
+  "bgm_id": "bgm_aa17_mkt8d_excitebike"
+ },
+ {
+  "name": "Dragon Driftway",
+  "id": "aa18_mkt8d_dragonroad",
+  "series": "Mario Kart Series",
+  "bgm_id": "bgm_aa18_mkt8d_dragonroad"
+ },
+ {
+  "name": "Ice Ice Outpost",
+  "id": "aa19_mkt8d_tsurutsurutwister",
+  "series": "Mario Kart Series",
+  "bgm_id": "bgm_aa19_mkt8d_tsurutsurutwister"
+ },
+ {
+  "name": "Jungle Level (Brawl)",
+  "id": "b01_spr_junglelevel_ver2",
+  "series": "Donkey Kong Series",
+  "bgm_id": "bgm_b01_spr_junglelevel_ver2"
+ },
+ {
+  "name": "The Map Page / Bonus Level",
+  "id": "b02_spr_mappage_bonuslevel",
+  "series": "Donkey Kong Series",
+  "bgm_id": "bgm_b02_spr_mappage_bonuslevel"
+ },
+ {
+  "name": "Opening - Donkey Kong",
+  "id": "b03_dk_opening",
+  "series": "Donkey Kong Series",
+  "bgm_id": "bgm_b03_dk_opening"
+ },
+ {
+  "name": "Donkey Kong",
+  "id": "b04_dk_donkeykong",
+  "series": "Donkey Kong Series",
+  "bgm_id": "bgm_b04_dk_donkeykong"
+ },
+ {
+  "name": "King K. Rool / Ship Deck 2",
+  "id": "b05_spr_kingkrool_shipdeck2",
+  "series": "Donkey Kong Series",
+  "bgm_id": "bgm_b05_spr_kingkrool_shipdeck2"
+ },
+ {
+  "name": "Stickerbush Symphony",
+  "id": "b06_spr2_togetogetarumeiro",
+  "series": "Donkey Kong Series",
+  "bgm_id": "bgm_b06_spr2_togetogetarumeiro"
+ },
+ {
+  "name": "Battle for Storm Hill",
+  "id": "b07_jbt_arashigaokanotatakai",
+  "series": "Donkey Kong Series",
+  "bgm_id": "bgm_b07_jbt_arashigaokanotatakai"
+ },
+ {
+  "name": "25m BGM",
+  "id": "b09_dk_25mbgm",
+  "series": "Donkey Kong Series",
+  "bgm_id": "bgm_b09_dk_25mbgm"
+ },
+ {
+  "name": "Gear Getaway",
+  "id": "b11_rtn_thrillgearflight",
+  "series": "Donkey Kong Series",
+  "bgm_id": "bgm_b11_rtn_thrillgearflight"
+ },
+ {
+  "name": "Jungle Level Jazz Style (for 3DS / Wii U)",
+  "id": "b12_spr_junglelevel",
+  "series": "Donkey Kong Series",
+  "bgm_id": "bgm_b12_spr_junglelevel"
+ },
+ {
+  "name": "Donkey Kong Country Returns (Vocals)",
+  "id": "b13_rtn_donkeykongreturnes_cv",
+  "series": "Donkey Kong Series",
+  "bgm_id": "bgm_b13_rtn_donkeykongreturnes_cv"
+ },
+ {
+  "name": "Donkey Kong Country Returns",
+  "id": "b14_rtn_donkeykongreturnes",
+  "series": "Donkey Kong Series",
+  "bgm_id": "bgm_b14_rtn_donkeykongreturnes"
+ },
+ {
+  "name": "Jungle Hijinx",
+  "id": "b15_rtn_bananajungle",
+  "series": "Donkey Kong Series",
+  "bgm_id": "bgm_b15_rtn_bananajungle"
+ },
+ {
+  "name": "Mole Patrol",
+  "id": "b16_rtn_mogryanokoujigenba",
+  "series": "Donkey Kong Series",
+  "bgm_id": "bgm_b16_rtn_mogryanokoujigenba"
+ },
+ {
+  "name": "Mangrove Cove",
+  "id": "b17_tfr_mangroves",
+  "series": "Donkey Kong Series",
+  "bgm_id": "bgm_b17_tfr_mangroves"
+ },
+ {
+  "name": "Swinger Flinger",
+  "id": "b18_tfr_theme03",
+  "series": "Donkey Kong Series",
+  "bgm_id": "bgm_b18_tfr_theme03"
+ },
+ {
+  "name": "Jungle Level Tribal Style (for 3DS / Wii U)",
+  "id": "b19_spr_junglelevel_ethnic",
+  "series": "Donkey Kong Series",
+  "bgm_id": "bgm_b19_spr_junglelevel_ethnic"
+ },
+ {
+  "name": "Donkey Kong / Donkey Kong Jr. Medley",
+  "id": "b20_dk_medley",
+  "series": "Donkey Kong Series",
+  "bgm_id": "bgm_b20_dk_medley"
+ },
+ {
+  "name": "Crocodile Cacophony",
+  "id": "b21_spr2_crocodilecacophony",
+  "series": "Donkey Kong Series",
+  "bgm_id": "bgm_b21_spr2_crocodilecacophony"
+ },
+ {
+  "name": "The Map Page / Bonus Level",
+  "id": "b22_spr_mappage_bonuslevel",
+  "series": "Donkey Kong Series",
+  "bgm_id": "bgm_b22_spr_mappage_bonuslevel"
+ },
+ {
+  "name": "Snakey Chantey",
+  "id": "b23_spr_shipdeck2",
+  "series": "Donkey Kong Series",
+  "bgm_id": "bgm_b23_spr_shipdeck2"
+ },
+ {
+  "name": "Gang-Plank Galleon",
+  "id": "b24_spr_thepirateship",
+  "series": "Donkey Kong Series",
+  "bgm_id": "bgm_b24_spr_thepirateship"
+ },
+ {
+  "name": "Funky's Fugue",
+  "id": "b25_spr_funkykongpage",
+  "series": "Donkey Kong Series",
+  "bgm_id": "bgm_b25_spr_funkykongpage"
+ },
+ {
+  "name": "Ice Cave Chant",
+  "id": "b26_spr_theicecove",
+  "series": "Donkey Kong Series",
+  "bgm_id": "bgm_b26_spr_theicecove"
+ },
+ {
+  "name": "Boss 2 (DK : Jungle Climber)",
+  "id": "b27_jcl_btlcommon",
+  "series": "Donkey Kong Series",
+  "bgm_id": "bgm_b27_jcl_btlcommon"
+ },
+ {
+  "name": "Jungle Level (64)",
+  "id": "t06_spr_kongojungle",
+  "series": "Donkey Kong Series",
+  "bgm_id": "bgm_t06_spr_kongojungle"
+ },
+ {
+  "name": "Jungle Level (Melee)",
+  "id": "w03_spr_junglegarden",
+  "series": "Donkey Kong Series",
+  "bgm_id": "bgm_w03_spr_junglegarden"
+ },
+ {
+  "name": "DK Rap",
+  "id": "w26_dk64_monkyrap",
+  "series": "Donkey Kong Series",
+  "bgm_id": "bgm_w26_dk64_monkyrap"
+ },
+ {
+  "name": "Title Theme - The Legend of Zelda",
+  "id": "c01_zld_title",
+  "series": "The Legend Of Zelda Series",
+  "bgm_id": "bgm_c01_zld_title"
+ },
+ {
+  "name": "Overworld Theme -The Legend of Zelda (Brawl)",
+  "id": "c02_zld_maintheme",
+  "series": "The Legend Of Zelda Series",
+  "bgm_id": "bgm_c02_zld_maintheme"
+ },
+ {
+  "name": "Great Temple / Temple",
+  "id": "c03_lnk_daishinden_shinden",
+  "series": "The Legend Of Zelda Series",
+  "bgm_id": "bgm_c03_lnk_daishinden_shinden"
+ },
+ {
+  "name": "Dark World (Brawl)",
+  "id": "c04_tri_yaminosekai",
+  "series": "The Legend Of Zelda Series",
+  "bgm_id": "bgm_c04_tri_yaminosekai"
+ },
+ {
+  "name": "Hidden Mountain & Forest",
+  "id": "c05_tri_uranoyamatomori",
+  "series": "The Legend Of Zelda Series",
+  "bgm_id": "bgm_c05_tri_uranoyamatomori"
+ },
+ {
+  "name": "Tal Tal Heights",
+  "id": "c07_yms_tarutarukougen",
+  "series": "The Legend Of Zelda Series",
+  "bgm_id": "bgm_c07_yms_tarutarukougen"
+ },
+ {
+  "name": "Hyrule Field Theme",
+  "id": "c08_tno_hyrulemaintheme",
+  "series": "The Legend Of Zelda Series",
+  "bgm_id": "bgm_c08_tno_hyrulemaintheme"
+ },
+ {
+  "name": "Ocarina of Time Medley",
+  "id": "c09_tno_medley",
+  "series": "The Legend Of Zelda Series",
+  "bgm_id": "bgm_c09_tno_medley"
+ },
+ {
+  "name": "Song of Storms",
+  "id": "c10_tno_arashinouta",
+  "series": "The Legend Of Zelda Series",
+  "bgm_id": "bgm_c10_tno_arashinouta"
+ },
+ {
+  "name": "Village of the Blue Maiden",
+  "id": "c12_4sw_aonomikonomura",
+  "series": "The Legend Of Zelda Series",
+  "bgm_id": "bgm_c12_4sw_aonomikonomura"
+ },
+ {
+  "name": "Termina Field",
+  "id": "c14_mnk_terminaheigen",
+  "series": "The Legend Of Zelda Series",
+  "bgm_id": "bgm_c14_mnk_terminaheigen"
+ },
+ {
+  "name": "Dragon Roost Island",
+  "id": "c15_kzt_ryuunoshima",
+  "series": "The Legend Of Zelda Series",
+  "bgm_id": "bgm_c15_kzt_ryuunoshima"
+ },
+ {
+  "name": "Main Theme - The Legend of Zelda: Twilight Princess",
+  "id": "c17_tpr_maintheme",
+  "series": "The Legend Of Zelda Series",
+  "bgm_id": "bgm_c17_tpr_maintheme"
+ },
+ {
+  "name": "The Hidden Village",
+  "id": "c18_tpr_wasureraretasato",
+  "series": "The Legend Of Zelda Series",
+  "bgm_id": "bgm_c18_tpr_wasureraretasato"
+ },
+ {
+  "name": "Dark World (for 3DS / Wii U)",
+  "id": "c21_tri_uranochijyou_uradungeon",
+  "series": "The Legend Of Zelda Series",
+  "bgm_id": "bgm_c21_tri_uranochijyou_uradungeon"
+ },
+ {
+  "name": "Gerudo Valley",
+  "id": "c22_tno_gerudonotani",
+  "series": "The Legend Of Zelda Series",
+  "bgm_id": "bgm_c22_tno_gerudonotani"
+ },
+ {
+  "name": "Full Steam Ahead",
+  "id": "c23_dnk_trainfield2",
+  "series": "The Legend Of Zelda Series",
+  "bgm_id": "bgm_c23_dnk_trainfield2"
+ },
+ {
+  "name": "Ballad of the Goddess",
+  "id": "c24_sws_megaminouta_ghirahim",
+  "series": "The Legend Of Zelda Series",
+  "bgm_id": "bgm_c24_sws_megaminouta_ghirahim"
+ },
+ {
+  "name": "Saria's Song / Middle Boss Battle",
+  "id": "c25_tno_sarianouta",
+  "series": "The Legend Of Zelda Series",
+  "bgm_id": "bgm_c25_tno_sarianouta"
+ },
+ {
+  "name": "The Great Sea / Menu Select",
+  "id": "c26_kzt_oounabara_menuselect",
+  "series": "The Legend Of Zelda Series",
+  "bgm_id": "bgm_c26_kzt_oounabara_menuselect"
+ },
+ {
+  "name": "Gerudo Valley",
+  "id": "c28_tno_gerudonotani",
+  "series": "The Legend Of Zelda Series",
+  "bgm_id": "bgm_c28_tno_gerudonotani"
+ },
+ {
+  "name": "Ballad of the Goddess",
+  "id": "c29_sws_megaminouta",
+  "series": "The Legend Of Zelda Series",
+  "bgm_id": "bgm_c29_sws_megaminouta"
+ },
+ {
+  "name": "Hyrule Main Theme",
+  "id": "c30_tri2_hyrulemaintheme",
+  "series": "The Legend Of Zelda Series",
+  "bgm_id": "bgm_c30_tri2_hyrulemaintheme"
+ },
+ {
+  "name": "Lorule Main Theme",
+  "id": "c31_tri2_lorulemaintheme",
+  "series": "The Legend Of Zelda Series",
+  "bgm_id": "bgm_c31_tri2_lorulemaintheme"
+ },
+ {
+  "name": "Yuga Battle (Hyrule Castle)",
+  "id": "c32_tri2_yuganotheme",
+  "series": "The Legend Of Zelda Series",
+  "bgm_id": "bgm_c32_tri2_yuganotheme"
+ },
+ {
+  "name": "Overworld Theme - The Legend of Zelda",
+  "id": "c33_zld_chijiyou",
+  "series": "The Legend Of Zelda Series",
+  "bgm_id": "bgm_c33_zld_chijiyou"
+ },
+ {
+  "name": "Overworld Theme - The Legend of Zelda: A Link to the Past",
+  "id": "c34_tri_omotenochijiyou",
+  "series": "The Legend Of Zelda Series",
+  "bgm_id": "bgm_c34_tri_omotenochijiyou"
+ },
+ {
+  "name": "Hyrule Field Theme",
+  "id": "c35_tno_hyrulemaintheme",
+  "series": "The Legend Of Zelda Series",
+  "bgm_id": "bgm_c35_tno_hyrulemaintheme"
+ },
+ {
+  "name": "The Legend of Zelda Medley",
+  "id": "c36_zld_medley",
+  "series": "The Legend Of Zelda Series",
+  "bgm_id": "bgm_c36_zld_medley"
+ },
+ {
+  "name": "Calamity Ganon - Second Form",
+  "id": "c37_bow_ganon_latter",
+  "series": "The Legend Of Zelda Series",
+  "bgm_id": "bgm_c37_bow_ganon_latter"
+ },
+ {
+  "name": "Hyrule Castle (Outside)",
+  "id": "c38_bow_hyrulejyou_outside",
+  "series": "The Legend Of Zelda Series",
+  "bgm_id": "bgm_c38_bow_hyrulejyou_outside"
+ },
+ {
+  "name": "Kass's Theme",
+  "id": "c39_bow_kasstheme",
+  "series": "The Legend Of Zelda Series",
+  "bgm_id": "bgm_c39_bow_kasstheme"
+ },
+ {
+  "name": "Main Theme (The Legend of Zelda: Breath of the Wild)",
+  "id": "c40_bow_maintheme",
+  "series": "The Legend Of Zelda Series",
+  "bgm_id": "bgm_c40_bow_maintheme"
+ },
+ {
+  "name": "Nintendo Switch Presentation 2017 Trailer BGM",
+  "id": "c41_zds_3rdtrailertheme",
+  "series": "The Legend Of Zelda Series",
+  "bgm_id": "bgm_c41_zds_3rdtrailertheme"
+ },
+ {
+  "name": "Midna's Lament",
+  "id": "c42_tpr_kizudarakenomidna",
+  "series": "The Legend Of Zelda Series",
+  "bgm_id": "bgm_c42_tpr_kizudarakenomidna"
+ },
+ {
+  "name": "Main Theme - The Legend of Zelda: Tri Force Heroes",
+  "id": "c43_tri3_maintheme",
+  "series": "The Legend Of Zelda Series",
+  "bgm_id": "bgm_c43_tri3_maintheme"
+ },
+ {
+  "name": "Molgera",
+  "id": "c44_kzt_morudogeira",
+  "series": "The Legend Of Zelda Series",
+  "bgm_id": "bgm_c44_kzt_morudogeira"
+ },
+ {
+  "name": "Death Mountain",
+  "id": "c45_zld_deathmountain",
+  "series": "The Legend Of Zelda Series",
+  "bgm_id": "bgm_c45_zld_deathmountain"
+ },
+ {
+  "name": "Termina Field",
+  "id": "c46_mnk_terminaheigen",
+  "series": "The Legend Of Zelda Series",
+  "bgm_id": "bgm_c46_mnk_terminaheigen"
+ },
+ {
+  "name": "Woodlands - The Legend of Zelda: Tri Force Heroes",
+  "id": "c47_tri3_moriarea",
+  "series": "The Legend Of Zelda Series",
+  "bgm_id": "bgm_c47_tri3_moriarea"
+ },
+ {
+  "name": "Saria's Theme",
+  "id": "c48_tno_sarianouta",
+  "series": "The Legend Of Zelda Series",
+  "bgm_id": "bgm_c48_tno_sarianouta"
+ },
+ {
+  "name": "Overworld Theme - The Legend of Zelda (64)",
+  "id": "t11_zld_hyrulejiyou",
+  "series": "The Legend Of Zelda Series",
+  "bgm_id": "bgm_t11_zld_hyrulejiyou"
+ },
+ {
+  "name": "Temple Theme",
+  "id": "w24_lnk_shinden",
+  "series": "The Legend Of Zelda Series",
+  "bgm_id": "bgm_w24_lnk_shinden"
+ },
+ {
+  "name": "Overworld Theme - The Legend of Zelda (Melee)",
+  "id": "w36_zld_greatbay",
+  "series": "The Legend Of Zelda Series",
+  "bgm_id": "bgm_w36_zld_greatbay"
+ },
+ {
+  "name": "Brinstar (Brawl)",
+  "id": "d01_mr_maintheme",
+  "series": "Metroid Series",
+  "bgm_id": "bgm_d01_mr_maintheme"
+ },
+ {
+  "name": "Norfair",
+  "id": "d02_mr_norfair",
+  "series": "Metroid Series",
+  "bgm_id": "bgm_d02_mr_norfair"
+ },
+ {
+  "name": "Ending - Metroid",
+  "id": "d03_mr_ending",
+  "series": "Metroid Series",
+  "bgm_id": "bgm_d03_mr_ending"
+ },
+ {
+  "name": "Vs. Ridley (Brawl)",
+  "id": "d04_smr_vsridley",
+  "series": "Metroid Series",
+  "bgm_id": "bgm_d04_smr_vsridley"
+ },
+ {
+  "name": "Theme of Samus Aran, Space Warrior",
+  "id": "d05_smr_samusarannotheme",
+  "series": "Metroid Series",
+  "bgm_id": "bgm_d05_smr_samusarannotheme"
+ },
+ {
+  "name": "Sector 1",
+  "id": "d06_fsn_sector1",
+  "series": "Metroid Series",
+  "bgm_id": "bgm_d06_fsn_sector1"
+ },
+ {
+  "name": "Opening / Menu - Metroid Prime",
+  "id": "d07_prm_opnening_menu",
+  "series": "Metroid Series",
+  "bgm_id": "bgm_d07_prm_opnening_menu"
+ },
+ {
+  "name": "Vs. Meta Ridley",
+  "id": "d09_prm_vsmetaridley",
+  "series": "Metroid Series",
+  "bgm_id": "bgm_d09_prm_vsmetaridley"
+ },
+ {
+  "name": "Multiplayer - Metroid Prime 2: Echoes",
+  "id": "d10_prm2_multiplay",
+  "series": "Metroid Series",
+  "bgm_id": "bgm_d10_prm2_multiplay"
+ },
+ {
+  "name": "Title Theme - Metroid",
+  "id": "d11_mr_title",
+  "series": "Metroid Series",
+  "bgm_id": "bgm_d11_mr_title"
+ },
+ {
+  "name": "Escape",
+  "id": "d12_mr_dasshutu",
+  "series": "Metroid Series",
+  "bgm_id": "bgm_d12_mr_dasshutu"
+ },
+ {
+  "name": "Psycho Bits",
+  "id": "d13_pht_psychobits",
+  "series": "Metroid Series",
+  "bgm_id": "bgm_d13_pht_psychobits"
+ },
+ {
+  "name": "The Burning Lava Fish",
+  "id": "d14_otm_yougangyobattle",
+  "series": "Metroid Series",
+  "bgm_id": "bgm_d14_otm_yougangyobattle"
+ },
+ {
+  "name": "Lockdown Battle Theme",
+  "id": "d15_otm_hanyoutojikomebattle",
+  "series": "Metroid Series",
+  "bgm_id": "bgm_d15_otm_hanyoutojikomebattle"
+ },
+ {
+  "name": "Nemesis Ridley",
+  "id": "d16_otm_ridleybattle",
+  "series": "Metroid Series",
+  "bgm_id": "bgm_d16_otm_ridleybattle"
+ },
+ {
+  "name": "Vs. Parasite Queen",
+  "id": "d17_prm_vsparasitequeen",
+  "series": "Metroid Series",
+  "bgm_id": "bgm_d17_prm_vsparasitequeen"
+ },
+ {
+  "name": "Vs. Ridley",
+  "id": "d18_smr_vsridley",
+  "series": "Metroid Series",
+  "bgm_id": "bgm_d18_smr_vsridley"
+ },
+ {
+  "name": "Brinstar Depths",
+  "id": "d19_mr_brinstarshinbu",
+  "series": "Metroid Series",
+  "bgm_id": "bgm_d19_mr_brinstarshinbu"
+ },
+ {
+  "name": "Main Theme - Metroid Prime: Federation Force",
+  "id": "d20_pff_splashscreen",
+  "series": "Metroid Series",
+  "bgm_id": "bgm_d20_pff_splashscreen"
+ },
+ {
+  "name": "End Results - Metroid: Samus Returns",
+  "id": "d21_srt_result",
+  "series": "Metroid Series",
+  "bgm_id": "bgm_d21_srt_result"
+ },
+ {
+  "name": "Magmoor Caverns - Metroid: Samus Returns",
+  "id": "d22_srt_areabgmnettai",
+  "series": "Metroid Series",
+  "bgm_id": "bgm_d22_srt_areabgmnettai"
+ },
+ {
+  "name": "Boss Battle 4 - Metroid: Samus Returns",
+  "id": "d23_srt_zetametroid",
+  "series": "Metroid Series",
+  "bgm_id": "bgm_d23_srt_zetametroid"
+ },
+ {
+  "name": "Brinstar (64)",
+  "id": "t13_mr_wakuseizebes",
+  "series": "Metroid Series",
+  "bgm_id": "bgm_t13_mr_wakuseizebes"
+ },
+ {
+  "name": "Brinstar Depths (Melee)",
+  "id": "w04_mr_brinstarshinbu",
+  "series": "Metroid Series",
+  "bgm_id": "bgm_w04_mr_brinstarshinbu"
+ },
+ {
+  "name": "Brinstar (Melee)",
+  "id": "w27_mr_brinstar",
+  "series": "Metroid Series",
+  "bgm_id": "bgm_w27_mr_brinstar"
+ },
+ {
+  "name": "Yoshi's Tale",
+  "id": "e01_str_ending",
+  "series": "Yoshi Series",
+  "bgm_id": "bgm_e01_str_ending"
+ },
+ {
+  "name": "Obstacle Course - Yoshi's Island",
+  "id": "e02_ild_athletic",
+  "series": "Yoshi Series",
+  "bgm_id": "bgm_e02_ild_athletic"
+ },
+ {
+  "name": "Yoshi's Island (Brawl)",
+  "id": "e03_ild_yoshiisland",
+  "series": "Yoshi Series",
+  "bgm_id": "bgm_e03_ild_yoshiisland"
+ },
+ {
+  "name": "Flower Field",
+  "id": "e05_cty_ohanabatake",
+  "series": "Yoshi Series",
+  "bgm_id": "bgm_e05_cty_ohanabatake"
+ },
+ {
+  "name": "Wildlands",
+  "id": "e06_ilds_kouyanotheme",
+  "series": "Yoshi Series",
+  "bgm_id": "bgm_e06_ilds_kouyanotheme"
+ },
+ {
+  "name": "Yoshi's Island (for 3DS / Wii U)",
+  "id": "e07_ild_stage1_1",
+  "series": "Yoshi Series",
+  "bgm_id": "bgm_e07_ild_stage1_1"
+ },
+ {
+  "name": "Main Theme - Yoshi's Woolly World",
+  "id": "e08_kny_keitonoyoshi",
+  "series": "Yoshi Series",
+  "bgm_id": "bgm_e08_kny_keitonoyoshi"
+ },
+ {
+  "name": "Main Theme - Yoshi's New Island",
+  "id": "e09_nild_maintheme",
+  "series": "Yoshi Series",
+  "bgm_id": "bgm_e09_nild_maintheme"
+ },
+ {
+  "name": "Bandit Valley",
+  "id": "e10_nild_gypsy",
+  "series": "Yoshi Series",
+  "bgm_id": "bgm_e10_nild_gypsy"
+ },
+ {
+  "name": "Main Theme - Yoshi's Woolly World",
+  "id": "e11_wol_yoshiwoolworld",
+  "series": "Yoshi Series",
+  "bgm_id": "bgm_e11_wol_yoshiwoolworld"
+ },
+ {
+  "name": "Main Theme - Yoshi's New Island",
+  "id": "e12_nild_maintheme",
+  "series": "Yoshi Series",
+  "bgm_id": "bgm_e12_nild_maintheme"
+ },
+ {
+  "name": "Yoshi's Story (64)",
+  "id": "t08_sb_yoshiisland",
+  "series": "Yoshi Series",
+  "bgm_id": "bgm_t08_sb_yoshiisland"
+ },
+ {
+  "name": "Athletic Theme - Super Mario World",
+  "id": "w05_wld_yostertou",
+  "series": "Yoshi Series",
+  "bgm_id": "bgm_w05_wld_yostertou"
+ },
+ {
+  "name": "Yoshi's Story (Melee)",
+  "id": "w37_str_yoshistory",
+  "series": "Yoshi Series",
+  "bgm_id": "bgm_w37_str_yoshistory"
+ },
+ {
+  "name": "The Legendary Air Ride Machine",
+  "id": "f01_air_airridemachine",
+  "series": "Kirby Series",
+  "bgm_id": "bgm_f01_air_airridemachine"
+ },
+ {
+  "name": "King Dedede's Theme (Brawl)",
+  "id": "f02_kby_dededeounotheme",
+  "series": "Kirby Series",
+  "bgm_id": "bgm_f02_kby_dededeounotheme"
+ },
+ {
+  "name": "Boss Theme Medley - Kirby Series",
+  "id": "f03_kby_bossthememedley",
+  "series": "Kirby Series",
+  "bgm_id": "bgm_f03_kby_bossthememedley"
+ },
+ {
+  "name": "Butter Building (Brawl)",
+  "id": "f04_yim_butterbuilding",
+  "series": "Kirby Series",
+  "bgm_id": "bgm_f04_yim_butterbuilding"
+ },
+ {
+  "name": "Gourmet Race (Brawl)",
+  "id": "f05_sdx_gekitotsugourmetrace",
+  "series": "Kirby Series",
+  "bgm_id": "bgm_f05_sdx_gekitotsugourmetrace"
+ },
+ {
+  "name": "Meta Knight's Revenge",
+  "id": "f06_sdx_metaknightnogyakushuu",
+  "series": "Kirby Series",
+  "bgm_id": "bgm_f06_sdx_metaknightnogyakushuu"
+ },
+ {
+  "name": "Vs. Marx",
+  "id": "f07_sdx_vsmarx",
+  "series": "Kirby Series",
+  "bgm_id": "bgm_f07_sdx_vsmarx"
+ },
+ {
+  "name": "02 Battle",
+  "id": "f08_kby64_zerotwosen",
+  "series": "Kirby Series",
+  "bgm_id": "bgm_f08_kby64_zerotwosen"
+ },
+ {
+  "name": "Frozen Hillside",
+  "id": "f11_air_colda",
+  "series": "Kirby Series",
+  "bgm_id": "bgm_f11_air_colda"
+ },
+ {
+  "name": "Squeak Squad Theme",
+  "id": "f12_sdd_dorochedannotheme",
+  "series": "Kirby Series",
+  "bgm_id": "bgm_f12_sdd_dorochedannotheme"
+ },
+ {
+  "name": "Green Greens (for 3DS / Wii U)",
+  "id": "f13_kby_greengreens_ver2",
+  "series": "Kirby Series",
+  "bgm_id": "bgm_f13_kby_greengreens_ver2"
+ },
+ {
+  "name": "Butter Building (for 3DS / Wii U)",
+  "id": "f19_yim_butterbuilding",
+  "series": "Kirby Series",
+  "bgm_id": "bgm_f19_yim_butterbuilding"
+ },
+ {
+  "name": "King Dedede's Theme (for 3DS / Wii U)",
+  "id": "f20_sdx_dedededaiounotheme",
+  "series": "Kirby Series",
+  "bgm_id": "bgm_f20_sdx_dedededaiounotheme"
+ },
+ {
+  "name": "The Great Cave Offensive",
+  "id": "f21_sdx_doukutsudaisakusen",
+  "series": "Kirby Series",
+  "bgm_id": "bgm_f21_sdx_doukutsudaisakusen"
+ },
+ {
+  "name": "Forest / Nature Area",
+  "id": "f22_knd_morishizenarea",
+  "series": "Kirby Series",
+  "bgm_id": "bgm_f22_knd_morishizenarea"
+ },
+ {
+  "name": "Celestial Valley",
+  "id": "f23_air_vallerion",
+  "series": "Kirby Series",
+  "bgm_id": "bgm_f23_air_vallerion"
+ },
+ {
+  "name": "The Adventure Begins",
+  "id": "f24_kbyw_boukennohajimari",
+  "series": "Kirby Series",
+  "bgm_id": "bgm_f24_kbyw_boukennohajimari"
+ },
+ {
+  "name": "Through the Forest",
+  "id": "f25_kbyw_moriwonukete",
+  "series": "Kirby Series",
+  "bgm_id": "bgm_f25_kbyw_moriwonukete"
+ },
+ {
+  "name": "Floral Fields",
+  "id": "f26_tdx_fuyuutairikunohanabatake",
+  "series": "Kirby Series",
+  "bgm_id": "bgm_f26_tdx_fuyuutairikunohanabatake"
+ },
+ {
+  "name": "Forest Stage",
+  "id": "f27_air_moristage",
+  "series": "Kirby Series",
+  "bgm_id": "bgm_f27_air_moristage"
+ },
+ {
+  "name": "Planet Popstar",
+  "id": "f28_kby64_popstar",
+  "series": "Kirby Series",
+  "bgm_id": "bgm_f28_kby64_popstar"
+ },
+ {
+  "name": "The World to Win",
+  "id": "f29_tdx_tamashiinotatakai",
+  "series": "Kirby Series",
+  "bgm_id": "bgm_f29_tdx_tamashiinotatakai"
+ },
+ {
+  "name": "Ice Cream Island",
+  "id": "f30_yim_icecreamisland",
+  "series": "Kirby Series",
+  "bgm_id": "bgm_f30_yim_icecreamisland"
+ },
+ {
+  "name": "City Trial",
+  "id": "f31_air_citytrial",
+  "series": "Kirby Series",
+  "bgm_id": "bgm_f31_air_citytrial"
+ },
+ {
+  "name": "Staff Credits - Kirby's Dream Land",
+  "id": "f32_kby_staffroll",
+  "series": "Kirby Series",
+  "bgm_id": "bgm_f32_kby_staffroll"
+ },
+ {
+  "name": "Sky Tower",
+  "id": "f33_wii_skytower",
+  "series": "Kirby Series",
+  "bgm_id": "bgm_f33_wii_skytower"
+ },
+ {
+  "name": "Dangerous Dinner",
+  "id": "f34_wii_dagerousdiner",
+  "series": "Kirby Series",
+  "bgm_id": "bgm_f34_wii_dagerousdiner"
+ },
+ {
+  "name": "CROWNED",
+  "id": "f35_wii_crowned",
+  "series": "Kirby Series",
+  "bgm_id": "bgm_f35_wii_crowned"
+ },
+ {
+  "name": "Fatal Blooms in Moonlight",
+  "id": "f36_tdx_kyoukasuigetsu",
+  "series": "Kirby Series",
+  "bgm_id": "bgm_f36_tdx_kyoukasuigetsu"
+ },
+ {
+  "name": "CROWNED: Ver. 2",
+  "id": "f37_ddz_crowned_ver2",
+  "series": "Kirby Series",
+  "bgm_id": "bgm_f37_ddz_crowned_ver2"
+ },
+ {
+  "name": "Venturing Into the Mechanized World",
+  "id": "f38_rbp_kikainosekainodaibouken",
+  "series": "Kirby Series",
+  "bgm_id": "bgm_f38_rbp_kikainosekainodaibouken"
+ },
+ {
+  "name": "Pink Ball Activate!",
+  "id": "f39_rbp_roboboarmor",
+  "series": "Kirby Series",
+  "bgm_id": "bgm_f39_rbp_roboboarmor"
+ },
+ {
+  "name": "Kirby Battle Royale: Main Theme",
+  "id": "f40_bdx_maintheme",
+  "series": "Kirby Series",
+  "bgm_id": "bgm_f40_bdx_maintheme"
+ },
+ {
+  "name": "A Battle of Friends and Bonds 2",
+  "id": "f41_sta_tomotokizunanotatakai2",
+  "series": "Kirby Series",
+  "bgm_id": "bgm_f41_sta_tomotokizunanotatakai2"
+ },
+ {
+  "name": "Kirby Retro Medley",
+  "id": "f42_kby_gb_medley",
+  "series": "Kirby Series",
+  "bgm_id": "bgm_f42_kby_gb_medley"
+ },
+ {
+  "name": "Gourmet Race (64)",
+  "id": "t09_sdx_pupupuland",
+  "series": "Kirby Series",
+  "bgm_id": "bgm_t09_sdx_pupupuland"
+ },
+ {
+  "name": "Gourmet Race (Melee)",
+  "id": "w06_sdx_yumenoizumi",
+  "series": "Kirby Series",
+  "bgm_id": "bgm_w06_sdx_yumenoizumi"
+ },
+ {
+  "name": "Green Greens (Melee)",
+  "id": "w07_kby_greengreens",
+  "series": "Kirby Series",
+  "bgm_id": "bgm_w07_kby_greengreens"
+ },
+ {
+  "name": "Main Theme - Star Fox",
+  "id": "g01_sfx_maintheme",
+  "series": "Star Fox Series",
+  "bgm_id": "bgm_g01_sfx_maintheme"
+ },
+ {
+  "name": "Corneria - Star Fox",
+  "id": "g02_sfx_corneria",
+  "series": "Star Fox Series",
+  "bgm_id": "bgm_g02_sfx_corneria"
+ },
+ {
+  "name": "Main Theme - Star Fox 64 (Brawl)",
+  "id": "g03_sfx64_maintheme",
+  "series": "Star Fox Series",
+  "bgm_id": "bgm_g03_sfx64_maintheme"
+ },
+ {
+  "name": "Area 6 - Star Fox 64",
+  "id": "g04_sfx64_area6",
+  "series": "Star Fox Series",
+  "bgm_id": "bgm_g04_sfx64_area6"
+ },
+ {
+  "name": "Star Wolf (Brawl)",
+  "id": "g05_sfx64_starwolf",
+  "series": "Star Fox Series",
+  "bgm_id": "bgm_g05_sfx64_starwolf"
+ },
+ {
+  "name": "Space Battleground",
+  "id": "g07_ast_sentoutyuuiki",
+  "series": "Star Fox Series",
+  "bgm_id": "bgm_g07_ast_sentoutyuuiki"
+ },
+ {
+  "name": "Break: Through the Ice",
+  "id": "g08_ast_hyougentoppaseyo",
+  "series": "Star Fox Series",
+  "bgm_id": "bgm_g08_ast_hyougentoppaseyo"
+ },
+ {
+  "name": "Star Wolf",
+  "id": "g09_ast_starwolf",
+  "series": "Star Fox Series",
+  "bgm_id": "bgm_g09_ast_starwolf"
+ },
+ {
+  "name": "Space Armada",
+  "id": "g10_sfx_spacearmada",
+  "series": "Star Fox Series",
+  "bgm_id": "bgm_g10_sfx_spacearmada"
+ },
+ {
+  "name": "Area 6 Ver. 2 - Star Fox 64",
+  "id": "g11_sfx64_area6ver2",
+  "series": "Star Fox Series",
+  "bgm_id": "bgm_g11_sfx64_area6ver2"
+ },
+ {
+  "name": "Star Wolf's Theme / Sector Z (for 3DS / Wii U)",
+  "id": "g12_sfx64_starwolf_sectorz",
+  "series": "Star Fox Series",
+  "bgm_id": "bgm_g12_sfx64_starwolf_sectorz"
+ },
+ {
+  "name": "Theme from Area 6 / Missile Slipstream",
+  "id": "g13_sfx64_cmd_area6_missle",
+  "series": "Star Fox Series",
+  "bgm_id": "bgm_g13_sfx64_cmd_area6_missle"
+ },
+ {
+  "name": "Return to Corneria - Star Fox Zero",
+  "id": "g14_sfz_stgcorneria2",
+  "series": "Star Fox Series",
+  "bgm_id": "bgm_g14_sfz_stgcorneria2"
+ },
+ {
+  "name": "Corneria - Star Fox Zero",
+  "id": "g15_sfz_stgdefence",
+  "series": "Star Fox Series",
+  "bgm_id": "bgm_g15_sfz_stgdefence"
+ },
+ {
+  "name": "Sector O",
+  "id": "g16_sfz_stgspace4",
+  "series": "Star Fox Series",
+  "bgm_id": "bgm_g16_sfz_stgspace4"
+ },
+ {
+  "name": "Main Theme - Star Fox 64 (64)",
+  "id": "t14_sfx64_sectorz",
+  "series": "Star Fox Series",
+  "bgm_id": "bgm_t14_sfx64_sectorz"
+ },
+ {
+  "name": "Star Fox Medley",
+  "id": "w08_sfx_cornelia",
+  "series": "Star Fox Series",
+  "bgm_id": "bgm_w08_sfx_cornelia"
+ },
+ {
+  "name": "Main Theme - Star Fox 64 (Melee)",
+  "id": "w28_sfx_wakuseivenom",
+  "series": "Star Fox Series",
+  "bgm_id": "bgm_w28_sfx_wakuseivenom"
+ },
+ {
+  "name": "Main Theme - Pokémon Red & Blue (Brawl)",
+  "id": "h01_pm_maintheme",
+  "series": "Pokemon Series",
+  "bgm_id": "bgm_h01_pm_maintheme"
+ },
+ {
+  "name": "Pokémon Center - Pokémon Red / Pokémon Blue",
+  "id": "h02_pm_pokemoncenter",
+  "series": "Pokemon Series",
+  "bgm_id": "bgm_h02_pm_pokemoncenter"
+ },
+ {
+  "name": "Victory Road - Pokémon Ruby / Pokémon Sapphire",
+  "id": "h06_rs_championroad",
+  "series": "Pokemon Series",
+  "bgm_id": "bgm_h06_rs_championroad"
+ },
+ {
+  "name": "Battle! (Dialga/Palkia) / Spear Pillar",
+  "id": "h08_dp_dialgapalkia_yarinohashira",
+  "series": "Pokemon Series",
+  "bgm_id": "bgm_h08_dp_dialgapalkia_yarinohashira"
+ },
+ {
+  "name": "Battle! (Team Galactic)",
+  "id": "h09_dp_gingadan",
+  "series": "Pokemon Series",
+  "bgm_id": "bgm_h09_dp_gingadan"
+ },
+ {
+  "name": "Route 209 - Pokémon Diamond / Pokémon Pearl",
+  "id": "h10_dp_209bandouro",
+  "series": "Pokemon Series",
+  "bgm_id": "bgm_h10_dp_209bandouro"
+ },
+ {
+  "name": "N's Castle",
+  "id": "h11_bw_n_medley",
+  "series": "Pokemon Series",
+  "bgm_id": "bgm_h11_bw_n_medley"
+ },
+ {
+  "name": "Battle! (Reshiram / Zekrom)",
+  "id": "h12_bw_sentou_zekrom_reshiram",
+  "series": "Pokemon Series",
+  "bgm_id": "bgm_h12_bw_sentou_zekrom_reshiram"
+ },
+ {
+  "name": "Battle! (Trainer Battle) - Pokémon X / Pokémon Y",
+  "id": "h13_xy_sentou_trainer",
+  "series": "Pokemon Series",
+  "bgm_id": "bgm_h13_xy_sentou_trainer"
+ },
+ {
+  "name": "Lumiose City",
+  "id": "h14_xy_miarecity",
+  "series": "Pokemon Series",
+  "bgm_id": "bgm_h14_xy_miarecity"
+ },
+ {
+  "name": "Battle! (Champion) / Champion Cynthia",
+  "id": "h16_dp_sentou_champion",
+  "series": "Pokemon Series",
+  "bgm_id": "bgm_h16_dp_sentou_champion"
+ },
+ {
+  "name": "Route 10 - Pokémon Black / Pokémon White",
+  "id": "h17_bw_10bandouro",
+  "series": "Pokemon Series",
+  "bgm_id": "bgm_h17_bw_10bandouro"
+ },
+ {
+  "name": "Route 23 - Pokémon Black 2 / Pokémon White 2",
+  "id": "h18_b2w2_23bandouro",
+  "series": "Pokemon Series",
+  "bgm_id": "bgm_h18_b2w2_23bandouro"
+ },
+ {
+  "name": "Battle! (Team Flare)",
+  "id": "h19_xy_vs_flare",
+  "series": "Pokemon Series",
+  "bgm_id": "bgm_h19_xy_vs_flare"
+ },
+ {
+  "name": "Battle! (Wild Pokémon) - Pokémon X / Pokémon Y",
+  "id": "h20_xy_sentou_yaseipokemon",
+  "series": "Pokemon Series",
+  "bgm_id": "bgm_h20_xy_sentou_yaseipokemon"
+ },
+ {
+  "name": "Victory Road - Pokémon X / Pokémon Y",
+  "id": "h21_xy_championroad",
+  "series": "Pokemon Series",
+  "bgm_id": "bgm_h21_xy_championroad"
+ },
+ {
+  "name": "Battle! (Champion) - Pokémon X / Pokémon Y",
+  "id": "h22_xy_sentou_champion",
+  "series": "Pokemon Series",
+  "bgm_id": "bgm_h22_xy_sentou_champion"
+ },
+ {
+  "name": "Battle! (Steven)",
+  "id": "h24_oras_kessen_daigo",
+  "series": "Pokemon Series",
+  "bgm_id": "bgm_h24_oras_kessen_daigo"
+ },
+ {
+  "name": "Battle! (Island Kahuna)",
+  "id": "h25_sm_sentou_shimakingshimaqueen",
+  "series": "Pokemon Series",
+  "bgm_id": "bgm_h25_sm_sentou_shimakingshimaqueen"
+ },
+ {
+  "name": "Battle! (Gladion)",
+  "id": "h26_sm_sentou_gladion",
+  "series": "Pokemon Series",
+  "bgm_id": "bgm_h26_sm_sentou_gladion"
+ },
+ {
+  "name": "Battle! (Trainer) - Pokémon Sun / Pokémon Moon",
+  "id": "h28_sm_sentou_trainer",
+  "series": "Pokemon Series",
+  "bgm_id": "bgm_h28_sm_sentou_trainer"
+ },
+ {
+  "name": "Battle! (Lorekeeper Zinnia)",
+  "id": "h29_oras_sentou_higana",
+  "series": "Pokemon Series",
+  "bgm_id": "bgm_h29_oras_sentou_higana"
+ },
+ {
+  "name": "The Battle at the Summit!",
+  "id": "h30_sm_choujoukessen",
+  "series": "Pokemon Series",
+  "bgm_id": "bgm_h30_sm_choujoukessen"
+ },
+ {
+  "name": "Main Theme - Pokémon Red & Blue (64)",
+  "id": "t15_pm_yamabukicity",
+  "series": "Pokemon Series",
+  "bgm_id": "bgm_t15_pm_yamabukicity"
+ },
+ {
+  "name": "Main Theme - Pokémon Red & Blue (Melee)",
+  "id": "w09_pm_pokemonstadium",
+  "series": "Pokemon Series",
+  "bgm_id": "bgm_w09_pm_pokemonstadium"
+ },
+ {
+  "name": "Pokémon Red / Pokémon Blue Medley",
+  "id": "w10_pm_pokemonakuukan",
+  "series": "Pokemon Series",
+  "bgm_id": "bgm_w10_pm_pokemonakuukan"
+ },
+ {
+  "name": "Pokémon Gold / Pokémon Silver Medley",
+  "id": "w16_kg_pekemonstadiumkingin",
+  "series": "Pokemon Series",
+  "bgm_id": "bgm_w16_kg_pekemonstadiumkingin"
+ },
+ {
+  "name": "Mute City (Brawl)",
+  "id": "i01_fzr_mutecity",
+  "series": "F-Zero Series",
+  "bgm_id": "bgm_i01_fzr_mutecity"
+ },
+ {
+  "name": "White Land",
+  "id": "i02_fzr_whiteland",
+  "series": "F-Zero Series",
+  "bgm_id": "bgm_i02_fzr_whiteland"
+ },
+ {
+  "name": "Fire Field",
+  "id": "i03_fzr_firefield",
+  "series": "F-Zero Series",
+  "bgm_id": "bgm_i03_fzr_firefield"
+ },
+ {
+  "name": "Car Select",
+  "id": "i04_fzx_carselect",
+  "series": "F-Zero Series",
+  "bgm_id": "bgm_i04_fzx_carselect"
+ },
+ {
+  "name": "Dream Chaser",
+  "id": "i05_fzx_dreamchaser",
+  "series": "F-Zero Series",
+  "bgm_id": "bgm_i05_fzx_dreamchaser"
+ },
+ {
+  "name": "Devil's Call in Your Heart",
+  "id": "i06_fzx_devilscallinyourheart",
+  "series": "F-Zero Series",
+  "bgm_id": "bgm_i06_fzx_devilscallinyourheart"
+ },
+ {
+  "name": "Climb Up! And Get the Last Chance!",
+  "id": "i07_fzx_climbup_andgetthelastchance",
+  "series": "F-Zero Series",
+  "bgm_id": "bgm_i07_fzx_climbup_andgetthelastchance"
+ },
+ {
+  "name": "Brain Cleaner",
+  "id": "i08_gx_braincleaner",
+  "series": "F-Zero Series",
+  "bgm_id": "bgm_i08_gx_braincleaner"
+ },
+ {
+  "name": "Shotgun Kiss",
+  "id": "i09_gx_shotgunkiss",
+  "series": "F-Zero Series",
+  "bgm_id": "bgm_i09_gx_shotgunkiss"
+ },
+ {
+  "name": "Planet Colors",
+  "id": "i10_gx_planetcolors",
+  "series": "F-Zero Series",
+  "bgm_id": "bgm_i10_gx_planetcolors"
+ },
+ {
+  "name": "Mute City (for 3DS / Wii U)",
+  "id": "i11_fzr_mutecity",
+  "series": "F-Zero Series",
+  "bgm_id": "bgm_i11_fzr_mutecity"
+ },
+ {
+  "name": "Mute City",
+  "id": "i12_fzr_sfc_mutecity",
+  "series": "F-Zero Series",
+  "bgm_id": "bgm_i12_fzr_sfc_mutecity"
+ },
+ {
+  "name": "Red Canyon",
+  "id": "i14_fzr_redcanyon",
+  "series": "F-Zero Series",
+  "bgm_id": "bgm_i14_fzr_redcanyon"
+ },
+ {
+  "name": "F-ZERO Medley",
+  "id": "i15_fzr_medley",
+  "series": "F-Zero Series",
+  "bgm_id": "bgm_i15_fzr_medley"
+ },
+ {
+  "name": "Sand Ocean",
+  "id": "i16_fzr_sandocean",
+  "series": "F-Zero Series",
+  "bgm_id": "bgm_i16_fzr_sandocean"
+ },
+ {
+  "name": "Big Blue",
+  "id": "i17_fzr_bigblue",
+  "series": "F-Zero Series",
+  "bgm_id": "bgm_i17_fzr_bigblue"
+ },
+ {
+  "name": "Death Wind",
+  "id": "i18_fzr_deathwind",
+  "series": "F-Zero Series",
+  "bgm_id": "bgm_i18_fzr_deathwind"
+ },
+ {
+  "name": "Fire Field",
+  "id": "i19_fzr_firefield",
+  "series": "F-Zero Series",
+  "bgm_id": "bgm_i19_fzr_firefield"
+ },
+ {
+  "name": "Port Town",
+  "id": "i20_fzr_porttown",
+  "series": "F-Zero Series",
+  "bgm_id": "bgm_i20_fzr_porttown"
+ },
+ {
+  "name": "Sand Ocean",
+  "id": "i21_fzr_sandocean",
+  "series": "F-Zero Series",
+  "bgm_id": "bgm_i21_fzr_sandocean"
+ },
+ {
+  "name": "Silence",
+  "id": "i22_fzr_sandocean",
+  "series": "F-Zero Series",
+  "bgm_id": "bgm_i22_fzr_sandocean"
+ },
+ {
+  "name": "White Land",
+  "id": "i23_fzr_whiteland1",
+  "series": "F-Zero Series",
+  "bgm_id": "bgm_i23_fzr_whiteland1"
+ },
+ {
+  "name": "White Land II",
+  "id": "i24_fzr_whiteland2",
+  "series": "F-Zero Series",
+  "bgm_id": "bgm_i24_fzr_whiteland2"
+ },
+ {
+  "name": "Big Blue",
+  "id": "i25_fzr_bigblue",
+  "series": "F-Zero Series",
+  "bgm_id": "bgm_i25_fzr_bigblue"
+ },
+ {
+  "name": "Big Blue (Melee)",
+  "id": "w11_fzr_bigblue",
+  "series": "F-Zero Series",
+  "bgm_id": "bgm_w11_fzr_bigblue"
+ },
+ {
+  "name": "Mute City (Melee)",
+  "id": "w29_fzr_mutecity",
+  "series": "F-Zero Series",
+  "bgm_id": "bgm_w29_fzr_mutecity"
+ },
+ {
+  "name": "Snowman",
+  "id": "k01_mtr_snowman",
+  "series": "Earthbound Series",
+  "bgm_id": "bgm_k01_mtr_snowman"
+ },
+ {
+  "name": "Humoresque of a Little Dog",
+  "id": "k05_mtr_humoresqueofalittledog",
+  "series": "Earthbound Series",
+  "bgm_id": "bgm_k05_mtr_humoresqueofalittledog"
+ },
+ {
+  "name": "Porky's Theme",
+  "id": "k07_mtr_porkynotheme",
+  "series": "Earthbound Series",
+  "bgm_id": "bgm_k07_mtr_porkynotheme"
+ },
+ {
+  "name": "Mother 3 Love Theme",
+  "id": "k08_mtr3_ainotheme",
+  "series": "Earthbound Series",
+  "bgm_id": "bgm_k08_mtr3_ainotheme"
+ },
+ {
+  "name": "You Call This a Utopia?!",
+  "id": "k10_mtr3_utopiadesho",
+  "series": "Earthbound Series",
+  "bgm_id": "bgm_k10_mtr3_utopiadesho"
+ },
+ {
+  "name": "Magicant (for 3DS / Wii U)",
+  "id": "k11_mtr_magicant_eightmelodies",
+  "series": "Earthbound Series",
+  "bgm_id": "bgm_k11_mtr_magicant_eightmelodies"
+ },
+ {
+  "name": "Smiles and Tears",
+  "id": "k12_mtr2_smileandtears",
+  "series": "Earthbound Series",
+  "bgm_id": "bgm_k12_mtr2_smileandtears"
+ },
+ {
+  "name": "Onett Theme / Winters Theme",
+  "id": "k13_mtr2_onettnotheme",
+  "series": "Earthbound Series",
+  "bgm_id": "bgm_k13_mtr2_onettnotheme"
+ },
+ {
+  "name": "Magicant",
+  "id": "k14_mtr_magicant",
+  "series": "Earthbound Series",
+  "bgm_id": "bgm_k14_mtr_magicant"
+ },
+ {
+  "name": "Fourside",
+  "id": "k15_mtr2_fourside",
+  "series": "Earthbound Series",
+  "bgm_id": "bgm_k15_mtr2_fourside"
+ },
+ {
+  "name": "Bein' Friends",
+  "id": "w12_mtr_onet",
+  "series": "Earthbound Series",
+  "bgm_id": "bgm_w12_mtr_onet"
+ },
+ {
+  "name": "Pollyanna (I Believe in You)",
+  "id": "w19_mtr_pollyanna",
+  "series": "Earthbound Series",
+  "bgm_id": "bgm_w19_mtr_pollyanna"
+ },
+ {
+  "name": "Fourside (Melee)",
+  "id": "w32_mtr2_fourside",
+  "series": "Earthbound Series",
+  "bgm_id": "bgm_w32_mtr2_fourside"
+ },
+ {
+  "name": "Fire Emblem Theme",
+  "id": "j02_fem_theme",
+  "series": "Fire Emblem Series",
+  "bgm_id": "bgm_j02_fem_theme"
+ },
+ {
+  "name": "Shadow Dragon Medley",
+  "id": "j03_fem_aankokuryuumedley",
+  "series": "Fire Emblem Series",
+  "bgm_id": "bgm_j03_fem_aankokuryuumedley"
+ },
+ {
+  "name": "With Mila's Divine Protection (Celica Map 1)",
+  "id": "j04_gdn_miranokagototomoni",
+  "series": "Fire Emblem Series",
+  "bgm_id": "bgm_j04_gdn_miranokagototomoni"
+ },
+ {
+  "name": "Preparing to Advance",
+  "id": "j06_snk_shingekijunbi",
+  "series": "Fire Emblem Series",
+  "bgm_id": "bgm_j06_snk_shingekijunbi"
+ },
+ {
+  "name": "Winning Road - Roy's Hope",
+  "id": "j07_fnk_winningroad_roynokibou",
+  "series": "Fire Emblem Series",
+  "bgm_id": "bgm_j07_fnk_winningroad_roynokibou"
+ },
+ {
+  "name": "Attack - Fire Emblem",
+  "id": "j08_rnk_kougeki",
+  "series": "Fire Emblem Series",
+  "bgm_id": "bgm_j08_rnk_kougeki"
+ },
+ {
+  "name": "Against the Dark Knight",
+  "id": "j09_sek_againstthedarkknight",
+  "series": "Fire Emblem Series",
+  "bgm_id": "bgm_j09_sek_againstthedarkknight"
+ },
+ {
+  "name": "Crimean Army Sortie",
+  "id": "j10_sek_crimeaarmysortie",
+  "series": "Fire Emblem Series",
+  "bgm_id": "bgm_j10_sek_crimeaarmysortie"
+ },
+ {
+  "name": "Power-Hungry Fool",
+  "id": "j11_sek_powerhungryfool",
+  "series": "Fire Emblem Series",
+  "bgm_id": "bgm_j11_sek_powerhungryfool"
+ },
+ {
+  "name": "Victory is Near",
+  "id": "j12_sek_victoryisnear",
+  "series": "Fire Emblem Series",
+  "bgm_id": "bgm_j12_sek_victoryisnear"
+ },
+ {
+  "name": "Eternal Bond",
+  "id": "j13_anm_ikenotheme",
+  "series": "Fire Emblem Series",
+  "bgm_id": "bgm_j13_anm_ikenotheme"
+ },
+ {
+  "name": "Id (Purpose)",
+  "id": "j14_ksi_i_i",
+  "series": "Fire Emblem Series",
+  "bgm_id": "bgm_j14_ksi_i_i"
+ },
+ {
+  "name": "Battle 1 - Fire Emblem Gaiden",
+  "id": "j15_gdn_tatakai1",
+  "series": "Fire Emblem Series",
+  "bgm_id": "bgm_j15_gdn_tatakai1"
+ },
+ {
+  "name": "Meeting Theme Series Medley",
+  "id": "j16_mnn_deainotheme",
+  "series": "Fire Emblem Series",
+  "bgm_id": "bgm_j16_mnn_deainotheme"
+ },
+ {
+  "name": "Fire Emblem: Mystery of the Emblem Medley",
+  "id": "j17_mnn_singeki",
+  "series": "Fire Emblem Series",
+  "bgm_id": "bgm_j17_mnn_singeki"
+ },
+ {
+  "name": "Coliseum Series Medley",
+  "id": "j18_ssk_tougijyou",
+  "series": "Fire Emblem Series",
+  "bgm_id": "bgm_j18_ssk_tougijyou"
+ },
+ {
+  "name": "The Devoted",
+  "id": "j20_anm_tyuugitsukusan",
+  "series": "Fire Emblem Series",
+  "bgm_id": "bgm_j20_anm_tyuugitsukusan"
+ },
+ {
+  "name": "Time of Action",
+  "id": "j21_anm_kekkinotoki",
+  "series": "Fire Emblem Series",
+  "bgm_id": "bgm_j21_anm_kekkinotoki"
+ },
+ {
+  "name": "Duty (Ablaze)",
+  "id": "j22_ksi_shimei_honoo",
+  "series": "Fire Emblem Series",
+  "bgm_id": "bgm_j22_ksi_shimei_honoo"
+ },
+ {
+  "name": "Conquest (Ablaze)",
+  "id": "j23_ksi_ensei_honoo",
+  "series": "Fire Emblem Series",
+  "bgm_id": "bgm_j23_ksi_ensei_honoo"
+ },
+ {
+  "name": "Lost in Thoughts All Alone (for 3DS / Wii U)",
+  "id": "j24_if_hitoriomou",
+  "series": "Fire Emblem Series",
+  "bgm_id": "bgm_j24_if_hitoriomou"
+ },
+ {
+  "name": "Lost in Thoughts All Alone (JP)",
+  "id": "j25_if_hitoriomou",
+  "series": "Fire Emblem Series",
+  "bgm_id": "bgm_j25_if_hitoriomou"
+ },
+ {
+  "name": "Lost in Thoughts All Alone (EN)",
+  "id": "j26_if_lostinthoughtsallalone",
+  "series": "Fire Emblem Series",
+  "bgm_id": "bgm_j26_if_lostinthoughtsallalone"
+ },
+ {
+  "name": "Gear Up For?",
+  "id": "j27_hr_menu",
+  "series": "Fire Emblem Series",
+  "bgm_id": "bgm_j27_hr_menu"
+ },
+ {
+  "name": "Lost in Thoughts All Alone",
+  "id": "j28_if_hitoriomou",
+  "series": "Fire Emblem Series",
+  "bgm_id": "bgm_j28_if_hitoriomou"
+ },
+ {
+  "name": "Prelude (Ablaze)",
+  "id": "j29_ksi_jomaku_honoo",
+  "series": "Fire Emblem Series",
+  "bgm_id": "bgm_j29_ksi_jomaku_honoo"
+ },
+ {
+  "name": "Edge of Adversity",
+  "id": "j30_ssk_shituinohate",
+  "series": "Fire Emblem Series",
+  "bgm_id": "bgm_j30_ssk_shituinohate"
+ },
+ {
+  "name": "Destiny (Ablaze)",
+  "id": "j31_ksi_shukumei_honoo",
+  "series": "Fire Emblem Series",
+  "bgm_id": "bgm_j31_ksi_shukumei_honoo"
+ },
+ {
+  "name": "Those Who Challenge Gods",
+  "id": "j32_eco_btl_a2",
+  "series": "Fire Emblem Series",
+  "bgm_id": "bgm_j32_eco_btl_a2"
+ },
+ {
+  "name": "The Scions' Dance in Purgatory",
+  "id": "j33_eco_btl_berkut2",
+  "series": "Fire Emblem Series",
+  "bgm_id": "bgm_j33_eco_btl_berkut2"
+ },
+ {
+  "name": "March to Deliverance",
+  "id": "j34_eco_mapb_a2",
+  "series": "Fire Emblem Series",
+  "bgm_id": "bgm_j34_eco_mapb_a2"
+ },
+ {
+  "name": "Lord of a Dead Empire",
+  "id": "j35_eco_mapb_rudlf",
+  "series": "Fire Emblem Series",
+  "bgm_id": "bgm_j35_eco_mapb_rudlf"
+ },
+ {
+  "name": "Under This Banner",
+  "id": "j36_mnn_konohatanomotoni",
+  "series": "Fire Emblem Series",
+  "bgm_id": "bgm_j36_mnn_konohatanomotoni"
+ },
+ {
+  "name": "Advance",
+  "id": "j37_mnn_singeki",
+  "series": "Fire Emblem Series",
+  "bgm_id": "bgm_j37_mnn_singeki"
+ },
+ {
+  "name": "Beyond Distant Skies - Roy's Departure",
+  "id": "j38_fnk_anosoranomukouni_roynotabidachi",
+  "series": "Fire Emblem Series",
+  "bgm_id": "bgm_j38_fnk_anosoranomukouni_roynotabidachi"
+ },
+ {
+  "name": "Id (Purpose)",
+  "id": "j39_ksi_i_i",
+  "series": "Fire Emblem Series",
+  "bgm_id": "bgm_j39_ksi_i_i"
+ },
+ {
+  "name": "Fire Emblem Theme (Heroic Origins)",
+  "id": "j40_hr_menutitle",
+  "series": "Fire Emblem Series",
+  "bgm_id": "bgm_j40_hr_menutitle"
+ },
+ {
+  "name": "Code Name: FE",
+  "id": "r95_stm_sodename_fe",
+  "series": "Fire Emblem Series",
+  "bgm_id": "bgm_r95_stm_sodename_fe"
+ },
+ {
+  "name": "Lords-A Chance Encounter",
+  "id": "r96_stm_lords_kaikou",
+  "series": "Fire Emblem Series",
+  "bgm_id": "bgm_r96_stm_lords_kaikou"
+ },
+ {
+  "name": "Lords-Showdown",
+  "id": "r97_stm_lords_kessen",
+  "series": "Fire Emblem Series",
+  "bgm_id": "bgm_r97_stm_lords_kessen"
+ },
+ {
+  "name": "Story 5 Meeting",
+  "id": "w17_fem_fireemblem",
+  "series": "Fire Emblem Series",
+  "bgm_id": "bgm_w17_fem_fireemblem"
+ },
+ {
+  "name": "Fire Emblem: Three Houses Main Theme (JP)",
+  "id": "j41a_fsg_maintheme_jp",
+  "series": "Fire Emblem Series",
+  "bgm_id": "bgm_j41a_fsg_maintheme_jp"
+ },
+ {
+  "name": "Fire Emblem: Three Houses Main Theme",
+  "id": "j41b_fsg_maintheme_en",
+  "series": "Fire Emblem Series",
+  "bgm_id": "bgm_j41b_fsg_maintheme_en"
+ },
+ {
+  "name": "Fódlan Winds",
+  "id": "j42_fsg_fodlanogyoufu",
+  "series": "Fire Emblem Series",
+  "bgm_id": "bgm_j42_fsg_fodlanogyoufu"
+ },
+ {
+  "name": "Tearing Through Heaven",
+  "id": "j44_fsg_tensakuryuusei",
+  "series": "Fire Emblem Series",
+  "bgm_id": "bgm_j44_fsg_tensakuryuusei"
+ },
+ {
+  "name": "Chasing Daybreak",
+  "id": "j45_fsg_yabounochihei",
+  "series": "Fire Emblem Series",
+  "bgm_id": "bgm_j45_fsg_yabounochihei"
+ },
+ {
+  "name": "Blue Skies and a Battle",
+  "id": "j46_fsg_jujishitachinosoukyuu",
+  "series": "Fire Emblem Series",
+  "bgm_id": "bgm_j46_fsg_jujishitachinosoukyuu"
+ },
+ {
+  "name": "Between Heaven and Earth",
+  "id": "j47_fsg_tentochinokyoukai",
+  "series": "Fire Emblem Series",
+  "bgm_id": "bgm_j47_fsg_tentochinokyoukai"
+ },
+ {
+  "name": "Apex of the World",
+  "id": "j48_fsg_konosekainoitadakide",
+  "series": "Fire Emblem Series",
+  "bgm_id": "bgm_j48_fsg_konosekainoitadakide"
+ },
+ {
+  "name": "Paths That Will Never Cross",
+  "id": "j49_fsg_majiwaranumichi",
+  "series": "Fire Emblem Series",
+  "bgm_id": "bgm_j49_fsg_majiwaranumichi"
+ },
+ {
+  "name": "Flat Zone 2",
+  "id": "r04_gw_flatzone2",
+  "series": "Game & Watch Series",
+  "bgm_id": "bgm_r04_gw_flatzone2"
+ },
+ {
+  "name": "Flat Zone",
+  "id": "w14_gw_flatzone",
+  "series": "Game & Watch Series",
+  "bgm_id": "bgm_w14_gw_flatzone"
+ },
+ {
+  "name": "Underworld",
+  "id": "p01_pnk_meifukai",
+  "series": "Kid Icarus Series",
+  "bgm_id": "bgm_p01_pnk_meifukai"
+ },
+ {
+  "name": "Title Theme - Kid Icarus",
+  "id": "p02_pnk_title",
+  "series": "Kid Icarus Series",
+  "bgm_id": "bgm_p02_pnk_title"
+ },
+ {
+  "name": "Overworld",
+  "id": "p03_pnk_chijyoukai",
+  "series": "Kid Icarus Series",
+  "bgm_id": "bgm_p03_pnk_chijyoukai"
+ },
+ {
+  "name": "Kid Icarus Retro Medley",
+  "id": "p04_pnk_genkyokumedley",
+  "series": "Kid Icarus Series",
+  "bgm_id": "bgm_p04_pnk_genkyokumedley"
+ },
+ {
+  "name": "Wrath of the Reset Bomb",
+  "id": "p05_shs_syokikabakudannokyoufu",
+  "series": "Kid Icarus Series",
+  "bgm_id": "bgm_p05_shs_syokikabakudannokyoufu"
+ },
+ {
+  "name": "In the Space-Pirate Ship",
+  "id": "p06_shs_seizokusen",
+  "series": "Kid Icarus Series",
+  "bgm_id": "bgm_p06_shs_seizokusen"
+ },
+ {
+  "name": "Boss Fight 1 - Kid Icarus: Uprising",
+  "id": "p07_shs_bosssen1",
+  "series": "Kid Icarus Series",
+  "bgm_id": "bgm_p07_shs_bosssen1"
+ },
+ {
+  "name": "Dark Pit's Theme",
+  "id": "p09_shs_blackpitnotheme",
+  "series": "Kid Icarus Series",
+  "bgm_id": "bgm_p09_shs_blackpitnotheme"
+ },
+ {
+  "name": "Lightning Chariot Base",
+  "id": "p11_shs_ginganoseiiki",
+  "series": "Kid Icarus Series",
+  "bgm_id": "bgm_p11_shs_ginganoseiiki"
+ },
+ {
+  "name": "Destroyed Skyworld",
+  "id": "p12_shs_houkaiengeland",
+  "series": "Kid Icarus Series",
+  "bgm_id": "bgm_p12_shs_houkaiengeland"
+ },
+ {
+  "name": "Magnus's Theme",
+  "id": "p13_shs_magnanotheme",
+  "series": "Kid Icarus Series",
+  "bgm_id": "bgm_p13_shs_magnanotheme"
+ },
+ {
+  "name": "Hades's Infernal Theme",
+  "id": "p15_shs_hadesnotheme",
+  "series": "Kid Icarus Series",
+  "bgm_id": "bgm_p15_shs_hadesnotheme"
+ },
+ {
+  "name": "Thunder Cloud Temple",
+  "id": "p16_shs_raiunnoteien",
+  "series": "Kid Icarus Series",
+  "bgm_id": "bgm_p16_shs_raiunnoteien"
+ },
+ {
+  "name": "WarioWare, Inc.",
+  "id": "m01_miw_madeinwario",
+  "series": "Wario Series",
+  "bgm_id": "bgm_m01_miw_madeinwario"
+ },
+ {
+  "name": "WarioWare, Inc. Medley",
+  "id": "m02_miw_medley",
+  "series": "Wario Series",
+  "bgm_id": "bgm_m02_miw_medley"
+ },
+ {
+  "name": "Mona Pizza's Song (JP)",
+  "id": "m03_mmw_kochiramonapizza",
+  "series": "Wario Series",
+  "bgm_id": "bgm_m03_mmw_kochiramonapizza"
+ },
+ {
+  "name": "Mona Pizza's Song",
+  "id": "m04_mmw_monapizzassong",
+  "series": "Wario Series",
+  "bgm_id": "bgm_m04_mmw_monapizzassong"
+ },
+ {
+  "name": "Mike's Song (JP)",
+  "id": "m05_smw_mikegasukisuki",
+  "series": "Wario Series",
+  "bgm_id": "bgm_m05_smw_mikegasukisuki"
+ },
+ {
+  "name": "Mike's Song",
+  "id": "m06_smw_mikessong",
+  "series": "Wario Series",
+  "bgm_id": "bgm_m06_smw_mikessong"
+ },
+ {
+  "name": "Ashley's Song (JP)",
+  "id": "m07_smw_ashreynotheme",
+  "series": "Wario Series",
+  "bgm_id": "bgm_m07_smw_ashreynotheme"
+ },
+ {
+  "name": "Ashley's Song",
+  "id": "m08_smw_ashreyssong",
+  "series": "Wario Series",
+  "bgm_id": "bgm_m08_smw_ashreyssong"
+ },
+ {
+  "name": "Ashley's Song (JP) (for 3DS / Wii U)",
+  "id": "m19_smw_ashreynotheme",
+  "series": "Wario Series",
+  "bgm_id": "bgm_m19_smw_ashreynotheme"
+ },
+ {
+  "name": "Ruins - Wario Land: Shake It!",
+  "id": "m20_wls_1_1_1_iseki",
+  "series": "Wario Series",
+  "bgm_id": "bgm_m20_wls_1_1_1_iseki"
+ },
+ {
+  "name": "Gamer (Mom’s in the room)",
+  "id": "m21b_gaw_gamer_mom",
+  "series": "Wario Series",
+  "bgm_id": "bgm_m21b_gaw_gamer_mom"
+ },
+ {
+  "name": "Gamer",
+  "id": "m21a_gaw_gamer_normal",
+  "series": "Wario Series",
+  "bgm_id": "bgm_m21a_gaw_gamer_normal"
+ },
+ {
+  "name": "World Map - Pikmin 2",
+  "id": "l01_pik2_worldmap",
+  "series": "Pikmin Series",
+  "bgm_id": "bgm_l01_pik2_worldmap"
+ },
+ {
+  "name": "Forest of Hope",
+  "id": "l02_pik_kibounomori",
+  "series": "Pikmin Series",
+  "bgm_id": "bgm_l02_pik_kibounomori"
+ },
+ {
+  "name": "Environmental Noises",
+  "id": "l03_pik_kankyouon",
+  "series": "Pikmin Series",
+  "bgm_id": "bgm_l03_pik_kankyouon"
+ },
+ {
+  "name": "Main Theme - Pikmin",
+  "id": "l06_pik_maintheme",
+  "series": "Pikmin Series",
+  "bgm_id": "bgm_l06_pik_maintheme"
+ },
+ {
+  "name": "Stage Clear / Title Theme - Pikmin",
+  "id": "l07_pik_clear_title",
+  "series": "Pikmin Series",
+  "bgm_id": "bgm_l07_pik_clear_title"
+ },
+ {
+  "name": "Stage Select - Pikmin 2",
+  "id": "l09_pik2_stageselect",
+  "series": "Pikmin Series",
+  "bgm_id": "bgm_l09_pik2_stageselect"
+ },
+ {
+  "name": "Mission Mode - Pikmin 3",
+  "id": "l10_pik3_missionmode",
+  "series": "Pikmin Series",
+  "bgm_id": "bgm_l10_pik3_missionmode"
+ },
+ {
+  "name": "Garden of Hope",
+  "id": "l11_pik3_saikainohanazono",
+  "series": "Pikmin Series",
+  "bgm_id": "bgm_l11_pik3_saikainohanazono"
+ },
+ {
+  "name": "Garden of Hope",
+  "id": "l12_pik3_saikainohanazono",
+  "series": "Pikmin Series",
+  "bgm_id": "bgm_l12_pik3_saikainohanazono"
+ },
+ {
+  "name": "Over Wintry Mountains",
+  "id": "l13_hpk_tokusyucourse4omote",
+  "series": "Pikmin Series",
+  "bgm_id": "bgm_l13_hpk_tokusyucourse4omote"
+ },
+ {
+  "name": "The Keeper of the Lake",
+  "id": "l14_hpk_boss2",
+  "series": "Pikmin Series",
+  "bgm_id": "bgm_l14_hpk_boss2"
+ },
+ {
+  "name": "Flashes of Fear",
+  "id": "l15_hpk_boss4",
+  "series": "Pikmin Series",
+  "bgm_id": "bgm_l15_hpk_boss4"
+ },
+ {
+  "name": "Fragment of Hope",
+  "id": "l16_hpk_boss9later",
+  "series": "Pikmin Series",
+  "bgm_id": "bgm_l16_hpk_boss9later"
+ },
+ {
+  "name": "Main Theme - Pikmin",
+  "id": "l17_pik_maintheme",
+  "series": "Pikmin Series",
+  "bgm_id": "bgm_l17_pik_maintheme"
+ },
+ {
+  "name": "Title Theme - Animal Crossing: Wild World",
+  "id": "n01_dnm_title",
+  "series": "Animal Crossing Series",
+  "bgm_id": "bgm_n01_dnm_title"
+ },
+ {
+  "name": "Go K.K. Rider!",
+  "id": "n02_dnm_yuke_kekerider",
+  "series": "Animal Crossing Series",
+  "bgm_id": "bgm_n02_dnm_yuke_kekerider"
+ },
+ {
+  "name": "2:00 a.m. - Animal Crossing: Wild World",
+  "id": "n03_dnm_200am",
+  "series": "Animal Crossing Series",
+  "bgm_id": "bgm_n03_dnm_200am"
+ },
+ {
+  "name": "The Roost - Animal Crossing: Wild World",
+  "id": "n05_oid_junkissa_hatonosu",
+  "series": "Animal Crossing Series",
+  "bgm_id": "bgm_n05_oid_junkissa_hatonosu"
+ },
+ {
+  "name": "K.K. Cruisin'",
+  "id": "n07_dnm_kk_urban",
+  "series": "Animal Crossing Series",
+  "bgm_id": "bgm_n07_dnm_kk_urban"
+ },
+ {
+  "name": "K.K. Western",
+  "id": "n08_dnm_kk_western",
+  "series": "Animal Crossing Series",
+  "bgm_id": "bgm_n08_dnm_kk_western"
+ },
+ {
+  "name": "K.K. Gumbo",
+  "id": "n09_dnm_kk_neworleans",
+  "series": "Animal Crossing Series",
+  "bgm_id": "bgm_n09_dnm_kk_neworleans"
+ },
+ {
+  "name": "Rockin' K.K.",
+  "id": "n10_dnm_kk_rocknroll",
+  "series": "Animal Crossing Series",
+  "bgm_id": "bgm_n10_dnm_kk_rocknroll"
+ },
+ {
+  "name": "DJ K.K.",
+  "id": "n11_dnm_kk_eurobeat",
+  "series": "Animal Crossing Series",
+  "bgm_id": "bgm_n11_dnm_kk_eurobeat"
+ },
+ {
+  "name": "K.K. Condor",
+  "id": "n12_dnm_kk_perunouta",
+  "series": "Animal Crossing Series",
+  "bgm_id": "bgm_n12_dnm_kk_perunouta"
+ },
+ {
+  "name": "Tortimer Island Medley",
+  "id": "n13_tbd_kotobukiland_medley",
+  "series": "Animal Crossing Series",
+  "bgm_id": "bgm_n13_tbd_kotobukiland_medley"
+ },
+ {
+  "name": "Kapp'n's Song",
+  "id": "n14_tbd_kappeinouta",
+  "series": "Animal Crossing Series",
+  "bgm_id": "bgm_n14_tbd_kappeinouta"
+ },
+ {
+  "name": "Plaza / Title Theme (Animal Crossing: City Folk / Animal »)",
+  "id": "n15_mhi_town_main",
+  "series": "Animal Crossing Series",
+  "bgm_id": "bgm_n15_mhi_town_main"
+ },
+ {
+  "name": "Outdoors at 7 p.m. (Sunny) / Main Street - Animal »",
+  "id": "n16_tbd_feild19ji_hare",
+  "series": "Animal Crossing Series",
+  "bgm_id": "bgm_n16_tbd_feild19ji_hare"
+ },
+ {
+  "name": "Tour - Animal Crossing: New Leaf",
+  "id": "n17_tbd_tour",
+  "series": "Animal Crossing Series",
+  "bgm_id": "bgm_n17_tbd_tour"
+ },
+ {
+  "name": "Bubblegum K.K.",
+  "id": "n18_tbd_kekeidol",
+  "series": "Animal Crossing Series",
+  "bgm_id": "bgm_n18_tbd_kekeidol"
+ },
+ {
+  "name": "Title Theme - Animal Crossing: Happy Home Designer",
+  "id": "n19_hhd_title",
+  "series": "Animal Crossing Series",
+  "bgm_id": "bgm_n19_hhd_title"
+ },
+ {
+  "name": "Title Theme - Animal Crossing",
+  "id": "n20_dnm_title",
+  "series": "Animal Crossing Series",
+  "bgm_id": "bgm_n20_dnm_title"
+ },
+ {
+  "name": "Title Theme - Animal Crossing: Wild World (New Remix)",
+  "id": "n21_dmp_title",
+  "series": "Animal Crossing Series",
+  "bgm_id": "bgm_n21_dmp_title"
+ },
+ {
+  "name": "House Preview",
+  "id": "n24_hhd_kanseidemo",
+  "series": "Animal Crossing Series",
+  "bgm_id": "bgm_n24_hhd_kanseidemo"
+ },
+ {
+  "name": "Super Hoop",
+  "id": "r28_wft_hoopdance",
+  "series": "Wii Fit Series",
+  "bgm_id": "bgm_r28_wft_hoopdance"
+ },
+ {
+  "name": "Wii Fit Plus Medley",
+  "id": "r29_wftp_athleticmii",
+  "series": "Wii Fit Series",
+  "bgm_id": "bgm_r29_wftp_athleticmii"
+ },
+ {
+  "name": "Skateboard Arena (Free Mode)",
+  "id": "r30_wftp_skebo_freemode",
+  "series": "Wii Fit Series",
+  "bgm_id": "bgm_r30_wftp_skebo_freemode"
+ },
+ {
+  "name": "Rhythm Boxing",
+  "id": "r44_wft_rhythmboxing",
+  "series": "Wii Fit Series",
+  "bgm_id": "bgm_r44_wft_rhythmboxing"
+ },
+ {
+  "name": "Mischievous Mole-Way",
+  "id": "r45_wftp_segwaychallange_tyuukyuu",
+  "series": "Wii Fit Series",
+  "bgm_id": "bgm_r45_wftp_segwaychallange_tyuukyuu"
+ },
+ {
+  "name": "Core Luge",
+  "id": "r46_wftu_luge",
+  "series": "Wii Fit Series",
+  "bgm_id": "bgm_r46_wftu_luge"
+ },
+ {
+  "name": "Training Menu - Wii Fit U",
+  "id": "r73_wftu_trainingmenu",
+  "series": "Wii Fit Series",
+  "bgm_id": "bgm_r73_wftu_trainingmenu"
+ },
+ {
+  "name": "Main Menu - Wii Fit",
+  "id": "r82_wft_mainmenu",
+  "series": "Wii Fit Series",
+  "bgm_id": "bgm_r82_wft_mainmenu"
+ },
+ {
+  "name": "Advanced Step",
+  "id": "r83_wft_fumidaidance",
+  "series": "Wii Fit Series",
+  "bgm_id": "bgm_r83_wft_fumidaidance"
+ },
+ {
+  "name": "Yoga",
+  "id": "r84_wft_yoga",
+  "series": "Wii Fit Series",
+  "bgm_id": "bgm_r84_wft_yoga"
+ },
+ {
+  "name": "Jogging / Countdown",
+  "id": "q18_po_running_countdown",
+  "series": "Punch-Out!! Series",
+  "bgm_id": "bgm_q18_po_running_countdown"
+ },
+ {
+  "name": "Minor Circuit",
+  "id": "q21_mpo_shiaityuu",
+  "series": "Punch-Out!! Series",
+  "bgm_id": "bgm_q21_mpo_shiaityuu"
+ },
+ {
+  "name": "Minor Circuit",
+  "id": "r21_wpo_minorcircuit",
+  "series": "Punch-Out!! Series",
+  "bgm_id": "bgm_r21_wpo_minorcircuit"
+ },
+ {
+  "name": "Title Theme - Punch-Out!! (Wii)",
+  "id": "r53_po_splashscreen",
+  "series": "Punch-Out!! Series",
+  "bgm_id": "bgm_r53_po_splashscreen"
+ },
+ {
+  "name": "World Circuit Theme",
+  "id": "r54_po_worldcircuitfight",
+  "series": "Punch-Out!! Series",
+  "bgm_id": "bgm_r54_po_worldcircuitfight"
+ },
+ {
+  "name": "Gaur Plain",
+  "id": "r23_xbd_gaurheigen",
+  "series": "Xenoblade Chronicles Series",
+  "bgm_id": "bgm_r23_xbd_gaurheigen"
+ },
+ {
+  "name": "You Will Know Our Names",
+  "id": "r24_xbd_nawokansurumonotachi",
+  "series": "Xenoblade Chronicles Series",
+  "bgm_id": "bgm_r24_xbd_nawokansurumonotachi"
+ },
+ {
+  "name": "Mechanical Rhythm",
+  "id": "r25_xbd_kinoritsudou",
+  "series": "Xenoblade Chronicles Series",
+  "bgm_id": "bgm_r25_xbd_kinoritsudou"
+ },
+ {
+  "name": "Xenoblade Chronicles Medley",
+  "id": "r36_xbd_arrangemedley",
+  "series": "Xenoblade Chronicles Series",
+  "bgm_id": "bgm_r36_xbd_arrangemedley"
+ },
+ {
+  "name": "Engage the Enemy",
+  "id": "r55_xbd_tekitonotaiji",
+  "series": "Xenoblade Chronicles Series",
+  "bgm_id": "bgm_r55_xbd_tekitonotaiji"
+ },
+ {
+  "name": "Time to Fight! - Xenoblade Chronicles",
+  "id": "r56_xbd_sentou",
+  "series": "Xenoblade Chronicles Series",
+  "bgm_id": "bgm_r56_xbd_sentou"
+ },
+ {
+  "name": "Gaur Plain (Night)",
+  "id": "r57_xbd_gaurheigen_yoru",
+  "series": "Xenoblade Chronicles Series",
+  "bgm_id": "bgm_r57_xbd_gaurheigen_yoru"
+ },
+ {
+  "name": "An Obstacle in Our Path - Xenoblade Chronicles",
+  "id": "r58_xbd_yukutewohabamumono",
+  "series": "Xenoblade Chronicles Series",
+  "bgm_id": "bgm_r58_xbd_yukutewohabamumono"
+ },
+ {
+  "name": "Battle!! - Xenoblade Chronicles 2",
+  "id": "rr09_xbd2_sentou",
+  "series": "Xenoblade Chronicles Series",
+  "bgm_id": "bgm_rr09_xbd2_sentou"
+ },
+ {
+  "name": "Still, Move Forward!",
+  "id": "rr10_xbd2_soredemomaeesusume",
+  "series": "Xenoblade Chronicles Series",
+  "bgm_id": "bgm_rr10_xbd2_soredemomaeesusume"
+ },
+ {
+  "name": "Xenoblade Chronicles 2 Medley",
+  "id": "rr16_xbd2_arrangemedley",
+  "series": "Xenoblade Chronicles Series",
+  "bgm_id": "bgm_rr16_xbd2_arrangemedley"
+ },
+ {
+  "name": "Tiger! Tiger!",
+  "id": "rr17_xbd2_tigertiger",
+  "series": "Xenoblade Chronicles Series",
+  "bgm_id": "bgm_rr17_xbd2_tigertiger"
+ },
+ {
+  "name": "Counterattack",
+  "id": "rr18_xbd2_counterattack",
+  "series": "Xenoblade Chronicles Series",
+  "bgm_id": "bgm_rr18_xbd2_counterattack"
+ },
+ {
+  "name": "Argentum",
+  "id": "rr19_xbd2_avaritiashoukai",
+  "series": "Xenoblade Chronicles Series",
+  "bgm_id": "bgm_rr19_xbd2_avaritiashoukai"
+ },
+ {
+  "name": "A Ship in a Stormy Sea",
+  "id": "rr20_xbd2_arashinosenjyou",
+  "series": "Xenoblade Chronicles Series",
+  "bgm_id": "bgm_rr20_xbd2_arashinosenjyou"
+ },
+ {
+  "name": "Exploration",
+  "id": "rr21_xbd2_exploration",
+  "series": "Xenoblade Chronicles Series",
+  "bgm_id": "bgm_rr21_xbd2_exploration"
+ },
+ {
+  "name": "Crossing Swords",
+  "id": "rr22_xbd2_majiwarutsurugi",
+  "series": "Xenoblade Chronicles Series",
+  "bgm_id": "bgm_rr22_xbd2_majiwarutsurugi"
+ },
+ {
+  "name": "Incoming",
+  "id": "rr23_xbd2_incoming",
+  "series": "Xenoblade Chronicles Series",
+  "bgm_id": "bgm_rr23_xbd2_incoming"
+ },
+ {
+  "name": "Gormott",
+  "id": "rr24_xbd2_gularyou",
+  "series": "Xenoblade Chronicles Series",
+  "bgm_id": "bgm_rr24_xbd2_gularyou"
+ },
+ {
+  "name": "Death Match with Torna",
+  "id": "rr26_xbd2_shitou_ira",
+  "series": "Xenoblade Chronicles Series",
+  "bgm_id": "bgm_rr26_xbd2_shitou_ira"
+ },
+ {
+  "name": "You Will Recall Our Names",
+  "id": "rr28_xbd2_saraninawokansurumonotachi",
+  "series": "Xenoblade Chronicles Series",
+  "bgm_id": "bgm_rr28_xbd2_saraninawokansurumonotachi"
+ },
+ {
+  "name": "Driver Vs",
+  "id": "rr29_xbd2_driver_vs",
+  "series": "Xenoblade Chronicles Series",
+  "bgm_id": "bgm_rr29_xbd2_driver_vs"
+ },
+ {
+  "name": "Mor Ardain - Roaming the Wastes",
+  "id": "rr31_xbd2_superbiateikoku",
+  "series": "Xenoblade Chronicles Series",
+  "bgm_id": "bgm_rr31_xbd2_superbiateikoku"
+ },
+ {
+  "name": "Bringer of Chaos! Ultimate",
+  "id": "rr32_xbd2_raigou_ultimate",
+  "series": "Xenoblade Chronicles Series",
+  "bgm_id": "bgm_rr32_xbd2_raigou_ultimate"
+ },
+ {
+  "name": "Praetor Amalthus - The Acting God",
+  "id": "rr33_xbd2_marveni",
+  "series": "Xenoblade Chronicles Series",
+  "bgm_id": "bgm_rr33_xbd2_marveni"
+ },
+ {
+  "name": "Battle!!/Torna",
+  "id": "rr34_xbd2_sentou_ira",
+  "series": "Xenoblade Chronicles Series",
+  "bgm_id": "bgm_rr34_xbd2_sentou_ira"
+ },
+ {
+  "name": "Splattack!",
+  "id": "sp01_sp_splattack",
+  "series": "Splatoon Series",
+  "bgm_id": "bgm_sp01_sp_splattack"
+ },
+ {
+  "name": "Ink or Sink",
+  "id": "sp02_sp_inkorsink",
+  "series": "Splatoon Series",
+  "bgm_id": "bgm_sp02_sp_inkorsink"
+ },
+ {
+  "name": "Kraken Up",
+  "id": "sp04_sp_krakenup",
+  "series": "Splatoon Series",
+  "bgm_id": "bgm_sp04_sp_krakenup"
+ },
+ {
+  "name": "Metalopod",
+  "id": "sp05_sp_metalopod",
+  "series": "Splatoon Series",
+  "bgm_id": "bgm_sp05_sp_metalopod"
+ },
+ {
+  "name": "Now or Never! - Splatoon",
+  "id": "sp06_sp_nowornever",
+  "series": "Splatoon Series",
+  "bgm_id": "bgm_sp06_sp_nowornever"
+ },
+ {
+  "name": "Ink Me Up",
+  "id": "sp07_sp_kimiironisomete",
+  "series": "Splatoon Series",
+  "bgm_id": "bgm_sp07_sp_kimiironisomete"
+ },
+ {
+  "name": "Now or Never! (Splatfest Version) - Splatoon",
+  "id": "sp08_sp_imanuraneba",
+  "series": "Splatoon Series",
+  "bgm_id": "bgm_sp08_sp_imanuraneba"
+ },
+ {
+  "name": "Calamari Inkantation",
+  "id": "sp09_sp_shiokarabushi",
+  "series": "Splatoon Series",
+  "bgm_id": "bgm_sp09_sp_shiokarabushi"
+ },
+ {
+  "name": "Split & Splat",
+  "id": "sp10_sp_quickstart",
+  "series": "Splatoon Series",
+  "bgm_id": "bgm_sp10_sp_quickstart"
+ },
+ {
+  "name": "Octoweaponry",
+  "id": "sp11_sp_octoweaponry",
+  "series": "Splatoon Series",
+  "bgm_id": "bgm_sp11_sp_octoweaponry"
+ },
+ {
+  "name": "I Am Octavio",
+  "id": "sp12_sp_iamoctavio",
+  "series": "Splatoon Series",
+  "bgm_id": "bgm_sp12_sp_iamoctavio"
+ },
+ {
+  "name": "Now or Never!",
+  "id": "sp14_sp_nowornever",
+  "series": "Splatoon Series",
+  "bgm_id": "bgm_sp14_sp_nowornever"
+ },
+ {
+  "name": "Bomb Rush Blush",
+  "id": "sp15_sp_tokimekibombrush",
+  "series": "Splatoon Series",
+  "bgm_id": "bgm_sp15_sp_tokimekibombrush"
+ },
+ {
+  "name": "Seaskape",
+  "id": "sp16_sp_seaskape",
+  "series": "Splatoon Series",
+  "bgm_id": "bgm_sp16_sp_seaskape"
+ },
+ {
+  "name": "Splattack!",
+  "id": "sp17_sp_splattack",
+  "series": "Splatoon Series",
+  "bgm_id": "bgm_sp17_sp_splattack"
+ },
+ {
+  "name": "Inkoming!",
+  "id": "sp18_sp2_inkoming",
+  "series": "Splatoon Series",
+  "bgm_id": "bgm_sp18_sp2_inkoming"
+ },
+ {
+  "name": "Rip Entry",
+  "id": "sp19_sp2_ripentry",
+  "series": "Splatoon Series",
+  "bgm_id": "bgm_sp19_sp2_ripentry"
+ },
+ {
+  "name": "Undertow",
+  "id": "sp20_sp2_undertow",
+  "series": "Splatoon Series",
+  "bgm_id": "bgm_sp20_sp2_undertow"
+ },
+ {
+  "name": "Don't Slip",
+  "id": "sp21_sp2_dontslip",
+  "series": "Splatoon Series",
+  "bgm_id": "bgm_sp21_sp2_dontslip"
+ },
+ {
+  "name": "Endolphin Surge",
+  "id": "sp22_sp2_endolphinsurge",
+  "series": "Splatoon Series",
+  "bgm_id": "bgm_sp22_sp2_endolphinsurge"
+ },
+ {
+  "name": "Ebb & Flow",
+  "id": "sp23_sp2_fullthrottle_tentacle",
+  "series": "Splatoon Series",
+  "bgm_id": "bgm_sp23_sp2_fullthrottle_tentacle"
+ },
+ {
+  "name": "Acid Hues",
+  "id": "sp24_sp2_ripplerefrain",
+  "series": "Splatoon Series",
+  "bgm_id": "bgm_sp24_sp2_ripplerefrain"
+ },
+ {
+  "name": "Muck Warfare",
+  "id": "sp25_sp2_redhotegoist",
+  "series": "Splatoon Series",
+  "bgm_id": "bgm_sp25_sp2_redhotegoist"
+ },
+ {
+  "name": "Deluge Dirge",
+  "id": "sp26_sp2_gougou",
+  "series": "Splatoon Series",
+  "bgm_id": "bgm_sp26_sp2_gougou"
+ },
+ {
+  "name": "Now or Never! - Splatoon 2",
+  "id": "sp27_sp2_nowornever",
+  "series": "Splatoon Series",
+  "bgm_id": "bgm_sp27_sp2_nowornever"
+ },
+ {
+  "name": "Now or Never! (Splatfest Version) - Splatoon 2",
+  "id": "sp28_sp2_imanuraneba",
+  "series": "Splatoon Series",
+  "bgm_id": "bgm_sp28_sp2_imanuraneba"
+ },
+ {
+  "name": "Encounter",
+  "id": "mg02_mgs_encounter",
+  "series": "Metal Gear Solid Series",
+  "bgm_id": "bgm_mg02_mgs_encounter"
+ },
+ {
+  "name": "Theme of Tara",
+  "id": "mg03_mg_themeoftara",
+  "series": "Metal Gear Solid Series",
+  "bgm_id": "bgm_mg03_mg_themeoftara"
+ },
+ {
+  "name": "Yell ´Dead Cell´",
+  "id": "mg04_mgs2_yelldeadcell",
+  "series": "Metal Gear Solid Series",
+  "bgm_id": "bgm_mg04_mgs2_yelldeadcell"
+ },
+ {
+  "name": "Snake Eater (Instrumental)",
+  "id": "mg05_mgs3_snakeeater_instrumental",
+  "series": "Metal Gear Solid Series",
+  "bgm_id": "bgm_mg05_mgs3_snakeeater_instrumental"
+ },
+ {
+  "name": "MGS4 ~Theme of Love~",
+  "id": "mg06_mgs4_themeoflove",
+  "series": "Metal Gear Solid Series",
+  "bgm_id": "bgm_mg06_mgs4_themeoflove"
+ },
+ {
+  "name": "Cavern",
+  "id": "mg07_mgs_cavern",
+  "series": "Metal Gear Solid Series",
+  "bgm_id": "bgm_mg07_mgs_cavern"
+ },
+ {
+  "name": "Battle in the Base",
+  "id": "mg08_mgs3_battleinthebase",
+  "series": "Metal Gear Solid Series",
+  "bgm_id": "bgm_mg08_mgs3_battleinthebase"
+ },
+ {
+  "name": "Calling to the Night",
+  "id": "mg11_callingtothenight",
+  "series": "Metal Gear Solid Series",
+  "bgm_id": "bgm_mg11_callingtothenight"
+ },
+ {
+  "name": "Snake Eater",
+  "id": "mg12_mgs3_snakeeater",
+  "series": "Metal Gear Solid Series",
+  "bgm_id": "bgm_mg12_mgs3_snakeeater"
+ },
+ {
+  "name": "Theme of Solid Snake",
+  "id": "mg13_mg2_themeofsolidsnake",
+  "series": "Metal Gear Solid Series",
+  "bgm_id": "bgm_mg13_mg2_themeofsolidsnake"
+ },
+ {
+  "name": "Main Theme - METAL GEAR SOLID PEACE WALKER",
+  "id": "mg14_msp_maintheme",
+  "series": "Metal Gear Solid Series",
+  "bgm_id": "bgm_mg14_msp_maintheme"
+ },
+ {
+  "name": "Green Hill Zone",
+  "id": "u01_snc_greenhillzone",
+  "series": "Sonic Series",
+  "bgm_id": "bgm_u01_snc_greenhillzone"
+ },
+ {
+  "name": "Scrap Brain Zone",
+  "id": "u02_snc_scrapbrainzone",
+  "series": "Sonic Series",
+  "bgm_id": "bgm_u02_snc_scrapbrainzone"
+ },
+ {
+  "name": "Emerald Hill Zone",
+  "id": "u03_snc2_emeraldhillzone",
+  "series": "Sonic Series",
+  "bgm_id": "bgm_u03_snc2_emeraldhillzone"
+ },
+ {
+  "name": "Angel Island Zone",
+  "id": "u04_snc3_angelislandzone",
+  "series": "Sonic Series",
+  "bgm_id": "bgm_u04_snc3_angelislandzone"
+ },
+ {
+  "name": "Sonic Boom",
+  "id": "u06_snccd_sonicboom",
+  "series": "Sonic Series",
+  "bgm_id": "bgm_u06_snccd_sonicboom"
+ },
+ {
+  "name": "Super Sonic Racing",
+  "id": "u07_sncr_supersonicracing",
+  "series": "Sonic Series",
+  "bgm_id": "bgm_u07_sncr_supersonicracing"
+ },
+ {
+  "name": "Open Your Heart",
+  "id": "u08_sadv_openyourheart",
+  "series": "Sonic Series",
+  "bgm_id": "bgm_u08_sadv_openyourheart"
+ },
+ {
+  "name": "Live and Learn",
+  "id": "u09_sadv2_liveandlearn",
+  "series": "Sonic Series",
+  "bgm_id": "bgm_u09_sadv2_liveandlearn"
+ },
+ {
+  "name": "Sonic Heroes",
+  "id": "u10_shrs_sonicheroes",
+  "series": "Sonic Series",
+  "bgm_id": "bgm_u10_shrs_sonicheroes"
+ },
+ {
+  "name": "Seven Rings in Hand",
+  "id": "u13_srng_sevenringsinhand",
+  "series": "Sonic Series",
+  "bgm_id": "bgm_u13_srng_sevenringsinhand"
+ },
+ {
+  "name": "Escape from the City",
+  "id": "u14_sadv2_escapefromthecity",
+  "series": "Sonic Series",
+  "bgm_id": "bgm_u14_sadv2_escapefromthecity"
+ },
+ {
+  "name": "Knight of the Wind",
+  "id": "u15_sblk_knightofthewind",
+  "series": "Sonic Series",
+  "bgm_id": "bgm_u15_sblk_knightofthewind"
+ },
+ {
+  "name": "Reach for the Stars",
+  "id": "u16_sclr_reachforthestars",
+  "series": "Sonic Series",
+  "bgm_id": "bgm_u16_sclr_reachforthestars"
+ },
+ {
+  "name": "Rooftop Run",
+  "id": "u17_sgen_rooftoprun",
+  "series": "Sonic Series",
+  "bgm_id": "bgm_u17_sgen_rooftoprun"
+ },
+ {
+  "name": "Wonder World",
+  "id": "u18_slst_wonderworld",
+  "series": "Sonic Series",
+  "bgm_id": "bgm_u18_slst_wonderworld"
+ },
+ {
+  "name": "Windy Hill - Zone 1",
+  "id": "u19_slst_windyhill_zone1",
+  "series": "Sonic Series",
+  "bgm_id": "bgm_u19_slst_windyhill_zone1"
+ },
+ {
+  "name": "Lights, Camera, Action! (Studiopolis Zone Act 1)",
+  "id": "u20_smn_studiopolis_act1",
+  "series": "Sonic Series",
+  "bgm_id": "bgm_u20_smn_studiopolis_act1"
+ },
+ {
+  "name": "Fist Bump",
+  "id": "u21_sfo_fistbump",
+  "series": "Sonic Series",
+  "bgm_id": "bgm_u21_sfo_fistbump"
+ },
+ {
+  "name": "Sunset Heights",
+  "id": "u22_sfo_sunsetheight",
+  "series": "Sonic Series",
+  "bgm_id": "bgm_u22_sfo_sunsetheight"
+ },
+ {
+  "name": "Mega Man 2 Medley",
+  "id": "s01_rm2_medley",
+  "series": "Mega Man Series",
+  "bgm_id": "bgm_s01_rm2_medley"
+ },
+ {
+  "name": "Air Man Stage",
+  "id": "s02_rm2_airman_stage",
+  "series": "Mega Man Series",
+  "bgm_id": "bgm_s02_rm2_airman_stage"
+ },
+ {
+  "name": "Spark Man Stage",
+  "id": "s03_rm3_sparkman_stage",
+  "series": "Mega Man Series",
+  "bgm_id": "bgm_s03_rm3_sparkman_stage"
+ },
+ {
+  "name": "Mega Man 2 Retro Medley",
+  "id": "s04_rm2_originalmedley",
+  "series": "Mega Man Series",
+  "bgm_id": "bgm_s04_rm2_originalmedley"
+ },
+ {
+  "name": "Cut Man Stage",
+  "id": "s05_rm_cutman_stage",
+  "series": "Mega Man Series",
+  "bgm_id": "bgm_s05_rm_cutman_stage"
+ },
+ {
+  "name": "Quick Man Stage",
+  "id": "s06_rm2_quickman_stage",
+  "series": "Mega Man Series",
+  "bgm_id": "bgm_s06_rm2_quickman_stage"
+ },
+ {
+  "name": "Shadow Man Stage",
+  "id": "s07_rm3_shadowman_stage",
+  "series": "Mega Man Series",
+  "bgm_id": "bgm_s07_rm3_shadowman_stage"
+ },
+ {
+  "name": "Mega Man Retro Medley",
+  "id": "s08_rm_originalmedley",
+  "series": "Mega Man Series",
+  "bgm_id": "bgm_s08_rm_originalmedley"
+ },
+ {
+  "name": "Mega Man 3 Retro Medley",
+  "id": "s09_rm3_originalmedley",
+  "series": "Mega Man Series",
+  "bgm_id": "bgm_s09_rm3_originalmedley"
+ },
+ {
+  "name": "Mega Man 4-6 Retro Medley",
+  "id": "s10_rm4_6_originalmedley",
+  "series": "Mega Man Series",
+  "bgm_id": "bgm_s10_rm4_6_originalmedley"
+ },
+ {
+  "name": "Wood Man Stage",
+  "id": "s11_rm2_woodmanstage",
+  "series": "Mega Man Series",
+  "bgm_id": "bgm_s11_rm2_woodmanstage"
+ },
+ {
+  "name": "Dark Man Stage",
+  "id": "s12_rm5_darkmanstage",
+  "series": "Mega Man Series",
+  "bgm_id": "bgm_s12_rm5_darkmanstage"
+ },
+ {
+  "name": "Top Man Stage",
+  "id": "s13_rm3_topmanstage",
+  "series": "Mega Man Series",
+  "bgm_id": "bgm_s13_rm3_topmanstage"
+ },
+ {
+  "name": "Ice Man Stage",
+  "id": "s14_rm_icemanstage",
+  "series": "Mega Man Series",
+  "bgm_id": "bgm_s14_rm_icemanstage"
+ },
+ {
+  "name": "Bomb Man Stage",
+  "id": "s15_rm_bombmanstage",
+  "series": "Mega Man Series",
+  "bgm_id": "bgm_s15_rm_bombmanstage"
+ },
+ {
+  "name": "Fire Man Stage",
+  "id": "s16_rm_firemanstage",
+  "series": "Mega Man Series",
+  "bgm_id": "bgm_s16_rm_firemanstage"
+ },
+ {
+  "name": "Metal Man Stage",
+  "id": "s17_rm2_metalmanstage",
+  "series": "Mega Man Series",
+  "bgm_id": "bgm_s17_rm2_metalmanstage"
+ },
+ {
+  "name": "Crash Man Stage",
+  "id": "s18_rm2_crashmanstage",
+  "series": "Mega Man Series",
+  "bgm_id": "bgm_s18_rm2_crashmanstage"
+ },
+ {
+  "name": "Mega Man 4 Medley",
+  "id": "s19_rm4_medley",
+  "series": "Mega Man Series",
+  "bgm_id": "bgm_s19_rm4_medley"
+ },
+ {
+  "name": "Gravity Man Stage",
+  "id": "s20_rm5_gravitymanstage",
+  "series": "Mega Man Series",
+  "bgm_id": "bgm_s20_rm5_gravitymanstage"
+ },
+ {
+  "name": "Napalm Man Stage",
+  "id": "s21_rm5_napalmmanstage",
+  "series": "Mega Man Series",
+  "bgm_id": "bgm_s21_rm5_napalmmanstage"
+ },
+ {
+  "name": "We're Robots (Dr. Wily Stage 2)",
+  "id": "s22_rm9_weretherobots_wilystage2",
+  "series": "Mega Man Series",
+  "bgm_id": "bgm_s22_rm9_weretherobots_wilystage2"
+ },
+ {
+  "name": "Opening Stage",
+  "id": "s23_rmx_openingstage",
+  "series": "Mega Man Series",
+  "bgm_id": "bgm_s23_rmx_openingstage"
+ },
+ {
+  "name": "Guts Man Stage",
+  "id": "s24_rm_gutsmanstage",
+  "series": "Mega Man Series",
+  "bgm_id": "bgm_s24_rm_gutsmanstage"
+ },
+ {
+  "name": "Hard Man Stage",
+  "id": "s25_rm3_hardmanstage",
+  "series": "Mega Man Series",
+  "bgm_id": "bgm_s25_rm3_hardmanstage"
+ },
+ {
+  "name": "Flash in the Dark (Dr. Wily Stage 1)",
+  "id": "s26_rm9_flashinthedark_wilystage1",
+  "series": "Mega Man Series",
+  "bgm_id": "bgm_s26_rm9_flashinthedark_wilystage1"
+ },
+ {
+  "name": "X vs. ZERO",
+  "id": "s27_rmx5_xvszero",
+  "series": "Mega Man Series",
+  "bgm_id": "bgm_s27_rmx5_xvszero"
+ },
+ {
+  "name": "Zero (Theme of ZERO (from Mega Man X))",
+  "id": "s28_rrz_themeofzero_fromx",
+  "series": "Mega Man Series",
+  "bgm_id": "bgm_s28_rrz_themeofzero_fromx"
+ },
+ {
+  "name": "Shooting Star",
+  "id": "s29_rrm_shootingstar",
+  "series": "Mega Man Series",
+  "bgm_id": "bgm_s29_rrm_shootingstar"
+ },
+ {
+  "name": "Snake Man Stage",
+  "id": "s30_rm3_snakemanstage",
+  "series": "Mega Man Series",
+  "bgm_id": "bgm_s30_rm3_snakemanstage"
+ },
+ {
+  "name": "Flash Man Stage",
+  "id": "s31_rm2_flashmanstage",
+  "series": "Mega Man Series",
+  "bgm_id": "bgm_s31_rm2_flashmanstage"
+ },
+ {
+  "name": "PAC-MAN",
+  "id": "v01_pac_pacman",
+  "series": "PAC-MAN Series",
+  "bgm_id": "bgm_v01_pac_pacman"
+ },
+ {
+  "name": "PAC-MAN (Club Mix)",
+  "id": "v02_pac_pacman_clubmix",
+  "series": "PAC-MAN Series",
+  "bgm_id": "bgm_v02_pac_pacman_clubmix"
+ },
+ {
+  "name": "PAC-MAN'S PARK / BLOCK TOWN",
+  "id": "v03_mna_pacmanspark_blocktown",
+  "series": "PAC-MAN Series",
+  "bgm_id": "bgm_v03_mna_pacmanspark_blocktown"
+ },
+ {
+  "name": "Libble Rabble Retro Medley",
+  "id": "v04_lbl_libblelabble_medley",
+  "series": "PAC-MAN Series",
+  "bgm_id": "bgm_v04_lbl_libblelabble_medley"
+ },
+ {
+  "name": "Metro-Cross Retro Medley",
+  "id": "v05_mcr_metrocross_medley",
+  "series": "PAC-MAN Series",
+  "bgm_id": "bgm_v05_mcr_metrocross_medley"
+ },
+ {
+  "name": "Namco Arcade '80s Retro Medley 1",
+  "id": "v06_nmc_80smedley1",
+  "series": "PAC-MAN Series",
+  "bgm_id": "bgm_v06_nmc_80smedley1"
+ },
+ {
+  "name": "Namco Arcade '80s Retro Medley 2",
+  "id": "v07_nmc_80smedley2",
+  "series": "PAC-MAN Series",
+  "bgm_id": "bgm_v07_nmc_80smedley2"
+ },
+ {
+  "name": "Sky Kid Retro Medley",
+  "id": "v08_skd_skykid_medley",
+  "series": "PAC-MAN Series",
+  "bgm_id": "bgm_v08_skd_skykid_medley"
+ },
+ {
+  "name": "Galaga Medley",
+  "id": "v11_glg_medley",
+  "series": "PAC-MAN Series",
+  "bgm_id": "bgm_v11_glg_medley"
+ },
+ {
+  "name": "Mappy Medley",
+  "id": "v12_mpy_medley",
+  "series": "PAC-MAN Series",
+  "bgm_id": "bgm_v12_mpy_medley"
+ },
+ {
+  "name": "Area 1 - Dragon Spirit",
+  "id": "v13_dsp_area1",
+  "series": "PAC-MAN Series",
+  "bgm_id": "bgm_v13_dsp_area1"
+ },
+ {
+  "name": "Ryu Stage Type A",
+  "id": "sf01a_sf2_ryu",
+  "series": "Street Fighter Series",
+  "bgm_id": "bgm_sf01a_sf2_ryu"
+ },
+ {
+  "name": "Ryu Stage Type A (Pinch)",
+  "id": "sf01b_sf2_ryu_pinch",
+  "series": "Street Fighter Series",
+  "bgm_id": "bgm_sf01b_sf2_ryu_pinch"
+ },
+ {
+  "name": "Ryu Stage Type B",
+  "id": "sf02a_sf2_ryu_2",
+  "series": "Street Fighter Series",
+  "bgm_id": "bgm_sf02a_sf2_ryu_2"
+ },
+ {
+  "name": "Ryu Stage Type B (Pinch)",
+  "id": "sf02b_sf2_ryu_2",
+  "series": "Street Fighter Series",
+  "bgm_id": "bgm_sf02b_sf2_ryu_2"
+ },
+ {
+  "name": "Ken Stage Type A",
+  "id": "sf03a_sf2_ken",
+  "series": "Street Fighter Series",
+  "bgm_id": "bgm_sf03a_sf2_ken"
+ },
+ {
+  "name": "Ken Stage Type B",
+  "id": "sf04a_sf2_ken_2",
+  "series": "Street Fighter Series",
+  "bgm_id": "bgm_sf04a_sf2_ken_2"
+ },
+ {
+  "name": "Ryu Stage",
+  "id": "sf05_sf2_ryustage",
+  "series": "Street Fighter Series",
+  "bgm_id": "bgm_sf05_sf2_ryustage"
+ },
+ {
+  "name": "Ken Stage",
+  "id": "sf06_sf2_kenstage",
+  "series": "Street Fighter Series",
+  "bgm_id": "bgm_sf06_sf2_kenstage"
+ },
+ {
+  "name": "Guile Stage",
+  "id": "sf07_sf2_guilestage",
+  "series": "Street Fighter Series",
+  "bgm_id": "bgm_sf07_sf2_guilestage"
+ },
+ {
+  "name": "Vega Stage",
+  "id": "sf08_sf2_balrogstage",
+  "series": "Street Fighter Series",
+  "bgm_id": "bgm_sf08_sf2_balrogstage"
+ },
+ {
+  "name": "Blanka Stage Type A",
+  "id": "sf09a_sf2_blanka",
+  "series": "Street Fighter Series",
+  "bgm_id": "bgm_sf09a_sf2_blanka"
+ },
+ {
+  "name": "Blanka Stage Type B",
+  "id": "sf10a_sf2_blanka_2",
+  "series": "Street Fighter Series",
+  "bgm_id": "bgm_sf10a_sf2_blanka_2"
+ },
+ {
+  "name": "Guile Stage Type A",
+  "id": "sf11a_sf2_guile",
+  "series": "Street Fighter Series",
+  "bgm_id": "bgm_sf11a_sf2_guile"
+ },
+ {
+  "name": "Guile Stage Type B",
+  "id": "sf12a_sf2_guile_2",
+  "series": "Street Fighter Series",
+  "bgm_id": "bgm_sf12a_sf2_guile_2"
+ },
+ {
+  "name": "Chun-Li Stage Type A",
+  "id": "sf13a_sf2_chunli",
+  "series": "Street Fighter Series",
+  "bgm_id": "bgm_sf13a_sf2_chunli"
+ },
+ {
+  "name": "Chun-Li Stage Type B",
+  "id": "sf14a_sf2_chunli_2",
+  "series": "Street Fighter Series",
+  "bgm_id": "bgm_sf14a_sf2_chunli_2"
+ },
+ {
+  "name": "E. Honda Stage Type A",
+  "id": "sf15a_sf2_ehonda",
+  "series": "Street Fighter Series",
+  "bgm_id": "bgm_sf15a_sf2_ehonda"
+ },
+ {
+  "name": "E. Honda Stage Type B",
+  "id": "sf16a_sf2_ehonda_2",
+  "series": "Street Fighter Series",
+  "bgm_id": "bgm_sf16a_sf2_ehonda_2"
+ },
+ {
+  "name": "Zangief Stage Type A",
+  "id": "sf17a_sf2_zangief",
+  "series": "Street Fighter Series",
+  "bgm_id": "bgm_sf17a_sf2_zangief"
+ },
+ {
+  "name": "Zangief Stage Type B",
+  "id": "sf18a_sf2_zangief_2",
+  "series": "Street Fighter Series",
+  "bgm_id": "bgm_sf18a_sf2_zangief_2"
+ },
+ {
+  "name": "Dhalsim Stage Type A",
+  "id": "sf19a_sf2_dhalsim",
+  "series": "Street Fighter Series",
+  "bgm_id": "bgm_sf19a_sf2_dhalsim"
+ },
+ {
+  "name": "Dhalsim Stage Type B",
+  "id": "sf20a_sf2_dhalsim_2",
+  "series": "Street Fighter Series",
+  "bgm_id": "bgm_sf20a_sf2_dhalsim_2"
+ },
+ {
+  "name": "Balrog Stage Type A",
+  "id": "sf21a_sf2_mbison",
+  "series": "Street Fighter Series",
+  "bgm_id": "bgm_sf21a_sf2_mbison"
+ },
+ {
+  "name": "Balrog Stage Type B",
+  "id": "sf22a_sf2_mbison_2",
+  "series": "Street Fighter Series",
+  "bgm_id": "bgm_sf22a_sf2_mbison_2"
+ },
+ {
+  "name": "Vega Stage Type A",
+  "id": "sf23a_sf2_balrog",
+  "series": "Street Fighter Series",
+  "bgm_id": "bgm_sf23a_sf2_balrog"
+ },
+ {
+  "name": "Vega Stage Type B",
+  "id": "sf24a_sf2_balrog_2",
+  "series": "Street Fighter Series",
+  "bgm_id": "bgm_sf24a_sf2_balrog_2"
+ },
+ {
+  "name": "Sagat Stage Type A",
+  "id": "sf25a_sf2_sagat",
+  "series": "Street Fighter Series",
+  "bgm_id": "bgm_sf25a_sf2_sagat"
+ },
+ {
+  "name": "Sagat Stage Type B",
+  "id": "sf26a_sf2_sagat_2",
+  "series": "Street Fighter Series",
+  "bgm_id": "bgm_sf26a_sf2_sagat_2"
+ },
+ {
+  "name": "M. Bison Stage Type A",
+  "id": "sf27a_sf2_vega",
+  "series": "Street Fighter Series",
+  "bgm_id": "bgm_sf27a_sf2_vega"
+ },
+ {
+  "name": "M. Bison Stage Type B",
+  "id": "sf28a_sf2_vega_2",
+  "series": "Street Fighter Series",
+  "bgm_id": "bgm_sf28a_sf2_vega_2"
+ },
+ {
+  "name": "Dee Jay Stage Type A",
+  "id": "sf29a_sf2_deejay",
+  "series": "Street Fighter Series",
+  "bgm_id": "bgm_sf29a_sf2_deejay"
+ },
+ {
+  "name": "Dee Jay Stage Type B",
+  "id": "sf30a_sf2_deejay_2",
+  "series": "Street Fighter Series",
+  "bgm_id": "bgm_sf30a_sf2_deejay_2"
+ },
+ {
+  "name": "T. Hawk Stage Type A",
+  "id": "sf31a_sf2_thawk",
+  "series": "Street Fighter Series",
+  "bgm_id": "bgm_sf31a_sf2_thawk"
+ },
+ {
+  "name": "T. Hawk Stage Type B",
+  "id": "sf32a_sf2_thawk_2",
+  "series": "Street Fighter Series",
+  "bgm_id": "bgm_sf32a_sf2_thawk_2"
+ },
+ {
+  "name": "Fei Long Stage Type A",
+  "id": "sf33a_sf2_feilong",
+  "series": "Street Fighter Series",
+  "bgm_id": "bgm_sf33a_sf2_feilong"
+ },
+ {
+  "name": "Fei Long Stage Type B",
+  "id": "sf34a_sf2_feilong_2",
+  "series": "Street Fighter Series",
+  "bgm_id": "bgm_sf34a_sf2_feilong_2"
+ },
+ {
+  "name": "Cammy Stage Type A",
+  "id": "sf35a_sf2_cammy",
+  "series": "Street Fighter Series",
+  "bgm_id": "bgm_sf35a_sf2_cammy"
+ },
+ {
+  "name": "Cammy Stage Type B",
+  "id": "sf36a_sf2_cammy_2",
+  "series": "Street Fighter Series",
+  "bgm_id": "bgm_sf36a_sf2_cammy_2"
+ },
+ {
+  "name": "Player Select Type A",
+  "id": "sf37a_sf2_playerselect",
+  "series": "Street Fighter Series",
+  "bgm_id": "bgm_sf37a_sf2_playerselect"
+ },
+ {
+  "name": "Player Select Type B",
+  "id": "sf37b_sf2_playerselect",
+  "series": "Street Fighter Series",
+  "bgm_id": "bgm_sf37b_sf2_playerselect"
+ },
+ {
+  "name": "Let the Battles Begin!",
+  "id": "ff01_ff7_tatakaumonotachi",
+  "series": "FINAL FANTASY VII Series",
+  "bgm_id": "bgm_ff01_ff7_tatakaumonotachi"
+ },
+ {
+  "name": "Fight On!",
+  "id": "ff02_ff7_saranitatakaumonotachi",
+  "series": "FINAL FANTASY VII Series",
+  "bgm_id": "bgm_ff02_ff7_saranitatakaumonotachi"
+ },
+ {
+  "name": "Opening - Bombing Mission",
+  "id": "ff03_ff7_opening_bakuhamission",
+  "series": "FINAL FANTASY VII Series",
+  "bgm_id": "bgm_ff03_ff7_opening_bakuhamission"
+ },
+ {
+  "name": "Main Theme of FINAL FANTASY VII",
+  "id": "ff04_ff7_maintheme",
+  "series": "FINAL FANTASY VII Series",
+  "bgm_id": "bgm_ff04_ff7_maintheme"
+ },
+ {
+  "name": "JENOVA",
+  "id": "ff05_ff7_jenova",
+  "series": "FINAL FANTASY VII Series",
+  "bgm_id": "bgm_ff05_ff7_jenova"
+ },
+ {
+  "name": "Cosmo Canyon",
+  "id": "ff06_ff7_hoshifurukyokoku",
+  "series": "FINAL FANTASY VII Series",
+  "bgm_id": "bgm_ff06_ff7_hoshifurukyokoku"
+ },
+ {
+  "name": "Aerith’s Theme",
+  "id": "ff07_ff7_aerithnotheme",
+  "series": "FINAL FANTASY VII Series",
+  "bgm_id": "bgm_ff07_ff7_aerithnotheme"
+ },
+ {
+  "name": "One-Winged Angel",
+  "id": "ff08_ff7_katayokunotenshi",
+  "series": "FINAL FANTASY VII Series",
+  "bgm_id": "bgm_ff08_ff7_katayokunotenshi"
+ },
+ {
+  "name": "Those Who Fight (AC Version)",
+  "id": "ff09_ff7ac_tatakaumonotachi_ac",
+  "series": "FINAL FANTASY VII Series",
+  "bgm_id": "bgm_ff09_ff7ac_tatakaumonotachi_ac"
+ },
+ {
+  "name": "Those Who Fight Further (AC Version)",
+  "id": "ff10_ff7ac_saranitatakaumonotachi_ac",
+  "series": "FINAL FANTASY VII Series",
+  "bgm_id": "bgm_ff10_ff7ac_saranitatakaumonotachi_ac"
+ },
+ {
+  "name": "Advent: One-Winged Angel",
+  "id": "ff11_ff7ac_sairin_katayokunotenshi",
+  "series": "FINAL FANTASY VII Series",
+  "bgm_id": "bgm_ff11_ff7ac_sairin_katayokunotenshi"
+ },
+ {
+  "name": "One of a Kind",
+  "id": "by01_by_oneofakind",
+  "series": "Bayonetta Series",
+  "bgm_id": "bgm_by01_by_oneofakind"
+ },
+ {
+  "name": "Riders of the Light",
+  "id": "by02_by_ridersofthelight",
+  "series": "Bayonetta Series",
+  "bgm_id": "bgm_by02_by_ridersofthelight"
+ },
+ {
+  "name": "Theme of Bayonetta - Mysterious Destiny (Instrumental)",
+  "id": "by03_by_mysteriousdestiny",
+  "series": "Bayonetta Series",
+  "bgm_id": "bgm_by03_by_mysteriousdestiny"
+ },
+ {
+  "name": "Let's Hit the Climax!",
+  "id": "by04_by_letshittheclimax",
+  "series": "Bayonetta Series",
+  "bgm_id": "bgm_by04_by_letshittheclimax"
+ },
+ {
+  "name": "Red & Black",
+  "id": "by05_by_redandblack",
+  "series": "Bayonetta Series",
+  "bgm_id": "bgm_by05_by_redandblack"
+ },
+ {
+  "name": "After Burner (8 Climax Mix)",
+  "id": "by06_by_afterburnerclimaxmix",
+  "series": "Bayonetta Series",
+  "bgm_id": "bgm_by06_by_afterburnerclimaxmix"
+ },
+ {
+  "name": "Friendship",
+  "id": "by07_by_tomoyo",
+  "series": "Bayonetta Series",
+  "bgm_id": "bgm_by07_by_tomoyo"
+ },
+ {
+  "name": "Let's Dance, Boys!",
+  "id": "by08_by_letsdanceboys",
+  "series": "Bayonetta Series",
+  "bgm_id": "bgm_by08_by_letsdanceboys"
+ },
+ {
+  "name": "The Legend of Aesir",
+  "id": "by09_by2_thelegendofaesir",
+  "series": "Bayonetta Series",
+  "bgm_id": "bgm_by09_by2_thelegendofaesir"
+ },
+ {
+  "name": "Tomorrow is Mine (Bayonetta 2 Theme) (Instrumental)",
+  "id": "by10_by2_tomorrowismine",
+  "series": "Bayonetta Series",
+  "bgm_id": "bgm_by10_by2_tomorrowismine"
+ },
+ {
+  "name": "Time for the Climax!",
+  "id": "by11_by2_timefortheclimax",
+  "series": "Bayonetta Series",
+  "bgm_id": "bgm_by11_by2_timefortheclimax"
+ },
+ {
+  "name": "Starker / Wicked Child",
+  "id": "ad01_fc_starker",
+  "series": "Castlevania Series",
+  "bgm_id": "bgm_ad01_fc_starker"
+ },
+ {
+  "name": "Out of Time",
+  "id": "ad03_fc_outoftime",
+  "series": "Castlevania Series",
+  "bgm_id": "bgm_ad03_fc_outoftime"
+ },
+ {
+  "name": "Bloody Tears / Monster Dance",
+  "id": "ad04_dc2_bloodytears",
+  "series": "Castlevania Series",
+  "bgm_id": "bgm_ad04_dc2_bloodytears"
+ },
+ {
+  "name": "Dwelling of Doom",
+  "id": "ad05_dc2_dwellingofdoom",
+  "series": "Castlevania Series",
+  "bgm_id": "bgm_ad05_dc2_dwellingofdoom"
+ },
+ {
+  "name": "Simon Belmont Theme",
+  "id": "ad07_sfc_simonbelmontnotheme",
+  "series": "Castlevania Series",
+  "bgm_id": "bgm_ad07_sfc_simonbelmontnotheme"
+ },
+ {
+  "name": "Iron-Blue Intention",
+  "id": "ad08_vk_ironblueintention",
+  "series": "Castlevania Series",
+  "bgm_id": "bgm_ad08_vk_ironblueintention"
+ },
+ {
+  "name": "Awake",
+  "id": "ad09_cm_awake",
+  "series": "Castlevania Series",
+  "bgm_id": "bgm_ad09_cm_awake"
+ },
+ {
+  "name": "Lament of Innocence",
+  "id": "ad10_cv_shinjitsunonageki",
+  "series": "Castlevania Series",
+  "bgm_id": "bgm_ad10_cv_shinjitsunonageki"
+ },
+ {
+  "name": "Jet Black Incursion",
+  "id": "ad11_sj_shikkokunoshinkou",
+  "series": "Castlevania Series",
+  "bgm_id": "bgm_ad11_sj_shikkokunoshinkou"
+ },
+ {
+  "name": "Jail of Jewel",
+  "id": "ad12_gl_jailofjewel",
+  "series": "Castlevania Series",
+  "bgm_id": "bgm_ad12_gl_jailofjewel"
+ },
+ {
+  "name": "Hail from the Past",
+  "id": "ad13_gl_hailfromthepast",
+  "series": "Castlevania Series",
+  "bgm_id": "bgm_ad13_gl_hailfromthepast"
+ },
+ {
+  "name": "Divine Bloodlines",
+  "id": "ad14_gl_keishou_kekkonnoketsuzoku",
+  "series": "Castlevania Series",
+  "bgm_id": "bgm_ad14_gl_keishou_kekkonnoketsuzoku"
+ },
+ {
+  "name": "Vampire Killer",
+  "id": "ad15_ju_vampirekiller",
+  "series": "Castlevania Series",
+  "bgm_id": "bgm_ad15_ju_vampirekiller"
+ },
+ {
+  "name": "Mad Forest",
+  "id": "ad17_ju_madforest",
+  "series": "Castlevania Series",
+  "bgm_id": "bgm_ad17_ju_madforest"
+ },
+ {
+  "name": "Dracula's Castle",
+  "id": "ad18_ju_draculascastle",
+  "series": "Castlevania Series",
+  "bgm_id": "bgm_ad18_ju_draculascastle"
+ },
+ {
+  "name": "Dance of Illusions",
+  "id": "ad19_ju_danceofillusions",
+  "series": "Castlevania Series",
+  "bgm_id": "bgm_ad19_ju_danceofillusions"
+ },
+ {
+  "name": "Beginning",
+  "id": "ad20_ac_beginning",
+  "series": "Castlevania Series",
+  "bgm_id": "bgm_ad20_ac_beginning"
+ },
+ {
+  "name": "Cross Your Heart",
+  "id": "ad21_ac_jyujikawomuneni",
+  "series": "Castlevania Series",
+  "bgm_id": "bgm_ad21_ac_jyujikawomuneni"
+ },
+ {
+  "name": "Simon Belmont Theme (The Arcade)",
+  "id": "ad22_ac_simonnotheme",
+  "series": "Castlevania Series",
+  "bgm_id": "bgm_ad22_ac_simonnotheme"
+ },
+ {
+  "name": "Ruined Castle Gallery",
+  "id": "ad23_hd_koujoukairou",
+  "series": "Castlevania Series",
+  "bgm_id": "bgm_ad23_hd_koujoukairou"
+ },
+ {
+  "name": "Crash in the Dark Night",
+  "id": "ad24_hd_yamiyonogekitotsu",
+  "series": "Castlevania Series",
+  "bgm_id": "bgm_ad24_hd_yamiyonogekitotsu"
+ },
+ {
+  "name": "Jet Black Wings",
+  "id": "ad25_hd_shikkokunotsubasa",
+  "series": "Castlevania Series",
+  "bgm_id": "bgm_ad25_hd_shikkokunotsubasa"
+ },
+ {
+  "name": "Ripped Silence",
+  "id": "ad26_hd_kirisakaretaseijaku",
+  "series": "Castlevania Series",
+  "bgm_id": "bgm_ad26_hd_kirisakaretaseijaku"
+ },
+ {
+  "name": "Lost Painting",
+  "id": "ad27_hd_ushinawaretasaiga",
+  "series": "Castlevania Series",
+  "bgm_id": "bgm_ad27_hd_ushinawaretasaiga"
+ },
+ {
+  "name": "Nothing to Lose",
+  "id": "ad28_hd_nothingtolose",
+  "series": "Castlevania Series",
+  "bgm_id": "bgm_ad28_hd_nothingtolose"
+ },
+ {
+  "name": "The Tragic Prince",
+  "id": "ad29_hd_hikyounokikoushi",
+  "series": "Castlevania Series",
+  "bgm_id": "bgm_ad29_hd_hikyounokikoushi"
+ },
+ {
+  "name": "Twilight Stigmata",
+  "id": "ad30_hd_tasogarenoseikon",
+  "series": "Castlevania Series",
+  "bgm_id": "bgm_ad30_hd_tasogarenoseikon"
+ },
+ {
+  "name": "Can't Wait Until Night",
+  "id": "ad31_hd_yorumadematenai",
+  "series": "Castlevania Series",
+  "bgm_id": "bgm_ad31_hd_yorumadematenai"
+ },
+ {
+  "name": "Aquarius",
+  "id": "ad32_hd_aquarius",
+  "series": "Castlevania Series",
+  "bgm_id": "bgm_ad32_hd_aquarius"
+ },
+ {
+  "name": "Slash",
+  "id": "ad33_hd_slash",
+  "series": "Castlevania Series",
+  "bgm_id": "bgm_ad33_hd_slash"
+ },
+ {
+  "name": "Go! Getsu Fuma",
+  "id": "ad35_hd_ikegetsufuma",
+  "series": "Castlevania Series",
+  "bgm_id": "bgm_ad35_hd_ikegetsufuma"
+ },
+ {
+  "name": "Dance of Gold",
+  "id": "ad36_gy_ougonnobukyoku",
+  "series": "Castlevania Series",
+  "bgm_id": "bgm_ad36_gy_ougonnobukyoku"
+ },
+ {
+  "name": "Black Night",
+  "id": "ad37_ac_blacknight_lasstboss2",
+  "series": "Castlevania Series",
+  "bgm_id": "bgm_ad37_ac_blacknight_lasstboss2"
+ },
+ {
+  "name": "Vampire Killer",
+  "id": "ad38_ju_vampirekiller",
+  "series": "Castlevania Series",
+  "bgm_id": "bgm_ad38_ju_vampirekiller"
+ },
+ {
+  "name": "Roar / Rathalos",
+  "id": "mh01_mhxx_houkou",
+  "series": "Other Series",
+  "bgm_id": "bgm_mh01_mhxx_houkou"
+ },
+ {
+  "name": "Proof of a Hero ~ 4Version",
+  "id": "mh02_mh4_eiyuunoakashi",
+  "series": "Other Series",
+  "bgm_id": "bgm_mh02_mh4_eiyuunoakashi"
+ },
+ {
+  "name": "Famicom Medley",
+  "id": "q01_fc_famicommedley",
+  "series": "Other Series",
+  "bgm_id": "bgm_q01_fc_famicommedley"
+ },
+ {
+  "name": "Stack-Up / Gyromite",
+  "id": "q02_rob_blockandgyro",
+  "series": "Other Series",
+  "bgm_id": "bgm_q02_rob_blockandgyro"
+ },
+ {
+  "name": "Clu Clu Land",
+  "id": "q05_clu_clucluland",
+  "series": "Other Series",
+  "bgm_id": "bgm_q05_clu_clucluland"
+ },
+ {
+  "name": "Balloon Trip (Brawl)",
+  "id": "q06_bft_balloontrip",
+  "series": "Other Series",
+  "bgm_id": "bgm_q06_bft_balloontrip"
+ },
+ {
+  "name": "Ice Climber (Brawl)",
+  "id": "q07_ice_iceclimber",
+  "series": "Other Series",
+  "bgm_id": "bgm_q07_ice_iceclimber"
+ },
+ {
+  "name": "Shin Onigashima Medley",
+  "id": "q08_oni_shinonigashima",
+  "series": "Other Series",
+  "bgm_id": "bgm_q08_oni_shinonigashima"
+ },
+ {
+  "name": "Title Theme - 3D Hot Rally",
+  "id": "q09_3hr_title",
+  "series": "Other Series",
+  "bgm_id": "bgm_q09_3hr_title"
+ },
+ {
+  "name": "Tetris: Type A",
+  "id": "q10_trs_typea",
+  "series": "Other Series",
+  "bgm_id": "bgm_q10_trs_typea"
+ },
+ {
+  "name": "Tetris: Type B",
+  "id": "q11_trs_typeb",
+  "series": "Other Series",
+  "bgm_id": "bgm_q11_trs_typeb"
+ },
+ {
+  "name": "Tunnel Scene - X",
+  "id": "q12_x_tunnelscene",
+  "series": "Other Series",
+  "bgm_id": "bgm_q12_x_tunnelscene"
+ },
+ {
+  "name": "Power-Up Music - Wrecking Crew",
+  "id": "q13_wcr_powerup",
+  "series": "Other Series",
+  "bgm_id": "bgm_q13_wcr_powerup"
+ },
+ {
+  "name": "Douchuumen - The Mysterious Murasame Castle",
+  "id": "q14_nmj_douchu",
+  "series": "Other Series",
+  "bgm_id": "bgm_q14_nmj_douchu"
+ },
+ {
+  "name": "Balloon Fight Medley",
+  "id": "q15_bft_medley",
+  "series": "Other Series",
+  "bgm_id": "bgm_q15_bft_medley"
+ },
+ {
+  "name": "Balloon Trip (for 3DS / Wii U)",
+  "id": "q16_bft_balloontrip",
+  "series": "Other Series",
+  "bgm_id": "bgm_q16_bft_balloontrip"
+ },
+ {
+  "name": "The Mysterious Murasame Castle Medley",
+  "id": "q17_nmj_medley",
+  "series": "Other Series",
+  "bgm_id": "bgm_q17_nmj_medley"
+ },
+ {
+  "name": "Duck Hunt Medley (for 3DS / Wii U)",
+  "id": "q19_dkh_title",
+  "series": "Other Series",
+  "bgm_id": "bgm_q19_dkh_title"
+ },
+ {
+  "name": "Wrecking Crew Medley (for 3DS / Wii U)",
+  "id": "q20_wcr_gamestart",
+  "series": "Other Series",
+  "bgm_id": "bgm_q20_wcr_gamestart"
+ },
+ {
+  "name": "Light Plane (for 3DS / Wii U)",
+  "id": "q22_pw_lightplane",
+  "series": "Other Series",
+  "bgm_id": "bgm_q22_pw_lightplane"
+ },
+ {
+  "name": "Light Plane (Vocal Mix) (for 3DS / Wii U)",
+  "id": "q23_pw_lightplane_ver2",
+  "series": "Other Series",
+  "bgm_id": "bgm_q23_pw_lightplane_ver2"
+ },
+ {
+  "name": "Wrecking Crew Retro Medley",
+  "id": "q24_wcr_bgma",
+  "series": "Other Series",
+  "bgm_id": "bgm_q24_wcr_bgma"
+ },
+ {
+  "name": "Light Plane",
+  "id": "q26_pw_lightplane",
+  "series": "Other Series",
+  "bgm_id": "bgm_q26_pw_lightplane"
+ },
+ {
+  "name": "Light Plane",
+  "id": "q27_pw_lightplane",
+  "series": "Other Series",
+  "bgm_id": "bgm_q27_pw_lightplane"
+ },
+ {
+  "name": "Duck Hunt Medley",
+  "id": "q28_dkh_medley",
+  "series": "Other Series",
+  "bgm_id": "bgm_q28_dkh_medley"
+ },
+ {
+  "name": "Wrecking Crew Medley",
+  "id": "q29_wcr_bgmb",
+  "series": "Other Series",
+  "bgm_id": "bgm_q29_wcr_bgmb"
+ },
+ {
+  "name": "Yuyuki Medley",
+  "id": "q30_yyk_medley",
+  "series": "Other Series",
+  "bgm_id": "bgm_q30_yyk_medley"
+ },
+ {
+  "name": "PictoChat",
+  "id": "r02_pictochat",
+  "series": "Other Series",
+  "bgm_id": "bgm_r02_pictochat"
+ },
+ {
+  "name": "Electroplankton",
+  "id": "r03_electroplankton",
+  "series": "Other Series",
+  "bgm_id": "bgm_r03_electroplankton"
+ },
+ {
+  "name": "Lip's Theme - Panel de Pon",
+  "id": "r06_pdp_lipnotheme",
+  "series": "Other Series",
+  "bgm_id": "bgm_r06_pdp_lipnotheme"
+ },
+ {
+  "name": "Marionation Gear",
+  "id": "r07_mmg_marionationgear",
+  "series": "Other Series",
+  "bgm_id": "bgm_r07_mmg_marionationgear"
+ },
+ {
+  "name": "Title Theme - Big Brain Academy",
+  "id": "r08_yaj_title",
+  "series": "Other Series",
+  "bgm_id": "bgm_r08_yaj_title"
+ },
+ {
+  "name": "Golden Forest",
+  "id": "r09_1080_goldenforest",
+  "series": "Other Series",
+  "bgm_id": "bgm_r09_1080_goldenforest"
+ },
+ {
+  "name": "Mii Channel",
+  "id": "r10_ngc_nigaoechannel",
+  "series": "Other Series",
+  "bgm_id": "bgm_r10_ngc_nigaoechannel"
+ },
+ {
+  "name": "Wii Shop Channel (for 3DS / Wii U)",
+  "id": "r11_spc_wiishopingchannel",
+  "series": "Other Series",
+  "bgm_id": "bgm_r11_spc_wiishopingchannel"
+ },
+ {
+  "name": "Battle Scene / Final Boss - Golden Sun",
+  "id": "r12_ont_sentou_boss",
+  "series": "Other Series",
+  "bgm_id": "bgm_r12_ont_sentou_boss"
+ },
+ {
+  "name": "Personal Trainer: Cooking",
+  "id": "r13_onv_shaberuoryourinavi",
+  "series": "Other Series",
+  "bgm_id": "bgm_r13_onv_shaberuoryourinavi"
+ },
+ {
+  "name": "Excite Truck",
+  "id": "r14_ext_excitetruck",
+  "series": "Other Series",
+  "bgm_id": "bgm_r14_ext_excitetruck"
+ },
+ {
+  "name": "Brain Age: Train Your Brain in Minutes a Day!",
+  "id": "r15_nou_dstraning",
+  "series": "Other Series",
+  "bgm_id": "bgm_r15_nou_dstraning"
+ },
+ {
+  "name": "Charge! - Wii Play",
+  "id": "r17_hwi_ushidash",
+  "series": "Other Series",
+  "bgm_id": "bgm_r17_hwi_ushidash"
+ },
+ {
+  "name": "Bathtime Theme (for 3DS / Wii U)",
+  "id": "r18_ntd_shower",
+  "series": "Other Series",
+  "bgm_id": "bgm_r18_ntd_shower"
+ },
+ {
+  "name": "Bathtime Theme (Vocal Mix) (for 3DS / Wii U)",
+  "id": "r19_ntd_shower_ver2",
+  "series": "Other Series",
+  "bgm_id": "bgm_r19_ntd_shower_ver2"
+ },
+ {
+  "name": "Mii Plaza",
+  "id": "r20_ngc_nigaoehiroba",
+  "series": "Other Series",
+  "bgm_id": "bgm_r20_ngc_nigaoehiroba"
+ },
+ {
+  "name": "Afternoon on the Island (for 3DS / Wii U)",
+  "id": "r22_tdcs_tomodachicollection",
+  "series": "Other Series",
+  "bgm_id": "bgm_r22_tdcs_tomodachicollection"
+ },
+ {
+  "name": "Save The World, Heroes!",
+  "id": "r26_scd2_sekaiwosukueyuushayo",
+  "series": "Other Series",
+  "bgm_id": "bgm_r26_scd2_sekaiwosukueyuushayo"
+ },
+ {
+  "name": "Dark Lord",
+  "id": "r27_scd2_yaminoou",
+  "series": "Other Series",
+  "bgm_id": "bgm_r27_scd2_yaminoou"
+ },
+ {
+  "name": "Wii Sports Series Medley",
+  "id": "r31_wsp_title",
+  "series": "Other Series",
+  "bgm_id": "bgm_r31_wsp_title"
+ },
+ {
+  "name": "Wii Sports Resort",
+  "id": "r32_wsr_title",
+  "series": "Other Series",
+  "bgm_id": "bgm_r32_wsr_title"
+ },
+ {
+  "name": "Wii Sports Resort Ver. 2",
+  "id": "r33_wsr_title_ver2",
+  "series": "Other Series",
+  "bgm_id": "bgm_r33_wsr_title_ver2"
+ },
+ {
+  "name": "The Valedictory Elegy",
+  "id": "r34_bt2_thevaledictoryelegy",
+  "series": "Other Series",
+  "bgm_id": "bgm_r34_bt2_thevaledictoryelegy"
+ },
+ {
+  "name": "Glory of Heracles",
+  "id": "r35_hne_battleareaa_greecce",
+  "series": "Other Series",
+  "bgm_id": "bgm_r35_hne_battleareaa_greecce"
+ },
+ {
+  "name": "Boss 1 - Sakura Samurai: Art of the Sword",
+  "id": "r37_hsz_boss1",
+  "series": "Other Series",
+  "bgm_id": "bgm_r37_hsz_boss1"
+ },
+ {
+  "name": "Freakyforms: Your Creations, Alive! Medley",
+  "id": "r38_iki_maintheme",
+  "series": "Other Series",
+  "bgm_id": "bgm_r38_iki_maintheme"
+ },
+ {
+  "name": "Turbo Jet",
+  "id": "r39_pwr_hikouki",
+  "series": "Other Series",
+  "bgm_id": "bgm_r39_pwr_hikouki"
+ },
+ {
+  "name": "Pedal Glider",
+  "id": "r40_pwr_hangglider",
+  "series": "Other Series",
+  "bgm_id": "bgm_r40_pwr_hangglider"
+ },
+ {
+  "name": "Culdcept",
+  "id": "r41_cct_opening",
+  "series": "Other Series",
+  "bgm_id": "bgm_r41_cct_opening"
+ },
+ {
+  "name": "Nintendo Land Medley",
+  "id": "r42_nld_title",
+  "series": "Other Series",
+  "bgm_id": "bgm_r42_nld_title"
+ },
+ {
+  "name": "Style Savvy: Trendsetters",
+  "id": "r43_wgf_title",
+  "series": "Other Series",
+  "bgm_id": "bgm_r43_wgf_title"
+ },
+ {
+  "name": "Final Results - Wii Party U",
+  "id": "r47_wptu_theme_1",
+  "series": "Other Series",
+  "bgm_id": "bgm_r47_wptu_theme_1"
+ },
+ {
+  "name": "Title Theme - Wii Sports Resort",
+  "id": "r48_wsr_title",
+  "series": "Other Series",
+  "bgm_id": "bgm_r48_wsr_title"
+ },
+ {
+  "name": "Menu - Brain Age 2: More Training in Minutes a Day!",
+  "id": "r49_motto_menu",
+  "series": "Other Series",
+  "bgm_id": "bgm_r49_motto_menu"
+ },
+ {
+  "name": "Attack - Soma Bringer",
+  "id": "r50_sbg_bosskyuumonsterbattle",
+  "series": "Other Series",
+  "bgm_id": "bgm_r50_sbg_bosskyuumonsterbattle"
+ },
+ {
+  "name": "Tomorrow's Passion",
+  "id": "r51_cap_macnouta",
+  "series": "Other Series",
+  "bgm_id": "bgm_r51_cap_macnouta"
+ },
+ {
+  "name": "PERFORMANCE",
+  "id": "r52_bbdx_performance",
+  "series": "Other Series",
+  "bgm_id": "bgm_r52_bbdx_performance"
+ },
+ {
+  "name": "Tunnel Scene - X-Scape",
+  "id": "r59_xrt_tunnelnormal",
+  "series": "Other Series",
+  "bgm_id": "bgm_r59_xrt_tunnelnormal"
+ },
+ {
+  "name": "Weyard",
+  "id": "r60_ont_worldmap",
+  "series": "Other Series",
+  "bgm_id": "bgm_r60_ont_worldmap"
+ },
+ {
+  "name": "Swan Lesson",
+  "id": "r61_egk_swan_lesson",
+  "series": "Other Series",
+  "bgm_id": "bgm_r61_egk_swan_lesson"
+ },
+ {
+  "name": "Dragon Battle",
+  "id": "r63_arg_dragonnotatakai",
+  "series": "Other Series",
+  "bgm_id": "bgm_r63_arg_dragonnotatakai"
+ },
+ {
+  "name": "Title Theme - Nintendo Land",
+  "id": "r64_nld_title",
+  "series": "Other Series",
+  "bgm_id": "bgm_r64_nld_title"
+ },
+ {
+  "name": "Pop Fashion Show",
+  "id": "r65_wgf_fashonshow",
+  "series": "Other Series",
+  "bgm_id": "bgm_r65_wgf_fashonshow"
+ },
+ {
+  "name": "Dillon's Rolling Western: The Last Ranger",
+  "id": "r66_rlw_move2",
+  "series": "Other Series",
+  "bgm_id": "bgm_r66_rlw_move2"
+ },
+ {
+  "name": "Title Theme - NES Remix 2",
+  "id": "r67_rmx_remix2_title",
+  "series": "Other Series",
+  "bgm_id": "bgm_r67_rmx_remix2_title"
+ },
+ {
+  "name": "ST01: Roll Out, Wonderful 100!",
+  "id": "r68_101_rolloutwonderful100",
+  "series": "Other Series",
+  "bgm_id": "bgm_r68_101_rolloutwonderful100"
+ },
+ {
+  "name": "Jergingha: Planet Destruction Form",
+  "id": "r69_101_jerginghaplanetdestructionform",
+  "series": "Other Series",
+  "bgm_id": "bgm_r69_101_jerginghaplanetdestructionform"
+ },
+ {
+  "name": "Blue Birds",
+  "id": "r70_rtg_bluebirds",
+  "series": "Other Series",
+  "bgm_id": "bgm_r70_rtg_bluebirds"
+ },
+ {
+  "name": "Monkey Watch",
+  "id": "r71_mrt_sarudokei",
+  "series": "Other Series",
+  "bgm_id": "bgm_r71_mrt_sarudokei"
+ },
+ {
+  "name": "Wii Shop Channel",
+  "id": "r72_spc_wiishopingchannel",
+  "series": "Other Series",
+  "bgm_id": "bgm_r72_spc_wiishopingchannel"
+ },
+ {
+  "name": "Title Theme - Wii Sports Club",
+  "id": "r74_wsc_maintitle",
+  "series": "Other Series",
+  "bgm_id": "bgm_r74_wsc_maintitle"
+ },
+ {
+  "name": "Electroplankton",
+  "id": "r75_electroplankton",
+  "series": "Other Series",
+  "bgm_id": "bgm_r75_electroplankton"
+ },
+ {
+  "name": "Find Mii / Find Mii II Medley",
+  "id": "r76_scd_seriesmedley",
+  "series": "Other Series",
+  "bgm_id": "bgm_r76_scd_seriesmedley"
+ },
+ {
+  "name": "Trouble Brewing II",
+  "id": "r77_stm_hotspot2",
+  "series": "Other Series",
+  "bgm_id": "bgm_r77_stm_hotspot2"
+ },
+ {
+  "name": "Bathtime Theme",
+  "id": "r78_ntd_shower",
+  "series": "Other Series",
+  "bgm_id": "bgm_r78_ntd_shower"
+ },
+ {
+  "name": "Noisy Notebook",
+  "id": "r79_snp_w1stage",
+  "series": "Other Series",
+  "bgm_id": "bgm_r79_snp_w1stage"
+ },
+ {
+  "name": "Afternoon on the Island",
+  "id": "r80_tdcs_tomodachicollection",
+  "series": "Other Series",
+  "bgm_id": "bgm_r80_tdcs_tomodachicollection"
+ },
+ {
+  "name": "Title Theme - Wii Sports",
+  "id": "r81_wsp_openingtheme",
+  "series": "Other Series",
+  "bgm_id": "bgm_r81_wsp_openingtheme"
+ },
+ {
+  "name": "Fruit Basket 2",
+  "id": "r85_rtb_fruitsbasket",
+  "series": "Other Series",
+  "bgm_id": "bgm_r85_rtb_fruitsbasket"
+ },
+ {
+  "name": "Tennis (Training)",
+  "id": "r87_wsc_tnstraining",
+  "series": "Other Series",
+  "bgm_id": "bgm_r87_wsc_tnstraining"
+ },
+ {
+  "name": "Baseball (Training)",
+  "id": "r88_wcs_bsbtraining",
+  "series": "Other Series",
+  "bgm_id": "bgm_r88_wcs_bsbtraining"
+ },
+ {
+  "name": "Filled with Hope",
+  "id": "r89_std_kibouwomuneni",
+  "series": "Other Series",
+  "bgm_id": "bgm_r89_std_kibouwomuneni"
+ },
+ {
+  "name": "Title Theme - Nintendo Badge Arcade",
+  "id": "r90_btc_title_maintheme",
+  "series": "Other Series",
+  "bgm_id": "bgm_r90_btc_title_maintheme"
+ },
+ {
+  "name": "Arcade Bunny's Theme",
+  "id": "r91_btc_baitotheme",
+  "series": "Other Series",
+  "bgm_id": "bgm_r91_btc_baitotheme"
+ },
+ {
+  "name": "Battle Start - Fossil Fighters: Frontier",
+  "id": "r92_khm_battlekaishi",
+  "series": "Other Series",
+  "bgm_id": "bgm_r92_khm_battlekaishi"
+ },
+ {
+  "name": "Welcome Center",
+  "id": "r94_hpl_mapfirst",
+  "series": "Other Series",
+  "bgm_id": "bgm_r94_hpl_mapfirst"
+ },
+ {
+  "name": "Revolt -Striving for Hope-",
+  "id": "r98_ccr_revolt_kibouhenokekki",
+  "series": "Other Series",
+  "bgm_id": "bgm_r98_ccr_revolt_kibouhenokekki"
+ },
+ {
+  "name": "Worthy Rival Battle",
+  "id": "r99_ccr_koutekishubattle",
+  "series": "Other Series",
+  "bgm_id": "bgm_r99_ccr_koutekishubattle"
+ },
+ {
+  "name": "Boss Battle Time",
+  "id": "rr02_mtp_eventsentou",
+  "series": "Other Series",
+  "bgm_id": "bgm_rr02_mtp_eventsentou"
+ },
+ {
+  "name": "Boss: The Darkest Lord",
+  "id": "rr05_mtp_chomaousen_hontai",
+  "series": "Other Series",
+  "bgm_id": "bgm_rr05_mtp_chomaousen_hontai"
+ },
+ {
+  "name": "Garage",
+  "id": "rr06_ttp_garage",
+  "series": "Other Series",
+  "bgm_id": "bgm_rr06_ttp_garage"
+ },
+ {
+  "name": "Dawn in the Desert",
+  "id": "rr07_eoa_fieldmain",
+  "series": "Other Series",
+  "bgm_id": "bgm_rr07_eoa_fieldmain"
+ },
+ {
+  "name": "Struggle Against Chaos",
+  "id": "rr08_eoa_battle2later",
+  "series": "Other Series",
+  "bgm_id": "bgm_rr08_eoa_battle2later"
+ },
+ {
+  "name": "Ring a Ding",
+  "id": "rr12_gm4_ringdongdang",
+  "series": "Other Series",
+  "bgm_id": "bgm_rr12_gm4_ringdongdang"
+ },
+ {
+  "name": "Frontier Battle",
+  "id": "rr13_dhb_kaitakuchinotatakai",
+  "series": "Other Series",
+  "bgm_id": "bgm_rr13_dhb_kaitakuchinotatakai"
+ },
+ {
+  "name": "MEGALOVANIA",
+  "id": "rr14_ut_megalovania",
+  "series": "Other Series",
+  "bgm_id": "bgm_rr14_ut_megalovania"
+ },
+ {
+  "name": "Floral Fury",
+  "id": "rr15_chd_floralfury_rekkanogotoku",
+  "series": "Other Series",
+  "bgm_id": "bgm_rr15_chd_floralfury_rekkanogotoku"
+ },
+ {
+  "name": "Burning Town",
+  "id": "rr35_shgh_burningtown",
+  "series": "Other Series",
+  "bgm_id": "bgm_rr35_shgh_burningtown"
+ },
+ {
+  "name": "Ice Climber (Melee)",
+  "id": "w13_ice_iciclemountain",
+  "series": "Other Series",
+  "bgm_id": "bgm_w13_ice_iciclemountain"
+ },
+ {
+  "name": "Mach Rider",
+  "id": "w18_mrd_machrider",
+  "series": "Other Series",
+  "bgm_id": "bgm_w18_mrd_machrider"
+ },
+ {
+  "name": "Aria of the Soul",
+  "id": "ps10_p5_subetenohitono_tamashiinouta",
+  "series": "Persona Series",
+  "bgm_id": "bgm_ps10_p5_subetenohitono_tamashiinouta"
+ },
+ {
+  "name": "Battle Hymn of the Soul",
+  "id": "ps02_p3_subetenohitono_tamashiinotatakai",
+  "series": "Persona Series",
+  "bgm_id": "bgm_ps02_p3_subetenohitono_tamashiinotatakai"
+ },
+ {
+  "name": "Beneath the Mask",
+  "id": "ps11_p5_beneath_themask",
+  "series": "Persona Series",
+  "bgm_id": "bgm_ps11_p5_beneath_themask"
+ },
+ {
+  "name": "I'll Face Myself",
+  "id": "ps04_p4_illface_myself",
+  "series": "Persona Series",
+  "bgm_id": "bgm_ps04_p4_illface_myself"
+ },
+ {
+  "name": "Last Surprise",
+  "id": "ps07_p5_lastsurprise",
+  "series": "Persona Series",
+  "bgm_id": "bgm_ps07_p5_lastsurprise"
+ },
+ {
+  "name": "Mass Destruction",
+  "id": "ps01_p3_mass_destruction",
+  "series": "Persona Series",
+  "bgm_id": "bgm_ps01_p3_mass_destruction"
+ },
+ {
+  "name": "Our Beginning",
+  "id": "ps09_p5_ourbeginning",
+  "series": "Persona Series",
+  "bgm_id": "bgm_ps09_p5_ourbeginning"
+ },
+ {
+  "name": "Reach Out to the Truth",
+  "id": "ps03_p4_reachout_to_thetruth",
+  "series": "Persona Series",
+  "bgm_id": "bgm_ps03_p4_reachout_to_thetruth"
+ },
+ {
+  "name": "Rivers in the Desert",
+  "id": "ps08_p5_riversin_thedesert",
+  "series": "Persona Series",
+  "bgm_id": "bgm_ps08_p5_riversin_thedesert"
+ },
+ {
+  "name": "Time to Make History",
+  "id": "ps05_p4_timeto_makehistory",
+  "series": "Persona Series",
+  "bgm_id": "bgm_ps05_p4_timeto_makehistory"
+ },
+ {
+  "name": "Wake Up, Get Up, Get Out There",
+  "id": "ps06_p5_wakeup_getup_getoutthere",
+  "series": "Persona Series",
+  "bgm_id": "bgm_ps06_p5_wakeup_getup_getoutthere"
+ },
+ {
+  "name": "Adventure - DRAGON QUEST III",
+  "id": "dq04_dq3_boukennotabi",
+  "series": "Dragon Quest Series",
+  "bgm_id": "bgm_dq04_dq3_boukennotabi"
+ },
+ {
+  "name": "Battle for the Glory - DRAGON QUEST IV",
+  "id": "dq05_dq4_sentou",
+  "series": "Dragon Quest Series",
+  "bgm_id": "bgm_dq05_dq4_sentou"
+ },
+ {
+  "name": "Fighting Spirits - DRAGON QUEST III",
+  "id": "dq03_dq3_sentounotheme",
+  "series": "Dragon Quest Series",
+  "bgm_id": "bgm_dq03_dq3_sentounotheme"
+ },
+ {
+  "name": "Wagon Wheel's March",
+  "id": "dq06_dq4_bashanomarch",
+  "series": "Dragon Quest Series",
+  "bgm_id": "bgm_dq06_dq4_bashanomarch"
+ },
+ {
+  "name": "The Hero Goes Forth with a Determination",
+  "id": "dq02_dq11_yuushahayuku",
+  "series": "Dragon Quest Series",
+  "bgm_id": "bgm_dq02_dq11_yuushahayuku"
+ },
+ {
+  "name": "War Cry",
+  "id": "dq07_dq8_otakebiwoagete",
+  "series": "Dragon Quest Series",
+  "bgm_id": "bgm_dq07_dq8_otakebiwoagete"
+ },
+ {
+  "name": "Marching through the Fields",
+  "id": "dq08_dq8_daiheigennomarch",
+  "series": "Dragon Quest Series",
+  "bgm_id": "bgm_dq08_dq8_daiheigennomarch"
+ },
+ {
+  "name": "Unflinchable Courage",
+  "id": "dq01_dq11_hirumanuyuuki",
+  "series": "Dragon Quest Series",
+  "bgm_id": "bgm_dq01_dq11_hirumanuyuuki"
+ },
+ {
+  "name": "Spiral Mountain",
+  "id": "bk01_bk_kurukuruyamanofumoto",
+  "series": "Banjo and Kazooie Series",
+  "bgm_id": "bgm_bk01_bk_kurukuruyamanofumoto"
+ },
+ {
+  "name": "Main Theme - Banjo-Kazooie",
+  "id": "bk02_bk_title",
+  "series": "Banjo and Kazooie Series",
+  "bgm_id": "bgm_bk02_bk_title"
+ },
+ {
+  "name": "Mumbo’s Mountain",
+  "id": "bk03_bk_mumbomountain",
+  "series": "Banjo and Kazooie Series",
+  "bgm_id": "bgm_bk03_bk_mumbomountain"
+ },
+ {
+  "name": "Treasure Trove Cove",
+  "id": "bk04_bk_otakarazakuzakubeach",
+  "series": "Banjo and Kazooie Series",
+  "bgm_id": "bgm_bk04_bk_otakarazakuzakubeach"
+ },
+ {
+  "name": "Freezeezy Peak",
+  "id": "bk05_bk_frozunzunyama",
+  "series": "Banjo and Kazooie Series",
+  "bgm_id": "bgm_bk05_bk_frozunzunyama"
+ },
+ {
+  "name": "Gobi’s Valley",
+  "id": "bk06_bk_gobivalleysabaku",
+  "series": "Banjo and Kazooie Series",
+  "bgm_id": "bgm_bk06_bk_gobivalleysabaku"
+ },
+ {
+  "name": "Mad Monster Mansion",
+  "id": "bk07_bk_madnightmansion",
+  "series": "Banjo and Kazooie Series",
+  "bgm_id": "bgm_bk07_bk_madnightmansion"
+ },
+ {
+  "name": "Vs. Klungo",
+  "id": "bk08_bk2_vsklungo",
+  "series": "Banjo and Kazooie Series",
+  "bgm_id": "bgm_bk08_bk2_vsklungo"
+ },
+ {
+  "name": "Vs. Mr. Patch",
+  "id": "bk09_bk2_vsmrpatch",
+  "series": "Banjo and Kazooie Series",
+  "bgm_id": "bgm_bk09_bk2_vsmrpatch"
+ },
+ {
+  "name": "Vs. Lord Woo Fak Fak",
+  "id": "bk10_bk2_vswoofakfakdaiou",
+  "series": "Banjo and Kazooie Series",
+  "bgm_id": "bgm_bk10_bk2_vswoofakfakdaiou"
+ },
+ {
+  "name": "The Sea Knows - FATAL FURY",
+  "id": "gd04_gd_umihashitteiru",
+  "series": "Fatal Fury/SNK Series",
+  "bgm_id": "bgm_gd04_gd_umihashitteiru"
+ },
+ {
+  "name": "Kurikinton - FATAL FURY 2 [Remix]",
+  "id": "gd02_gd2_kurikinton",
+  "series": "Fatal Fury/SNK Series",
+  "bgm_id": "bgm_gd02_gd2_kurikinton"
+ },
+ {
+  "name": "Kurikinton - FATAL FURY 2 [Original]",
+  "id": "gd01_gd2_kurikinton",
+  "series": "Fatal Fury/SNK Series",
+  "bgm_id": "bgm_gd01_gd2_kurikinton"
+ },
+ {
+  "name": "Kuri Kinton Flavor - KOF XIV",
+  "id": "gd47_kofxiv_kurikintonfu",
+  "series": "Fatal Fury/SNK Series",
+  "bgm_id": "bgm_gd47_kofxiv_kurikintonfu"
+ },
+ {
+  "name": "Pasta - FATAL FURY 2",
+  "id": "gd05_gd2_pasta",
+  "series": "Fatal Fury/SNK Series",
+  "bgm_id": "bgm_gd05_gd2_pasta"
+ },
+ {
+  "name": "Tarkun and Kitapy - FATAL FURY 2",
+  "id": "gd07_gd2_takuntokitap",
+  "series": "Fatal Fury/SNK Series",
+  "bgm_id": "bgm_gd07_gd2_takuntokitap"
+ },
+ {
+  "name": "Let's Go To Seoul! - FATAL FURY 2",
+  "id": "gd08_gd2_seoulniikou",
+  "series": "Fatal Fury/SNK Series",
+  "bgm_id": "bgm_gd08_gd2_seoulniikou"
+ },
+ {
+  "name": "The London March - FATAL FURY 2",
+  "id": "gd09_gd2_londonmarch",
+  "series": "Fatal Fury/SNK Series",
+  "bgm_id": "bgm_gd09_gd2_londonmarch"
+ },
+ {
+  "name": "The Working Matador - FATAL FURY 2",
+  "id": "gd10_gd2_hatarakutougyushi",
+  "series": "Fatal Fury/SNK Series",
+  "bgm_id": "bgm_gd10_gd2_hatarakutougyushi"
+ },
+ {
+  "name": "Duck Dub Dub (Duck You Too) - FATAL FURY SPECIAL",
+  "id": "gd11_gdsp_duckdubdub",
+  "series": "Fatal Fury/SNK Series",
+  "bgm_id": "bgm_gd11_gdsp_duckdubdub"
+ },
+ {
+  "name": "Soy Sauce for Geese - FATAL FURY SPECIAL",
+  "id": "gd12_gdsp_geesenishouyu",
+  "series": "Fatal Fury/SNK Series",
+  "bgm_id": "bgm_gd12_gdsp_geesenishouyu"
+ },
+ {
+  "name": "Soy Sauce for Geese - KOF XIV",
+  "id": "gd36_kofiv_geesenishouyu_xivver",
+  "series": "Fatal Fury/SNK Series",
+  "bgm_id": "bgm_gd36_kofiv_geesenishouyu_xivver"
+ },
+ {
+  "name": "Big Shot! - FATAL FURY 3",
+  "id": "gd14_gd3_bigshot",
+  "series": "Fatal Fury/SNK Series",
+  "bgm_id": "bgm_gd14_gd3_bigshot"
+ },
+ {
+  "name": "11th Street - FATAL FURY WILD AMBITION",
+  "id": "gd16_gdwa_11thstreet",
+  "series": "Fatal Fury/SNK Series",
+  "bgm_id": "bgm_gd16_gdwa_11thstreet"
+ },
+ {
+  "name": "176th Street - KOF '99",
+  "id": "gd21_kof99_176thstreet",
+  "series": "Fatal Fury/SNK Series",
+  "bgm_id": "bgm_gd21_kof99_176thstreet"
+ },
+ {
+  "name": "Ne! - KOF '94",
+  "id": "gd17_kof94_ne",
+  "series": "Fatal Fury/SNK Series",
+  "bgm_id": "bgm_gd17_kof94_ne"
+ },
+ {
+  "name": "DESERT REQUIEM ~Operation02UM~ - KOF 2002 UM",
+  "id": "gd25_kof02um_desertrequiem",
+  "series": "Fatal Fury/SNK Series",
+  "bgm_id": "bgm_gd25_kof02um_desertrequiem"
+ },
+ {
+  "name": "ESAKA!! - KOF 2002 UM",
+  "id": "gd24_kof02um_esaka",
+  "series": "Fatal Fury/SNK Series",
+  "bgm_id": "bgm_gd24_kof02um_esaka"
+ },
+ {
+  "name": "Stormy Saxophone 2 - KOF '96",
+  "id": "gd18_kof96_arashinosaxophone",
+  "series": "Fatal Fury/SNK Series",
+  "bgm_id": "bgm_gd18_kof96_arashinosaxophone"
+ },
+ {
+  "name": "KD-0079+ - KOF 2002 UM",
+  "id": "gd26_kof02um_kd0079plus",
+  "series": "Fatal Fury/SNK Series",
+  "bgm_id": "bgm_gd26_kof02um_kd0079plus"
+ },
+ {
+  "name": "W.W.III - KOF XIV",
+  "id": "gd20_kof99_ww3",
+  "series": "Fatal Fury/SNK Series",
+  "bgm_id": "bgm_gd20_kof99_ww3"
+ },
+ {
+  "name": "Terry115 - KOF 2000",
+  "id": "gd22_kof00_terry115",
+  "series": "Fatal Fury/SNK Series",
+  "bgm_id": "bgm_gd22_kof00_terry115"
+ },
+ {
+  "name": "Street Dancer - KOF XI",
+  "id": "gd23_kofxi_streetdancer",
+  "series": "Fatal Fury/SNK Series",
+  "bgm_id": "bgm_gd23_kofxi_streetdancer"
+ },
+ {
+  "name": "New Order - KOF XIV",
+  "id": "gd38_kofxiv_neworder_xivver",
+  "series": "Fatal Fury/SNK Series",
+  "bgm_id": "bgm_gd38_kofxiv_neworder_xivver"
+ },
+ {
+  "name": "Undercover - KOF 2002 UM",
+  "id": "gd27_kof02um_undercover",
+  "series": "Fatal Fury/SNK Series",
+  "bgm_id": "bgm_gd27_kof02um_undercover"
+ },
+ {
+  "name": "Cutting Edge - KOF 2002 UM",
+  "id": "gd28_kof02um_cuttingedge",
+  "series": "Fatal Fury/SNK Series",
+  "bgm_id": "bgm_gd28_kof02um_cuttingedge"
+ },
+ {
+  "name": "The Second Joker - KOF XIII",
+  "id": "gd29_kofxiii_thesecondjoker",
+  "series": "Fatal Fury/SNK Series",
+  "bgm_id": "bgm_gd29_kofxiii_thesecondjoker"
+ },
+ {
+  "name": "Esaka Continues... - KOF XIII",
+  "id": "gd30_kofxiii_esakacontinues",
+  "series": "Fatal Fury/SNK Series",
+  "bgm_id": "bgm_gd30_kofxiii_esakacontinues"
+ },
+ {
+  "name": "Wild Street - KOF XIII",
+  "id": "gd31_kofxiii_wildstreet",
+  "series": "Fatal Fury/SNK Series",
+  "bgm_id": "bgm_gd31_kofxiii_wildstreet"
+ },
+ {
+  "name": "Tame a Bad Boy - KOF XIII",
+  "id": "gd32_kofxiii_tameabadboy",
+  "series": "Fatal Fury/SNK Series",
+  "bgm_id": "bgm_gd32_kofxiii_tameabadboy"
+ },
+ {
+  "name": "KDD-0063 - KOF XIII",
+  "id": "gd33_kofxiii_kdd0063",
+  "series": "Fatal Fury/SNK Series",
+  "bgm_id": "bgm_gd33_kofxiii_kdd0063"
+ },
+ {
+  "name": "Yappari ESAKA - KOF XIV",
+  "id": "gd34_kofxiv_yappariesaka",
+  "series": "Fatal Fury/SNK Series",
+  "bgm_id": "bgm_gd34_kofxiv_yappariesaka"
+ },
+ {
+  "name": "Departure from South Town - KOF XIV",
+  "id": "gd35_kofxiv_departure_from_southtown",
+  "series": "Fatal Fury/SNK Series",
+  "bgm_id": "bgm_gd35_kofxiv_departure_from_southtown"
+ },
+ {
+  "name": "Theme of SYD - Alpha Mission",
+  "id": "gd39_aso_themeofsyd",
+  "series": "Fatal Fury/SNK Series",
+  "bgm_id": "bgm_gd39_aso_themeofsyd"
+ },
+ {
+  "name": "IKARI - KOF XIV",
+  "id": "gd37_kofxiv_ikari_xivver",
+  "series": "Fatal Fury/SNK Series",
+  "bgm_id": "bgm_gd37_kofxiv_ikari_xivver"
+ },
+ {
+  "name": "Forest World - Athena",
+  "id": "gd40_atn_morinosekai",
+  "series": "Fatal Fury/SNK Series",
+  "bgm_id": "bgm_gd40_atn_morinosekai"
+ },
+ {
+  "name": "Psycho Soldier Theme",
+  "id": "gd41_psy_psychosoldiertheme_jp",
+  "series": "Fatal Fury/SNK Series",
+  "bgm_id": "bgm_gd41_psy_psychosoldiertheme_jp"
+ },
+ {
+  "name": "Psycho Soldier Theme (Overseas Version)",
+  "id": "gd42_psy_psychosoldiertheme_en",
+  "series": "Fatal Fury/SNK Series",
+  "bgm_id": "bgm_gd42_psy_psychosoldiertheme_en"
+ },
+ {
+  "name": "ART of FIGHT - Art of Fighting",
+  "id": "gd43_ryk_artoffight",
+  "series": "Fatal Fury/SNK Series",
+  "bgm_id": "bgm_gd43_ryk_artoffight"
+ },
+ {
+  "name": "Tuna - SAMURAI SHODOWN",
+  "id": "gd44_ssp_maguro",
+  "series": "Fatal Fury/SNK Series",
+  "bgm_id": "bgm_gd44_ssp_maguro"
+ },
+ {
+  "name": "Banquet of Nature - SAMURAI SHODOWN",
+  "id": "gd45_ssp_shizennoutage",
+  "series": "Fatal Fury/SNK Series",
+  "bgm_id": "bgm_gd45_ssp_shizennoutage"
+ },
+ {
+  "name": "Gaia - SAMURAI SHODOWN",
+  "id": "gd46_ssp_daichi",
+  "series": "Fatal Fury/SNK Series",
+  "bgm_id": "bgm_gd46_ssp_daichi"
+ },
+ {
+  "name": "Main Theme from Metal Slug - METAL SLUG",
+  "id": "gd48_mts1_maintheme",
+  "series": "Fatal Fury/SNK Series",
+  "bgm_id": "bgm_gd48_mts1_maintheme"
+ },
+ {
+  "name": "Assault Theme - METAL SLUG 1-3",
+  "id": "gd49_mts1_3_assaulttheme",
+  "series": "Fatal Fury/SNK Series",
+  "bgm_id": "bgm_gd49_mts1_3_assaulttheme"
+ },
+ {
+  "name": "Final Attack - METAL SLUG 1-6",
+  "id": "gd52_mts5_finalattack",
+  "series": "Fatal Fury/SNK Series",
+  "bgm_id": "bgm_gd52_mts5_finalattack"
+ },
+ {
+  "name": "Judgment - METAL SLUG 2",
+  "id": "gd50_mts2_judgment",
+  "series": "Fatal Fury/SNK Series",
+  "bgm_id": "bgm_gd50_mts2_judgment"
+ },
+ {
+  "name": "ARMS Grand Prix Official Theme Song",
+  "id": "am01_am_armsgrandprixtheme",
+  "series": "ARMS Series",
+  "bgm_id": "bgm_am01_am_armsgrandprixtheme"
+ },
+ {
+  "name": "Ramen Bowl",
+  "id": "am02_am_ramenbowl_springstadium",
+  "series": "ARMS Series",
+  "bgm_id": "bgm_am02_am_ramenbowl_springstadium"
+ },
+ {
+  "name": "Spring Stadium",
+  "id": "am03_am_springstadium",
+  "series": "ARMS Series",
+  "bgm_id": "bgm_am03_am_springstadium"
+ },
+ {
+  "name": "Ribbon Ring",
+  "id": "am04_am_ribbonring",
+  "series": "ARMS Series",
+  "bgm_id": "bgm_am04_am_ribbonring"
+ },
+ {
+  "name": "Ninja College",
+  "id": "am05_am_ninjacollege",
+  "series": "ARMS Series",
+  "bgm_id": "bgm_am05_am_ninjacollege"
+ },
+ {
+  "name": "Mausoleum",
+  "id": "am06_am_mausoleum",
+  "series": "ARMS Series",
+  "bgm_id": "bgm_am06_am_mausoleum"
+ },
+ {
+  "name": "Scrapyard",
+  "id": "am07_am_scrapyard",
+  "series": "ARMS Series",
+  "bgm_id": "bgm_am07_am_scrapyard"
+ },
+ {
+  "name": "Cinema Deux",
+  "id": "am08_am_cinemadeux",
+  "series": "ARMS Series",
+  "bgm_id": "bgm_am08_am_cinemadeux"
+ },
+ {
+  "name": "Buster Beach",
+  "id": "am09_am_busterbeach",
+  "series": "ARMS Series",
+  "bgm_id": "bgm_am09_am_busterbeach"
+ },
+ {
+  "name": "Snake Park",
+  "id": "am10_am_snakepark",
+  "series": "ARMS Series",
+  "bgm_id": "bgm_am10_am_snakepark"
+ },
+ {
+  "name": "DNA Lab",
+  "id": "am11_am_dnalab",
+  "series": "ARMS Series",
+  "bgm_id": "bgm_am11_am_dnalab"
+ },
+ {
+  "name": "Via Dolce",
+  "id": "am12_am_viadolce",
+  "series": "ARMS Series",
+  "bgm_id": "bgm_am12_am_viadolce"
+ },
+ {
+  "name": "Temple Grounds",
+  "id": "am13_am_templegrounds",
+  "series": "ARMS Series",
+  "bgm_id": "bgm_am13_am_templegrounds"
+ },
+ {
+  "name": "[NAME REDACTED]",
+  "id": "am15_am_nameredacted",
+  "series": "ARMS Series",
+  "bgm_id": "bgm_am15_am_nameredacted"
+ },
+ {
+  "name": "Sky Arena",
+  "id": "am16_am_skyarena",
+  "series": "ARMS Series",
+  "bgm_id": "bgm_am16_am_skyarena"
+ },
+ {
+  "name": "Vs. Hedlok",
+  "id": "am17_am_hedlok_battletheme",
+  "series": "ARMS Series",
+  "bgm_id": "bgm_am17_am_hedlok_battletheme"
+ },
+ {
+  "name": "ARMS Grand Prix Final Battle",
+  "id": "am18_am_hedlok_lastbattle",
+  "series": "ARMS Series",
+  "bgm_id": "bgm_am18_am_hedlok_lastbattle"
+ },
+ {
+  "name": "Glide",
+  "id": "mc01_mc_glide",
+  "series": "Minecraft Series",
+  "bgm_id": "bgm_mc01_mc_glide"
+ },
+ {
+  "name": "Earth",
+  "id": "mc03_mce_earth",
+  "series": "Minecraft Series",
+  "bgm_id": "bgm_mc03_mce_earth"
+ },
+ {
+  "name": "Halland / Dalarna",
+  "id": "mc04_mcd_halland_dalarna",
+  "series": "Minecraft Series",
+  "bgm_id": "bgm_mc04_mcd_halland_dalarna"
+ },
+ {
+  "name": "The Arch-Illager",
+  "id": "mc05_mcd_thearchillager",
+  "series": "Minecraft Series",
+  "bgm_id": "bgm_mc05_mcd_thearchillager"
+ },
+ {
+  "name": "Clockwork Crafter",
+  "id": "mc06_mc_clockworkcrafter",
+  "series": "Minecraft Series",
+  "bgm_id": "bgm_mc06_mc_clockworkcrafter"
+ },
+ {
+  "name": "Dance of the Blocks",
+  "id": "mc07_mc_danceoftheblocks",
+  "series": "Minecraft Series",
+  "bgm_id": "bgm_mc07_mc_danceoftheblocks"
+ },
+ {
+  "name": "Marine Stadium, Japan",
+  "id": "tk01_tk1_marinestadium_japan",
+  "series": "Tekken Series",
+  "bgm_id": "bgm_tk01_tk1_marinestadium_japan"
+ },
+ {
+  "name": "Kyoto, Japan",
+  "id": "tk03_tk1_kyoto_japan",
+  "series": "Tekken Series",
+  "bgm_id": "bgm_tk03_tk1_kyoto_japan"
+ },
+ {
+  "name": "Kazuya Mishima, Devil Kazuya (Remix)",
+  "id": "tk05_tk2_kazuya_mishima_devil_kazuya",
+  "series": "Tekken Series",
+  "bgm_id": "bgm_tk05_tk2_kazuya_mishima_devil_kazuya"
+ },
+ {
+  "name": "Emotionless Passion",
+  "id": "tk06_tk2_emotionless_passion",
+  "series": "Tekken Series",
+  "bgm_id": "bgm_tk06_tk2_emotionless_passion"
+ },
+ {
+  "name": "Attract -Embu- / Character Select",
+  "id": "tk07_tk3_attractembu_characterselect",
+  "series": "Tekken Series",
+  "bgm_id": "bgm_tk07_tk3_attractembu_characterselect"
+ },
+ {
+  "name": "Hwoarang",
+  "id": "tk08_tk3_hwoarang",
+  "series": "Tekken Series",
+  "bgm_id": "bgm_tk08_tk3_hwoarang"
+ },
+ {
+  "name": "Jin Kazama",
+  "id": "tk09_tk3_jin_kazama",
+  "series": "Tekken Series",
+  "bgm_id": "bgm_tk09_tk3_jin_kazama"
+ },
+ {
+  "name": "Heihachi Mishima",
+  "id": "tk10_tk3_heihachi_mishima",
+  "series": "Tekken Series",
+  "bgm_id": "bgm_tk10_tk3_heihachi_mishima"
+ },
+ {
+  "name": "Opening Movie",
+  "id": "tk11_tt1_opening_movie",
+  "series": "Tekken Series",
+  "bgm_id": "bgm_tk11_tt1_opening_movie"
+ },
+ {
+  "name": "Jin Stage",
+  "id": "tk12_tt1_jin_stage",
+  "series": "Tekken Series",
+  "bgm_id": "bgm_tk12_tt1_jin_stage"
+ },
+ {
+  "name": "Kitsch",
+  "id": "tk13_tk4_kitsch",
+  "series": "Tekken Series",
+  "bgm_id": "bgm_tk13_tk4_kitsch"
+ },
+ {
+  "name": "Bit Crusher",
+  "id": "tk14_tk4_bitcrusher",
+  "series": "Tekken Series",
+  "bgm_id": "bgm_tk14_tk4_bitcrusher"
+ },
+ {
+  "name": "Red Hot Fist",
+  "id": "tk15_tk5_redhotfist",
+  "series": "Tekken Series",
+  "bgm_id": "bgm_tk15_tk5_redhotfist"
+ },
+ {
+  "name": "Moonlit Wilderness",
+  "id": "tk16_tk5_moonlit_wilderness",
+  "series": "Tekken Series",
+  "bgm_id": "bgm_tk16_tk5_moonlit_wilderness"
+ },
+ {
+  "name": "Poolside",
+  "id": "tk17_tk5_poolside",
+  "series": "Tekken Series",
+  "bgm_id": "bgm_tk17_tk5_poolside"
+ },
+ {
+  "name": "Snow Castle",
+  "id": "tk18_tk5dr_snowcastle",
+  "series": "Tekken Series",
+  "bgm_id": "bgm_tk18_tk5dr_snowcastle"
+ },
+ {
+  "name": "Into Nirvana",
+  "id": "tk19_tk5dr_into_nirvana",
+  "series": "Tekken Series",
+  "bgm_id": "bgm_tk19_tk5dr_into_nirvana"
+ },
+ {
+  "name": "RESURRECTION",
+  "id": "tk20_tk5dr_resurrection",
+  "series": "Tekken Series",
+  "bgm_id": "bgm_tk20_tk5dr_resurrection"
+ },
+ {
+  "name": "Ethno Evening",
+  "id": "tk21_tk6_ethno_evening",
+  "series": "Tekken Series",
+  "bgm_id": "bgm_tk21_tk6_ethno_evening"
+ },
+ {
+  "name": "YUKI",
+  "id": "tk22_tk6_yuki",
+  "series": "Tekken Series",
+  "bgm_id": "bgm_tk22_tk6_yuki"
+ },
+ {
+  "name": "Only One Fight",
+  "id": "tk23_tk6_only_one_fight",
+  "series": "Tekken Series",
+  "bgm_id": "bgm_tk23_tk6_only_one_fight"
+ },
+ {
+  "name": "Dist Thins Out",
+  "id": "tk24_tk6_dist_thins_out",
+  "series": "Tekken Series",
+  "bgm_id": "bgm_tk24_tk6_dist_thins_out"
+ },
+ {
+  "name": "Karma",
+  "id": "tk25_tk6br_karma",
+  "series": "Tekken Series",
+  "bgm_id": "bgm_tk25_tk6br_karma"
+ },
+ {
+  "name": "Arisa",
+  "id": "tk26_tk6br_arisa",
+  "series": "Tekken Series",
+  "bgm_id": "bgm_tk26_tk6br_arisa"
+ },
+ {
+  "name": "Yodeling in Meadow Hill",
+  "id": "tk27_tk6br_yodeling_in_meadowhill",
+  "series": "Tekken Series",
+  "bgm_id": "bgm_tk27_tk6br_yodeling_in_meadowhill"
+ },
+ {
+  "name": "Abyss of Time",
+  "id": "tk28_tt2_abyss_of_time",
+  "series": "Tekken Series",
+  "bgm_id": "bgm_tk28_tt2_abyss_of_time"
+ },
+ {
+  "name": "Plucking Tulips",
+  "id": "tk29_tt2_plucking_tulips",
+  "series": "Tekken Series",
+  "bgm_id": "bgm_tk29_tt2_plucking_tulips"
+ },
+ {
+  "name": "New World Order",
+  "id": "tk31_tkrv_new_world_order",
+  "series": "Tekken Series",
+  "bgm_id": "bgm_tk31_tkrv_new_world_order"
+ },
+ {
+  "name": "No Easy Way Out",
+  "id": "tk32_tkrv_no_easy_way_out",
+  "series": "Tekken Series",
+  "bgm_id": "bgm_tk32_tkrv_no_easy_way_out"
+ },
+ {
+  "name": "Heat Haze Shadow",
+  "id": "tk33_tk7_heat_haze_shadow",
+  "series": "Tekken Series",
+  "bgm_id": "bgm_tk33_tk7_heat_haze_shadow"
+ },
+ {
+  "name": "Dojo (Japanese-Style Mix)",
+  "id": "tk34_tk7_dojo",
+  "series": "Tekken Series",
+  "bgm_id": "bgm_tk34_tk7_dojo"
+ },
+ {
+  "name": "DUOMO DI SIRIO 1st",
+  "id": "tk35_tk7_duomo_di_sirio",
+  "series": "Tekken Series",
+  "bgm_id": "bgm_tk35_tk7_duomo_di_sirio"
+ },
+ {
+  "name": "Moonsiders 1st",
+  "id": "tk36_tk7_moonsiders",
+  "series": "Tekken Series",
+  "bgm_id": "bgm_tk36_tk7_moonsiders"
+ },
+ {
+  "name": "Desperate Struggle",
+  "id": "tk37_tk7_desperate_struggle",
+  "series": "Tekken Series",
+  "bgm_id": "bgm_tk37_tk7_desperate_struggle"
+ },
+ {
+  "name": "Aloneness",
+  "id": "tk38_tk7_aloneness",
+  "series": "Tekken Series",
+  "bgm_id": "bgm_tk38_tk7_aloneness"
+ },
+ {
+  "name": "Kazuya Mishima, Devil Kazuya",
+  "id": "tk39_tk2_kazuya_mishima_devil_kazuya",
+  "series": "Tekken Series",
+  "bgm_id": "bgm_tk39_tk2_kazuya_mishima_devil_kazuya"
+ },
+ {
+  "name": "Shrouding Dark Cloud",
+  "id": "kh03_kh15_shroudingdarkcloud",
+  "series": "Kingdom Hearts Series",
+  "bgm_id": "bgm_kh03_kh15_shroudingdarkcloud"
+ },
+ {
+  "name": "Night of Fate",
+  "id": "kh01_kh15_nightoffate",
+  "series": "Kingdom Hearts Series",
+  "bgm_id": "bgm_kh01_kh15_nightoffate"
+ },
+ {
+  "name": "Destiny’s Force",
+  "id": "kh02_kh15_destinysforce",
+  "series": "Kingdom Hearts Series",
+  "bgm_id": "bgm_kh02_kh15_destinysforce"
+ },
+ {
+  "name": "Hand in Hand",
+  "id": "kh04_kh15_handinhand",
+  "series": "Kingdom Hearts Series",
+  "bgm_id": "bgm_kh04_kh15_handinhand"
+ },
+ {
+  "name": "Blast Away",
+  "id": "kh05_kh15_blastaway_gummiship2",
+  "series": "Kingdom Hearts Series",
+  "bgm_id": "bgm_kh05_kh15_blastaway_gummiship2"
+ },
+ {
+  "name": "Hollow Bastion",
+  "id": "kh06_kh15_hollowbastion",
+  "series": "Kingdom Hearts Series",
+  "bgm_id": "bgm_kh06_kh15_hollowbastion"
+ },
+ {
+  "name": "Scherzo Di Notte",
+  "id": "kh07_kh15_scherzodinotte",
+  "series": "Kingdom Hearts Series",
+  "bgm_id": "bgm_kh07_kh15_scherzodinotte"
+ },
+ {
+  "name": "Fragments of Sorrow",
+  "id": "kh08_kh25_fragmentsofsorrow",
+  "series": "Kingdom Hearts Series",
+  "bgm_id": "bgm_kh08_kh25_fragmentsofsorrow"
+ },
+ {
+  "name": "Destati",
+  "id": "kh09_kh1_destati",
+  "series": "Kingdom Hearts Series",
+  "bgm_id": "bgm_kh09_kh1_destati"
+ },
+ {
+  "name": "Dearly Beloved -Swing Version-",
+  "id": "kh10_khmm_dearlybeloved",
+  "series": "Kingdom Hearts Series",
+  "bgm_id": "bgm_kh10_khmm_dearlybeloved"
+ },
+ {
+  "name": "Mii",
+  "id": "z00_f_miifighter",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_z00_f_miifighter"
+ },
+ {
+  "name": "Mario",
+  "id": "z01_f_mario",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_z01_f_mario"
+ },
+ {
+  "name": "Donkey Kong",
+  "id": "z02_f_donkey",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_z02_f_donkey"
+ },
+ {
+  "name": "Link",
+  "id": "z03_f_link",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_z03_f_link"
+ },
+ {
+  "name": "Samus",
+  "id": "z04_f_samus",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_z04_f_samus"
+ },
+ {
+  "name": "Yoshi",
+  "id": "z05_f_yoshi",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_z05_f_yoshi"
+ },
+ {
+  "name": "Kirby",
+  "id": "z06_f_kirby",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_z06_f_kirby"
+ },
+ {
+  "name": "Fox / Wolf",
+  "id": "z07_f_fox",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_z07_f_fox"
+ },
+ {
+  "name": "Pikachu",
+  "id": "z08_f_pikachu",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_z08_f_pikachu"
+ },
+ {
+  "name": "Luigi",
+  "id": "z09_f_luigi",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_z09_f_luigi"
+ },
+ {
+  "name": "Captain Falcon",
+  "id": "z10_f_captain",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_z10_f_captain"
+ },
+ {
+  "name": "Ness",
+  "id": "z11_f_ness",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_z11_f_ness"
+ },
+ {
+  "name": "Bowser",
+  "id": "z12_f_koopa",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_z12_f_koopa"
+ },
+ {
+  "name": "Peach / Daisy",
+  "id": "z13_f_peach",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_z13_f_peach"
+ },
+ {
+  "name": "Zelda",
+  "id": "z14_f_zelda",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_z14_f_zelda"
+ },
+ {
+  "name": "Sheik",
+  "id": "z15_f_sheik",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_z15_f_sheik"
+ },
+ {
+  "name": "Ice Climbers",
+  "id": "z16_f_iceclimber",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_z16_f_iceclimber"
+ },
+ {
+  "name": "Marth",
+  "id": "z17_f_marth",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_z17_f_marth"
+ },
+ {
+  "name": "Mr. Game & Watch",
+  "id": "z18_f_gamewatch",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_z18_f_gamewatch"
+ },
+ {
+  "name": "Falco",
+  "id": "z19_f_falco",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_z19_f_falco"
+ },
+ {
+  "name": "Ganondorf",
+  "id": "z20_f_ganon",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_z20_f_ganon"
+ },
+ {
+  "name": "Wario",
+  "id": "z21_f_wario",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_z21_f_wario"
+ },
+ {
+  "name": "Meta Knight",
+  "id": "z22_f_metaknight",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_z22_f_metaknight"
+ },
+ {
+  "name": "Pit",
+  "id": "z23_f_pit",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_z23_f_pit"
+ },
+ {
+  "name": "Zero Suit Samus",
+  "id": "z24_f_zerosamus",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_z24_f_zerosamus"
+ },
+ {
+  "name": "Olimar / Alph",
+  "id": "z25_f_pikmin",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_z25_f_pikmin"
+ },
+ {
+  "name": "Diddy Kong",
+  "id": "z27_f_diddy",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_z27_f_diddy"
+ },
+ {
+  "name": "Pokémon Trainer",
+  "id": "z28_f_ptrainer",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_z28_f_ptrainer"
+ },
+ {
+  "name": "King Dedede",
+  "id": "z32_f_dedede",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_z32_f_dedede"
+ },
+ {
+  "name": "Lucario",
+  "id": "z33_f_lucario",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_z33_f_lucario"
+ },
+ {
+  "name": "Ike",
+  "id": "z34_f_ike",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_z34_f_ike"
+ },
+ {
+  "name": "R.O.B",
+  "id": "z35_f_robot",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_z35_f_robot"
+ },
+ {
+  "name": "Jigglypuff",
+  "id": "z37_f_purin",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_z37_f_purin"
+ },
+ {
+  "name": "Toon Link",
+  "id": "z41_f_toonlink",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_z41_f_toonlink"
+ },
+ {
+  "name": "Snake",
+  "id": "z46_f_snake",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_z46_f_snake"
+ },
+ {
+  "name": "Sonic",
+  "id": "z47_f_sonic",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_z47_f_sonic"
+ },
+ {
+  "name": "Charizard",
+  "id": "z59_f_lizardon",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_z59_f_lizardon"
+ },
+ {
+  "name": "Dr. Mario",
+  "id": "z60_f_mariod",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_z60_f_mariod"
+ },
+ {
+  "name": "Lucina / Chrom",
+  "id": "z61_f_lucina",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_z61_f_lucina"
+ },
+ {
+  "name": "Dark Pit",
+  "id": "z62_f_pitb",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_z62_f_pitb"
+ },
+ {
+  "name": "Rosalina",
+  "id": "z63_f_rosetta",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_z63_f_rosetta"
+ },
+ {
+  "name": "Wii Fit Trainer",
+  "id": "z64_f_wiifit",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_z64_f_wiifit"
+ },
+ {
+  "name": "Little Mac",
+  "id": "z65_f_littlemac",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_z65_f_littlemac"
+ },
+ {
+  "name": "Villager",
+  "id": "z66_f_murabito",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_z66_f_murabito"
+ },
+ {
+  "name": "Palutena",
+  "id": "z67_f_palutena",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_z67_f_palutena"
+ },
+ {
+  "name": "Robin",
+  "id": "z68_f_reflet",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_z68_f_reflet"
+ },
+ {
+  "name": "Duck Hunt",
+  "id": "z69_f_duckhunt",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_z69_f_duckhunt"
+ },
+ {
+  "name": "Bowser Jr.",
+  "id": "z70_f_koopajr",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_z70_f_koopajr"
+ },
+ {
+  "name": "Shulk",
+  "id": "z71_f_shulk",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_z71_f_shulk"
+ },
+ {
+  "name": "Greninja",
+  "id": "z72_f_gekkouga",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_z72_f_gekkouga"
+ },
+ {
+  "name": "Pac-Man",
+  "id": "z73_f_pacman",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_z73_f_pacman"
+ },
+ {
+  "name": "Mega Man",
+  "id": "z74_f_rockman",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_z74_f_rockman"
+ },
+ {
+  "name": "Mewtwo",
+  "id": "z80_f_mewtwo",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_z80_f_mewtwo"
+ },
+ {
+  "name": "Ryu / Ken",
+  "id": "z81_f_ryu",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_z81_f_ryu"
+ },
+ {
+  "name": "Lucas",
+  "id": "z82_f_lucas",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_z82_f_lucas"
+ },
+ {
+  "name": "Roy",
+  "id": "z83_f_roy",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_z83_f_roy"
+ },
+ {
+  "name": "Cloud",
+  "id": "z85_f_cloud",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_z85_f_cloud"
+ },
+ {
+  "name": "Bayonetta",
+  "id": "z86_f_bayonetta",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_z86_f_bayonetta"
+ },
+ {
+  "name": "Corrin",
+  "id": "z87_f_kamui",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_z87_f_kamui"
+ },
+ {
+  "name": "Pichu",
+  "id": "z88_f_pichu",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_z88_f_pichu"
+ },
+ {
+  "name": "Young Link",
+  "id": "z89_f_younglink",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_z89_f_younglink"
+ },
+ {
+  "name": "Isabelle",
+  "id": "z90_f_shizue",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_z90_f_shizue"
+ },
+ {
+  "name": "Incineroar",
+  "id": "z91_f_gaogaen",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_z91_f_gaogaen"
+ },
+ {
+  "name": "Piranha Plant",
+  "id": "z92_f_packun",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_z92_f_packun"
+ },
+ {
+  "name": "Inkling",
+  "id": "z93_f_inkling",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_z93_f_inkling"
+ },
+ {
+  "name": "Ridley / Dark Samus",
+  "id": "z94_f_ridley",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_z94_f_ridley"
+ },
+ {
+  "name": "King K. Rool",
+  "id": "z95_f_krool",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_z95_f_krool"
+ },
+ {
+  "name": "Simon / Richter",
+  "id": "z96_f_simon",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_z96_f_simon"
+ },
+ {
+  "name": "Joker",
+  "id": "z97a_f_jack_p5",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_z97a_f_jack_p5"
+ },
+ {
+  "name": "Hero",
+  "id": "z98_f_brave",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_z98_f_brave"
+ },
+ {
+  "name": "Banjo & Kazooie",
+  "id": "z99_f_buddy",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_z99_f_buddy"
+ },
+ {
+  "name": "Terry",
+  "id": "zz01_f_dolly",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_zz01_f_dolly"
+ },
+ {
+  "name": "Byleth",
+  "id": "zz02_f_master",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_zz02_f_master"
+ },
+ {
+  "name": "Min Min",
+  "id": "zz03_f_tantan",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_zz03_f_tantan"
+ },
+ {
+  "name": "Steve",
+  "id": "zz04_f_pickel",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_zz04_f_pickel"
+ },
+ {
+  "name": "Sephiroth",
+  "id": "zz05_f_edge",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_zz05_f_edge"
+ },
+ {
+  "name": "Pyra / Mythra",
+  "id": "zz06_f_element",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_zz06_f_element"
+ },
+ {
+  "name": "Kazuya",
+  "id": "zz07_f_demon",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_zz07_f_demon"
+ },
+ {
+  "name": "Sora",
+  "id": "zz08_f_trail",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_zz08_f_trail"
+ },
+ {
+  "name": "Ink Me Up (Squid Sisters Assist Trophy version)",
+  "id": "assist_sp_kimiironisomete",
+  "series": "Splatoon Series",
+  "bgm_id": "bgm_assist_sp_kimiironisomete"
+ },
+ {
+  "name": "Calamari Inkantation (Squid Sisters Assist Trophy version)",
+  "id": "assist_sp_shiokarabushi",
+  "series": "Splatoon Series",
+  "bgm_id": "bgm_assist_sp_shiokarabushi"
+ },
+ {
+  "name": "Golden Hammer theme",
+  "id": "seq_item_goldenhammer",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_seq_item_goldenhammer"
+ },
+ {
+  "name": "Hammer theme",
+  "id": "seq_item_hammer",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_seq_item_hammer"
+ },
+ {
+  "name": "Super Star theme",
+  "id": "seq_item_superstar",
+  "series": "Super Smash Bros. Series",
+  "bgm_id": "bgm_seq_item_superstar"
+ }
+]
