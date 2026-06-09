@@ -29,7 +29,7 @@ specific audio format the Switch will accept. **YouTube to Smash Ultimate** wrap
 that whole pipeline behind one window: paste a link, search for the song you want
 to replace by name, set a loop, and click **Convert**. Out comes a ready-to-use
 `.nus3audio` file for the [ARCropolis](https://github.com/Raytwo/ARCropolis) mod
-loader — optionally uploaded to your Switch over Wi-Fi.
+loader — optionally uploaded to your Switch over Wi-Fi or to your SD Card.
 
 ## Features
 
